@@ -12,8 +12,8 @@
 
 ## Próxima clase | Cada semana una nueva
 
-### 📚 Anuncio primera clase hoy Miércoles 4 a las 20:00 (hora España) en directo desde [Twitch](https://twitch.tv/mouredev)
-#### ⏰ Horario: Tienes un [evento en Discord](https://discord.gg/mouredev?event=1059957411605135400) con la hora por país
+### 📚 Primera Clase: Miércoles 11 a las 20:00 (hora España) en directo desde [Twitch](https://twitch.tv/mouredev)
+#### ⏰ Horario: Tienes un [evento en Discord](https://discord.gg/mouredev?event=1060292884416434237) con la hora por país
 
 ## Clases en vídeo
 
