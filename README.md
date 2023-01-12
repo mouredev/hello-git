@@ -12,16 +12,29 @@
 
 ## Próxima clase | Cada semana una nueva
 
-### 📚 Primera Clase: Miércoles 11 a las 20:00 (hora España) en directo desde [Twitch](https://twitch.tv/mouredev)
-#### ⏰ Horario: Tienes un [evento en Discord](https://discord.gg/mouredev?event=1060292884416434237) con la hora por país
+### 📚 Clase 2: Miércoles 18 a las 20:00 (hora España) en directo desde [Twitch](https://twitch.tv/mouredev)
+#### ⏰ Horario: Tienes un [evento en Discord](https://discord.gg/mouredev?event=1063062694988615800) con la hora por país
+#### 🎁 Sorteo en el directo gracias a GitHub de 4 cupones descuento de 50$ para su tienda
 
 ## Clases en vídeo
 
-*Próximamente...*
+#### [Clase 1: 11/01/2023 (A partir del minuto 20)](https://www.twitch.tv/videos/1704382580)
+* Introducción
+* ¿Qué es Git?
+* Historia
+* Instalación
+* Comandos básicos de la terminal: ls, pwd, cd, mkdir, touch
+* Configuración de Git
+* Conceptos Repositorio, Rama, Local, Stage, Snapshot (fotografía)
+* Comandos de Git: init, status, add, commit, log, checkout, reset, diff, alias
+* Cómo ignorar archivos con .gitignore
+
+🗓️ [Siguiente clase](https://discord.gg/mouredev?event=1063062694988615800)
 
 ## Enlaces de interés
 
-*Próximamente...*
+* Web oficial (Documentación, descarga...): [https://git-scm.com](https://git-scm.com)
+* Libro de Git en Español (Gratis): [https://git-scm.com/book/es/v2](https://git-scm.com/book/es/v2)
 
 ## Información importante
 
