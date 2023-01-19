@@ -10,11 +10,10 @@
 ### Proyecto realizado durante emisiones en directo desde [Twitch](https://twitch.tv/mouredev)
 > ##### Si consideras útil el curso, apóyalo haciendo "★ Star" en el repositorio. ¡Gracias!
 
-## Próxima clase | Cada semana una nueva
+## Próxima clase | ¡Comenzamos con la parte de GitHub!
 
-### 📚 Clase 2: Miércoles 18 a las 20:00 (hora España) en directo desde [Twitch](https://twitch.tv/mouredev)
-#### ⏰ Horario: Tienes un [evento en Discord](https://discord.gg/mouredev?event=1063062694988615800) con la hora por país
-#### 🎁 Sorteo en el directo gracias a GitHub de 4 cupones descuento de 50$ para su tienda
+### 📚 Clase 3: Miércoles 18 a las 20:00 (hora España) en directo desde [Twitch](https://twitch.tv/mouredev)
+#### ⏰ Horario: Tienes un [evento en Discord](https://discord.gg/mouredev?event=1065544295324594187) con la hora por país
 
 ## Clases en vídeo
 
@@ -29,12 +28,19 @@
 * Comandos de Git: init, status, add, commit, log, checkout, reset, diff, alias
 * Cómo ignorar archivos con .gitignore
 
-🗓️ [Siguiente clase](https://discord.gg/mouredev?event=1063062694988615800)
+#### [Clase 2: 18/01/2023 (A partir del minuto 20)](https://www.twitch.tv/videos/1711260603)
+* Comandos de Git: git reset --hard, reflog, revert
+* Tags: git tag, git checkout tags/tag
+* Trabajar con ramas: git branch, switch, merge
+* Trabajar con reserva de código: git stash
+
+🗓️ **[Siguiente clase](https://discord.gg/mouredev?event=1065544295324594187) (¡Comenzamos con la parte de GitHub!)**
 
 ## Enlaces de interés
 
 * Web oficial (Documentación, descarga...): [https://git-scm.com](https://git-scm.com)
 * Libro de Git en Español (Gratis): [https://git-scm.com/book/es/v2](https://git-scm.com/book/es/v2)
+* ¿Con qué herramientas estoy trabajando?: [iTerm](https://iterm2.com/), [VSCode](https://code.visualstudio.com/), [Miro](https://miro.com/)
 
 ## Información importante
 
