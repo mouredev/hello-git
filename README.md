@@ -10,14 +10,14 @@
 ### Proyecto realizado durante emisiones en directo desde [Twitch](https://twitch.tv/mouredev)
 > ##### Si consideras útil el curso, apóyalo haciendo "★ Star" en el repositorio. ¡Gracias!
 
-## Próxima clase | ¡Comenzamos con la parte de GitHub!
+## Próxima clase
 
-### 📚 Clase 3: Miércoles 18 a las 20:00 (hora España) en directo desde [Twitch](https://twitch.tv/mouredev)
-#### ⏰ Horario: Tienes un [evento en Discord](https://discord.gg/mouredev?event=1065544295324594187) con la hora por país
+### 📚 Clase 4: Miércoles 8 a las 20:00 (hora España) en directo desde [Twitch](https://twitch.tv/mouredev)
+#### ⏰ Horario: Tienes un [evento en Discord](https://discord.gg/mouredev?event=1068152669652402186) con la hora por país
 
 ## Clases en vídeo
 
-#### [Clase 1: 11/01/2023 (A partir del minuto 20)](https://www.twitch.tv/videos/1704382580)
+#### [Clase 1: 11/01/2023](https://www.twitch.tv/videos/1704382580?t=00h20m00s)
 * Introducción
 * ¿Qué es Git?
 * Historia
@@ -28,19 +28,29 @@
 * Comandos de Git: init, status, add, commit, log, checkout, reset, diff, alias
 * Cómo ignorar archivos con .gitignore
 
-#### [Clase 2: 18/01/2023 (A partir del minuto 20)](https://www.twitch.tv/videos/1711260603)
+#### [Clase 2: 18/01/2023](https://www.twitch.tv/videos/1711260603?t=00h20m00s)
 * Comandos de Git: git reset --hard, reflog, revert
 * Tags: git tag, git checkout tags/tag
 * Trabajar con ramas: git branch, switch, merge
 * Trabajar con reserva de código: git stash
 
-🗓️ **[Siguiente clase](https://discord.gg/mouredev?event=1065544295324594187) (¡Comenzamos con la parte de GitHub!)**
+#### [Clase 3: 25/01/2023](https://www.twitch.tv/videos/1718205579?t=00h15m00s)
+* Comandos de Git: git remote, push, fetch, pull, clone
+* Creación de una página personal en GitHub
+* Configuración SSH GitHub
+* Colaboración en GitHub: fork, pull request
+
+🗓️ **[Siguiente clase](https://discord.gg/mouredev?event=1068152669652402186)**
 
 ## Enlaces de interés
 
-* Web oficial (Documentación, descarga...): [https://git-scm.com](https://git-scm.com)
-* Libro de Git en Español (Gratis): [https://git-scm.com/book/es/v2](https://git-scm.com/book/es/v2)
+* [Web](https://git-scm.com) oficial Git (Documentación, descarga...)
+* [Libro]() de Git en Español (Gratis)
 * ¿Con qué herramientas estoy trabajando?: [iTerm](https://iterm2.com/), [VSCode](https://code.visualstudio.com/), [Miro](https://miro.com/)
+* [Guía](https://training.github.com/downloads/es_ES/github-git-cheat-sheet/) con comandos de Git más utilizados
+* [Web](https://github.com) GitHub
+* [Documentación](https://docs.github.com/es) GitHub
+* [Configuración](https://docs.github.com/es/authentication/connecting-to-github-with-ssh/about-ssh) SSH
 
 ## Información importante
 
