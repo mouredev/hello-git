@@ -42,6 +42,9 @@
 
 🗓️ **[Siguiente clase](https://discord.gg/mouredev?event=1068152669652402186)**
 
+### Ejercicio:
+Si estás participando en el curso y ya has visto la clase 3, practica un flujo completo de trabajo en Git y GitHub añadiendo tu nombre de usuario en el documento [hello.md](./hello.md).
+
 ## Enlaces de interés
 
 * [Web](https://git-scm.com) oficial Git (Documentación, descarga...)
