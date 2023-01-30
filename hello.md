@@ -36,4 +36,15 @@
 * negruspace
 * omarBerry
 * Intuizion
+* Qv1ko
+* dmallo
+* Anaid93
+* jpirulo
+* dduran76
+* domingolf
+* FranVazquezG
+* monleon96
+* javiMerida
+* RubenFortDev
+* franpua
 * Jocareher
