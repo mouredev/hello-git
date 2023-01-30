@@ -40,3 +40,4 @@
 * dmallo
 * Anaid93
 * jpirulo
+* dduran76
