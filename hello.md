@@ -47,3 +47,4 @@
 * javiMerida
 * RubenFortDev
 * franpua
+* Jocareher
