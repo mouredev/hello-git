@@ -46,3 +46,4 @@
 * monleon96
 * javiMerida
 * RubenFortDev
+* franpua
