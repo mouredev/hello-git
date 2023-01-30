@@ -48,4 +48,6 @@
 * RubenFortDev
 * franpua
 * Jocareher
+* camammoli
+* horrezno
 * AlbertoMozo
