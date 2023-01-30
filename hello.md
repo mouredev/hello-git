@@ -34,4 +34,6 @@
 * suarezveirano
 * DiegoAM97
 * negruspace
+* omarBerry
+* Intuizion
 * Qv1ko
