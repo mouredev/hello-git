@@ -35,3 +35,4 @@
 * DiegoAM97
 * negruspace
 * omarBerry
+* Intuizion
