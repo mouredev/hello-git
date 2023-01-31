@@ -50,4 +50,12 @@
 * Jocareher
 * camammoli
 * horrezno
-* albertomozodev
+
+
+* kike-paez
+* Deisy08
+* jander96
+* CristhianC21
+* fmozo2
+* germangrisoso
+
