@@ -49,5 +49,6 @@
 * franpua
 * Jocareher
 * camammoli
-* horrezn
+* horrezno
 * kike-paez
+* Deisy08
