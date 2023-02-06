@@ -69,3 +69,4 @@
 * franciscogoba
 * HumbleG0d
 * mariovelascodev
+* joaquinpolom
