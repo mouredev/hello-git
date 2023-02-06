@@ -65,3 +65,4 @@
 * Aldroide
 * Jack-Strafer
 * albertomozo
+* franciscogoba
