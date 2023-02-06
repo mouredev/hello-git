@@ -56,4 +56,6 @@
 * CristhianC21
 * fmozo2
 * germangrisoso
+* Ericriera
+* NicolasEstebanCuervo
 * pablogapez
