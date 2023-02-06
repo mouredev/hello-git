@@ -68,3 +68,4 @@
 * albertomozo
 * franciscogoba
 * HumbleG0d
+* mariovelascodev
