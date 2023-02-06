@@ -56,4 +56,12 @@
 * CristhianC21
 * fmozo2
 * germangrisoso
+* Ericriera
+* NicolasEstebanCuervo
+* pablogapez
+* Bunker8
+* Momboz12
+* Alvarogtz
+* Aldroide
+* Jack-Strafer
 * albertomozo
