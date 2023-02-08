@@ -73,4 +73,9 @@
 * cepedajd
 * robertofernangar
 * Cervereta 
+* Tecfer
+* sarismejiasanchez
+* crpegonz
+* fac77
+* ElHereje
 * LokiSchiffer
