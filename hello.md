@@ -70,4 +70,7 @@
 * HumbleG0d
 * mariovelascodev
 * joaquinpolom
+* cepedajd
+* robertofernangar
+* Cervereta 
 * Tecfer
