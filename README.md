@@ -16,6 +16,8 @@
 
 ## Clases en vídeo
 
+ℹ️ Tienes un canal llamado **"git-github"** en el servidor de [Discord](https://mouredev.com/discord) de la comunidad para preguntar, compartir y ayudar.
+
 #### [Clase 1: 11/01/2023](https://www.twitch.tv/videos/1704382580?t=00h20m00s)
 * Introducción
 * ¿Qué es Git?
@@ -48,11 +50,10 @@
 * GitHub Pages
 * GitHub Actions
 
-ℹ️ **El curso ha finalizado. Muy pronto tendrás la edición completa en [YouTube](https://www.youtube.com/@mouredev).**
+🔔 **El curso ha finalizado. Muy pronto tendrás la edición completa en [YouTube](https://www.youtube.com/@mouredev).**
 
-## Práctica
-
-[hello.md](./hello.md)
+> ### Ejercicio:
+> Si estás participando en el curso y ya has visto la clase 3, practica un flujo completo de trabajo en Git y GitHub añadiendo tu nombre de usuario en el documento [hello.md](./hello.md).
 
 ## Enlaces de interés
 
