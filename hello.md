@@ -79,4 +79,11 @@
 * fac77
 * ElHereje
 * LokiSchiffer
+* danielaescandar
+* Kasteyo17
+* LizzColDev
+* gdawso
+* ZentoBernabeuPerez
+* lufranbeco
+* OsRo
 *Andresmatta90
