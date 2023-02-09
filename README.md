@@ -12,8 +12,7 @@
 
 ## Próxima clase
 
-### 📚 Clase 4: Miércoles 8 a las 20:00 (hora España) en directo desde [Twitch](https://twitch.tv/mouredev)
-#### ⏰ Horario: Tienes un [evento en Discord](https://discord.gg/mouredev?event=1068152669652402186) con la hora por país
+#### El curso ha finalizado. Muy pronto su edición completa en [YouTube](https://www.youtube.com/@mouredev).
 
 ## Clases en vídeo
 
@@ -40,10 +39,20 @@
 * Configuración SSH GitHub
 * Colaboración en GitHub: fork, pull request
 
-🗓️ **[Siguiente clase](https://discord.gg/mouredev?event=1068152669652402186)**
+#### [Clase 4: 08/02/2023](https://www.twitch.tv/videos/1732210534?t=00h20m00s)
+* Colaboración en GitHub: resolución de conflictos en pull request y sincronización de repositorios
+* Markdown
+* Herramientas gráficas Git & GitHub: GitHub Desktop, GitKraken, Sourcetree, Fork...
+* Gitflow y GitHub flow
+* Comandos de Git: cherry-pick, rebase
+* GitHub Pages
+* GitHub Actions
 
-### Ejercicio:
-Si estás participando en el curso y ya has visto la clase 3, practica un flujo completo de trabajo en Git y GitHub añadiendo tu nombre de usuario en el documento [hello.md](./hello.md).
+ℹ️ **El curso ha finalizado. Muy pronto tendrás la edición completa en [YouTube](https://www.youtube.com/@mouredev).**
+
+## Práctica
+
+[hello.md](./hello.md)
 
 ## Enlaces de interés
 
@@ -54,6 +63,10 @@ Si estás participando en el curso y ya has visto la clase 3, practica un flujo 
 * [Web](https://github.com) GitHub
 * [Documentación](https://docs.github.com/es) GitHub
 * [Configuración](https://docs.github.com/es/authentication/connecting-to-github-with-ssh/about-ssh) SSH
+* [Markdown](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+* [Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
+* [GitHub Pages](https://pages.github.com/)
+* [GitHub Actions](https://pages.github.com/)
 
 ## Información importante
 
