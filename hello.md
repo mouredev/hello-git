@@ -77,4 +77,7 @@
 * sarismejiasanchez
 * crpegonz
 * fac77
+* ElHereje
+* LokiSchiffer
+* danielaescandar
 * Kasteyo17
