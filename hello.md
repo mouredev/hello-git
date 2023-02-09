@@ -85,3 +85,4 @@
 * gdawso
 * ZentoBernabeuPerez
 * lufranbeco
+* OsRo
