@@ -89,3 +89,5 @@
 -   Andresmatta90
 -   skyalvaro
 -   matiasgimenezdev
+-   claraalabert
+-   
