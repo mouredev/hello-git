@@ -90,3 +90,4 @@
 -   skyalvaro
 -   matiasgimenezdev
 -   rorrostieta
+-   claraalabert
