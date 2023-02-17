@@ -99,3 +99,4 @@
 - jevmydev
 - luiscr4k
 - JoanG1
+- fidelysla
