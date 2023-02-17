@@ -92,4 +92,9 @@
 - rorrostieta
 - claraalabert
 - AndresMartinez
+- Tiziano27
+- CarlosGomezFernandez
+- rogmovi
+- jumahl
+- jevmydev
 - luiscr4k
