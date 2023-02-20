@@ -116,4 +116,3 @@
 - josefusil
 - Humauaca
 - RomanLupiano
-- Kopa-H
