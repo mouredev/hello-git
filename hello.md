@@ -105,3 +105,4 @@
 - fernando-feijoo
 - Kfassolb
 - Guilleex
+- Daffier
