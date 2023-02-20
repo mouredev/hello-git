@@ -104,4 +104,13 @@
 - DanielaEstrada
 - fernando-feijoo
 - Kfassolb
+- Guilleex
+- Daffier
+- M1L0J05
+- AnaMJP
+- albzamor
+- MolinaL1
+- Itosta
+- silfoo
+- DanyWose
 - josefusil
