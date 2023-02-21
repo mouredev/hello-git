@@ -122,3 +122,4 @@
 - Brudam7
 - neBelorz
 - Foxnta
+- jurios.ps
