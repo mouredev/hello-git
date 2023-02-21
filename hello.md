@@ -2,7 +2,7 @@
 >
 > _Así practicarás un flujo completo de trabajo en Git y GitHub_
 
-- mouredev
+- mouredeve
 - braismoure
 - agustinlopezdev
 - geroschmidt
@@ -124,3 +124,4 @@
 - Foxnta
 - jurios.ps
 - fabianbrs
+- javiwimi
