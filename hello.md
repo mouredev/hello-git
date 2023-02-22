@@ -124,5 +124,14 @@
 - Foxnta
 - jurios.ps
 - fabianbrs
-- mateoAlvarez.js
-
+- nuriia99
+- SanguinoCastro
+- lothardnc
+- NGM1975
+- Juan18506
+- Dihue
+- bchowp
+- alexa4497
+- ShadowOst
+- Felicksdev
+- Mateo-Alvarez1
