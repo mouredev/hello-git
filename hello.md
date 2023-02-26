@@ -6,6 +6,7 @@
 - braismoure
 - agustinlopezdev
 - geroschmidt
+- jhoneiro
 - javicb
 - erickvr2k
 - Alexis033
