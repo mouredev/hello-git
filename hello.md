@@ -139,4 +139,4 @@
 - Cesar-Vilca
 - Pankri
 - TheFabi8A
-- Juangarciatn
+- [Juangarciatn](https://github.com/juangarciatn)
