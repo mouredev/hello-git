@@ -5,7 +5,7 @@
 
 ## Curso completo de 5 horas y 45 lecciones para aprender a trabajar con Git & GitHub desde cero y para principiantes
 
-![](./Images/header.jpg)
+![](./Media/header.jpg)
 
 ### Proyecto realizado durante emisiones en directo desde [Twitch](https://twitch.tv/mouredev)
 > ##### Si consideras útil el curso, apóyalo haciendo "★ Star" en el repositorio. ¡Gracias!
@@ -98,6 +98,9 @@ Y mucho más...
 * [GitHub Pages](https://pages.github.com/)
 * [GitHub Actions](https://pages.github.com/)
 * Practica con los [retos de programación](https://retosdeprogramacion.com) de la comunidad
+* Y por último, aquí tienes un Gif que he creado con los 30 comandos más utilizados de Git
+
+![](./Media/terminal.gif)
 
 #### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
 
