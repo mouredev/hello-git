@@ -168,3 +168,4 @@
 - xavierbastidas
 - asgoDev
 - FSDevCristian
+- sonicgh
