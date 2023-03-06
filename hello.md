@@ -6,7 +6,6 @@
 - braismoure
 - agustinlopezdev
 - geroschmidt
-- jhoneiro
 - javicb
 - erickvr2k
 - Alexis033
@@ -140,3 +139,4 @@
 - Cesar-Vilca
 - Pankri
 - TheFabi8A
+- jhoneiro
