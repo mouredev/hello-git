@@ -171,3 +171,4 @@
 - sonicgh
 - SrTarzan
 - crbelen28
+- duartemv00
