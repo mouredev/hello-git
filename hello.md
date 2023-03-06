@@ -1,7 +1,6 @@
 > ### Si estás participando en el curso. Haz un fork del proyecto y añade tu usuario de GitHub en una nueva línea.
 >
 > _Así practicarás un flujo completo de trabajo en Git y GitHub_
-
 - mouredev
 - braismoure
 - agustinlopezdev
@@ -139,4 +138,57 @@
 - Cesar-Vilca
 - Pankri
 - TheFabi8A
+- edwcode18
+- Akihiro93
+- LuisPati11
+- Kchosco
+- Misa-axl01
+- bernabebarroso
+- devnandoo
+- PatriGracia
+- robertjota
+- mnadal76
+- Edgar J.
+- EmiSC0607
+- icplana
+- rookie1983
+- andreamartin27
+- DiegoUribeNavarro
+- manuelfdel
+- NataVilla
+- feliRios
+- Networkvalencia
+- floor096
+- E-delSol
+- borisAngulo
+- ThePalominoMtz
+- jotaCode
+- GiBsyGG
+- xavierbastidas
+- asgoDev
+- FSDevCristian
+- sonicgh
+- SrTarzan
+- crbelen28
+- duartemv00
+- jhoneiro
+- SergioAMT
+- FedericoBarberon
+- Rob-Gon
+- codertrad
+- DiegoCostas97
+- xiscobelenguer
+- marce-msv
+- Juangarciatn
+- yaleika
+- tut1n0
+- PwrOverwhelming
+- javsjimenez
+- Snipsx17
+- Aleboscrak
+- Beloxp
+- JhonMG07
+- Oscar-Cuttz
+- A56dev
+- carloscrcl
 - MrStoneDev
