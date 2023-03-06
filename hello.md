@@ -139,4 +139,18 @@
 - Cesar-Vilca
 - Pankri
 - TheFabi8A
+- edwcode18
+- Akihiro93
+- LuisPati11
+- Kchosco
+- Misa-axl01
+- bernabebarroso
+- devnandoo
+- PatriGracia
+- robertjota
+- mnadal76
+- Edgar J.
+- EmiSC0607
+- icplana
+- rookie1983
 - andreamartin27
