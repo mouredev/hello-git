@@ -139,4 +139,11 @@
 - Cesar-Vilca
 - Pankri
 - TheFabi8A
+- edwcode18
+- Akihiro93
+- LuisPati11
+- Kchosco
+- Misa-axl01
+- bernabebarroso
+- devnandoo
 - PatriGracia
