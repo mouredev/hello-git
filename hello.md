@@ -163,3 +163,4 @@
 - E-delSol
 - borisAngulo
 - ThePalominoMtz
+- jotaCode
