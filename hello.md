@@ -144,3 +144,4 @@
 - LuisPati11
 - Kchosco
 - Misa-axl01
+- bernabebarroso
