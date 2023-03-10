@@ -211,4 +211,6 @@
 - robledogar
 - JulioDalmau
 - lfmorales
+- KurylukDev
+- Caaldair
 - RREYES0424
