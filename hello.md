@@ -204,4 +204,23 @@
 - nvalero13
 - NobodyPhy
 - caluff
+<<<<<<< HEAD
 >>>>>>> 78c20d181dbdd952a8fef2f4d646603d442e08ce
+=======
+- Binjuan23
+- kaesar84
+- 1Chito
+- Dresk76
+- blackriper
+- JuaniVilla02
+- NanamiRouss
+- GonzaloNieva
+- dheras22
+- IceBucle
+- robledogar
+- JulioDalmau
+- lfmorales
+- KurylukDev
+- Caaldair
+- RREYES0424
+>>>>>>> 561181276962a12fca20919a7aefea54f3850c6f
