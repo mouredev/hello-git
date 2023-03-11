@@ -139,6 +139,9 @@
 - Cesar-Vilca
 - Pankri
 - TheFabi8A
+<<<<<<< HEAD
+- matiasmunozs
+=======
 - edwcode18
 - Akihiro93
 - LuisPati11
@@ -195,9 +198,15 @@
 - MrStoneDev
 - canabal97
 - Anizito
+<<<<<<< HEAD
+>>>>>>> 55bd7ce7a48e3aeeb42a366c24c815dbdec05336
+=======
 - nvalero13
 - NobodyPhy
 - caluff
+<<<<<<< HEAD
+>>>>>>> 78c20d181dbdd952a8fef2f4d646603d442e08ce
+=======
 - Binjuan23
 - kaesar84
 - 1Chito
@@ -214,3 +223,4 @@
 - KurylukDev
 - Caaldair
 - RREYES0424
+>>>>>>> 561181276962a12fca20919a7aefea54f3850c6f
