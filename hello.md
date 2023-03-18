@@ -213,4 +213,5 @@
 - lfmorales
 - KurylukDev
 - Caaldair
-- RREYES0424 * jesus10tamez
+- RREYES0424 
+- jesus10tamez
