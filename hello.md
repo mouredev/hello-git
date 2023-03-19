@@ -224,3 +224,4 @@
 - jonathanvidela94
 - JColmenares0212
 - Luisml17
+- LaloEscualo
