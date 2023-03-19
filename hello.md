@@ -214,4 +214,7 @@
 - KurylukDev
 - Caaldair
 - RREYES0424
+- Juanppdev
+- DanielCD96
+- andreem27
 - DavidOrtiz9804
