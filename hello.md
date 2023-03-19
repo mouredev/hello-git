@@ -227,3 +227,4 @@
 - LaloEscualo
 - JuanCamiloGomezLopez
 - CrisBelDev
+- Rodolfo-Swift-dev
