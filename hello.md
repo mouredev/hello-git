@@ -244,3 +244,4 @@
 - rrengifo
 - carlosprietodev
 - amandabz
+- CryptoPinner
