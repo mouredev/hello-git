@@ -214,4 +214,17 @@
 - KurylukDev
 - Caaldair
 - RREYES0424
+- Juanppdev
+- DanielCD96
+- andreem27
+- DavidOrtiz9804
+- mafincodes
+- Jhon-E
+- mauropareja
+- jonathanvidela94
+- JColmenares0212
+- Luisml17
+- LaloEscualo
+- JuanCamiloGomezLopez
+- CrisBelDev
 - Rodolfo-Swift-dev
