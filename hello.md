@@ -229,3 +229,4 @@
 - CrisBelDev
 - Rodolfo-Swift-dev
 - Apicosala
+- kike1970
