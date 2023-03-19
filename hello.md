@@ -243,3 +243,4 @@
 - CarlosMejia01
 - rrengifo
 - carlosprietodev
+- amandabz
