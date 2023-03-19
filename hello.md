@@ -230,3 +230,4 @@
 - Rodolfo-Swift-dev
 - Apicosala
 - kike1970
+- diegogomezgonza
