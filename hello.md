@@ -245,3 +245,4 @@
 - carlosprietodev
 - amandabz
 - CryptoPinner
+- Luisjauregui1
