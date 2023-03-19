@@ -246,3 +246,4 @@
 - amandabz
 - CryptoPinner
 - Luisjauregui1
+- JBenjaminGM
