@@ -228,3 +228,4 @@
 - JuanCamiloGomezLopez
 - CrisBelDev
 - Rodolfo-Swift-dev
+- Apicosala
