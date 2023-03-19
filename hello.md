@@ -214,5 +214,15 @@
 - KurylukDev
 - Caaldair
 - RREYES0424
-- Juan Camilo Gómez
-
+- Juanppdev
+- DanielCD96
+- andreem27
+- DavidOrtiz9804
+- mafincodes
+- Jhon-E
+- mauropareja
+- jonathanvidela94
+- JColmenares0212
+- Luisml17
+- LaloEscualo
+- JuanCamiloGomezLopez
