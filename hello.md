@@ -266,3 +266,4 @@
 - angeelm03dev
 - larrysbarretot
 - AndresFe1996
+- RodrigoArDiaz
