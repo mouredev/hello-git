@@ -255,4 +255,7 @@
 - fevelasa
 - jesus10tamez
 - josuecarrera
+- matiasmunozs
+- adriaurora
+- alfonsomorab
 - carribasa
