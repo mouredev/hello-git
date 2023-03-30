@@ -275,3 +275,4 @@
 - jorgealbertg
 - Polancodi
 - juant351
+- lordlez
