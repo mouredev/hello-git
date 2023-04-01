@@ -1,0 +1,2 @@
+ECHO est� activado.
+MariusBD
