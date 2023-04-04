@@ -310,3 +310,4 @@
 - miguelASL
 - mezjc
 - MariusBD
+- geocodre
