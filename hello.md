@@ -289,3 +289,4 @@
 - PhantomBCN
 - CristianSegoviaMontier
 - ClementeBarros
+- josecordobar
