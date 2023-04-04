@@ -286,3 +286,4 @@
 - ajmiranda1107
 - joslink
 - andresito87
+- PhantomBCN
