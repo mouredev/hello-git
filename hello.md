@@ -307,3 +307,4 @@
 - JAHG07
 - JosueLpz
 - avazquez99
+- miguelASL
