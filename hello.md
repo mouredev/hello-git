@@ -287,3 +287,4 @@
 - joslink
 - andresito87
 - PhantomBCN
+- CristianSegoviaMontier
