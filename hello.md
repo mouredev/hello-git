@@ -288,3 +288,4 @@
 - andresito87
 - PhantomBCN
 - CristianSegoviaMontier
+- ClementeBarros
