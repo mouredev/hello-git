@@ -2,7 +2,7 @@
 >
 > _Así practicarás un flujo completo de trabajo en Git y GitHub_
 
-- Magicometa
+
 - mouredev
 - braismoure
 - agustinlopezdev
@@ -280,3 +280,4 @@
 - Gabyalias
 - ChristianSepulveda25
 - CCode02
+- Magicometa
