@@ -2,6 +2,7 @@
 >
 > _Así practicarás un flujo completo de trabajo en Git y GitHub_
 
+
 - mouredev
 - braismoure
 - agustinlopezdev
@@ -318,4 +319,7 @@
 - mh3mh0
 - Edorta23
 - larslml
-- PabloBnk
+- PabloEchegaray97
+- Magicometa
+- fabribarttt
+- pablo-bnk
