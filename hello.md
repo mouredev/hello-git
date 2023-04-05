@@ -4,7 +4,6 @@
 
 - mouredev
 - braismoure
-- figueroa-alex
 - agustinlopezdev
 - geroschmidt
 - javicb
@@ -319,3 +318,4 @@
 - mh3mh0
 - Edorta23
 - larslml
+- figueroa-alex
