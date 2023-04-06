@@ -334,3 +334,4 @@
 - andresjimenezzz
 - davidcdev
 - cbaldelomar
+- eddmen2812
