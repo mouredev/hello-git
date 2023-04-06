@@ -328,4 +328,6 @@
 - LauraCastrillonMp
 - jhoni161
 - DCRael
+- figueroa-alex
+- danieldrv8
 - AlexisFlo
