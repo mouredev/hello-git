@@ -335,3 +335,4 @@
 - davidcdev
 - cbaldelomar
 - eddmen2812
+- marcelostg
