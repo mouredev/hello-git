@@ -332,3 +332,4 @@
 - danieldrv8
 - AlexisFlo
 - andresjimenezzz
+- davidcdev
