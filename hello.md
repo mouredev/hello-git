@@ -227,8 +227,9 @@
 - Luisml17
 - LaloEscualo
 - JuanCamiloGomezLopez
-- CrisBelDev
 - Rodolfo-Swift-dev
+- lauxa-dev
+- CrisBelDev
 - Apicosala
 - kike1970
 - diegogomezgonza
