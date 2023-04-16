@@ -336,3 +336,4 @@
 - cbaldelomar
 - eddmen2812
 - marcelostg
+- Davidhzk2 😎
