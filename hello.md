@@ -2,7 +2,6 @@
 >
 > _Así practicarás un flujo completo de trabajo en Git y GitHub_
 
-
 - mouredev
 - braismoure
 - agustinlopezdev
@@ -227,8 +226,9 @@
 - Luisml17
 - LaloEscualo
 - JuanCamiloGomezLopez
-- CrisBelDev
 - Rodolfo-Swift-dev
+- lauxa-dev
+- CrisBelDev
 - Apicosala
 - kike1970
 - diegogomezgonza
@@ -336,4 +336,35 @@
 - cbaldelomar
 - eddmen2812
 - marcelostg
+- yorbimv
+- eu-anxo-github
+- Dilan-CuesDev
+- dfbustamantep
+- CocheseCL
+- RubenSantiagoCP
+- srjuansebas
+- Chonny8701
+- JavitoRoGo
+- Ernestol1977
+- juandejesuss
+- JordiRoigde
+- TechPere
+- davidmartisangu
+- pavlinamarkova
+- Gerrysan10
+- juancverdu
+- araujocesarr
+- KevPadi
+- brandondsr
+- AVelarte
+- Dani-Pinto
+- Kento182
+- cmoros
+- MikhailGzn
+- Armandoamtz
+- dasarmie
+- SoyEdgarC
+- MiguelViHe
+- GHOSTsama2503
+- ovsbrian
 - gabrielc
