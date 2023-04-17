@@ -336,3 +336,5 @@
 - cbaldelomar
 - eddmen2812
 - marcelostg
+- javier1207
+
