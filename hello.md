@@ -336,4 +336,14 @@
 - cbaldelomar
 - eddmen2812
 - marcelostg
+- yorbimv
+- eu-anxo-github
+- Dilan-CuesDev
+- dfbustamantep
+- CocheseCL
+- RubenSantiagoCP
+- srjuansebas
+- Chonny8701
+- JavitoRoGo
+- Ernestol1977
 - juandejesuss
