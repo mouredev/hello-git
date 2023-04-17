@@ -96,7 +96,7 @@ Y mucho más...
 * Herramientas gráficas para Git y GitHub: [GitHub Desktop](https://desktop.github.com), [GitKraken](https://gitkraken.com), [Sourcetree](https://sourcetreeapp.com), [Fork](https://git-fork.com)
 * [Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 * [GitHub Pages](https://pages.github.com/)
-* [GitHub Actions](https://pages.github.com/)
+* [GitHub Actions](https://github.com/features/actions)
 * Practica con los [retos de programación](https://retosdeprogramacion.com) de la comunidad
 * Y por último, aquí tienes un Gif que he creado con los 30 comandos más utilizados de Git
 
