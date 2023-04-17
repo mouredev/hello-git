@@ -380,3 +380,4 @@
 - edwingc88
 - JordyTorres
 - NequeP
+- javier1207
