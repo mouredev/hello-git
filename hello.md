@@ -363,3 +363,4 @@
 - MikhailGzn
 - Armandoamtz
 - dasarmie
+- SoyEdgarC
