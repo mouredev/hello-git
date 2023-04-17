@@ -352,3 +352,4 @@
 - davidmartisangu
 - pavlinamarkova
 - Gerrysan10
+- juancverdu
