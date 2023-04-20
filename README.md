@@ -28,7 +28,7 @@ Y mucho más...
 
 ## ¡Nuevo! Libro de Git & GitHub desde cero
 
-<a href="https://mouredev.com/libro-git"><img src="./media/book.jpg" style="height: 50%; width:50%;"/></a>
+<a href="https://mouredev.com/libro-git"><img src="./Media/book.jpg" style="height: 50%; width:50%;"/></a>
 
 Una guía de estudio teórico-práctica paso a paso de 300 hojas para complementar el curso en vídeo y aprender mucho más.
 
