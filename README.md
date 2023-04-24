@@ -26,6 +26,16 @@
 
 Y mucho más...
 
+## ¡Nuevo! Libro de Git & GitHub desde cero
+
+<a href="https://mouredev.com/libro-git"><img src="./Media/book.jpg" style="height: 50%; width:50%;"/></a>
+
+Una guía de estudio teórico-práctica paso a paso de 300 hojas para complementar el curso en vídeo y aprender mucho más.
+
+#### [Tapa Blanda y Kindle](https://mouredev.com/libro-git)
+
+#### [eBook (pdf, epub y web)](https://mouredev.com/ebook-git)
+
 ## Clases en vídeo
 
 ℹ️ Tienes un canal llamado **"git-github"** en el servidor de **[Discord](https://mouredev.com/discord)** de la comunidad para preguntar, compartir y ayudar.
@@ -96,7 +106,7 @@ Y mucho más...
 * Herramientas gráficas para Git y GitHub: [GitHub Desktop](https://desktop.github.com), [GitKraken](https://gitkraken.com), [Sourcetree](https://sourcetreeapp.com), [Fork](https://git-fork.com)
 * [Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 * [GitHub Pages](https://pages.github.com/)
-* [GitHub Actions](https://pages.github.com/)
+* [GitHub Actions](https://github.com/features/actions)
 * Practica con los [retos de programación](https://retosdeprogramacion.com) de la comunidad
 * Y por último, aquí tienes un Gif que he creado con los 30 comandos más utilizados de Git
 
