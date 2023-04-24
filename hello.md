@@ -4,6 +4,7 @@
 
 - mouredev
 - braismoure
+- Javiec6
 - agustinlopezdev
 - geroschmidt
 - javicb
