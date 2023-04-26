@@ -381,4 +381,6 @@
 - JordyTorres
 - NequeP
 - javier1207
+- McDormand
+- Robjav18
 - LuisMiguelMelo
