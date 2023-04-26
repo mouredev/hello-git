@@ -4,7 +4,6 @@
 
 - mouredev
 - braismoure
-- Javiec6
 - agustinlopezdev
 - geroschmidt
 - javicb
@@ -382,3 +381,4 @@
 - JordyTorres
 - NequeP
 - javier1207
+- Javiec6
