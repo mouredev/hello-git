@@ -369,7 +369,7 @@
 - ovsbrian
 - gabrielc
 - aezequielf
-- DulceItamar 
+- DulceItamar
 - dcast3ll
 - Minbuz
 - Ivanhtz
@@ -383,3 +383,4 @@
 - javier1207
 - McDormand
 - Robjav18
+- LuisMiguelMelo
