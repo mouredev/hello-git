@@ -369,7 +369,7 @@
 - ovsbrian
 - gabrielc
 - aezequielf
-- DulceItamar 
+- DulceItamar
 - dcast3ll
 - Minbuz
 - Ivanhtz
@@ -381,6 +381,10 @@
 - JordyTorres
 - NequeP
 - javier1207
+- McDormand
+- Robjav18
+- LuisMiguelMelo
+- Luisancal
+- sebicsbics
+- IsseiSenpai
 - BryanU25
-
-
