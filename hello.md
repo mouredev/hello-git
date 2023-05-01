@@ -3,7 +3,6 @@
 > _Así practicarás un flujo completo de trabajo en Git y GitHub_
 
 - mouredev
-- bastndev
 - braismoure
 - agustinlopezdev
 - geroschmidt
@@ -420,3 +419,4 @@
 - Bryan112094
 - fransierral
 - cinthyaAcosta
+- SmurfDev51
