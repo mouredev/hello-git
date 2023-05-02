@@ -36,6 +36,8 @@ Una guía de estudio teórico-práctica paso a paso de 300 hojas para complement
 
 #### [eBook (pdf, epub y web)](https://mouredev.com/ebook-git)
 
+> **Nota importante**: Si dispones de la versión en papel, y quieres consultar las imágenes del libro en máxima resolución, puedes encontrarlas en el directorio [Media/Book screenshots](./Media/Book%20screenshots) del repositorio.
+
 ## Clases en vídeo
 
 ℹ️ Tienes un canal llamado **"git-github"** en el servidor de **[Discord](https://mouredev.com/discord)** de la comunidad para preguntar, compartir y ayudar.
