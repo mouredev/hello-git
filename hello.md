@@ -449,6 +449,7 @@
 - Aquiles
 - DanielOlarte-GitHub
 - JimyRaul
+- joseluislavoz
 - luigg2020
 - Manuhob
 - kevinsr09
