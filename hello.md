@@ -450,3 +450,4 @@
 - DanielOlarte-GitHub
 - JimyRaul
 - luigg2020
+- Manuhob
