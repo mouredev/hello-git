@@ -454,4 +454,13 @@
 - kevinsr09
 - GiovanniJacinto
 - erigol  
+- juanestrella2098
+- FdoReyes
+- matiaschamu
+- IngCG
+- OscarTerceros
+- EdsonOnti
+- Pfurr
+- Kennykenny01
+- JackAlvites12
 - Dmpiedrahita
