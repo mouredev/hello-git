@@ -454,4 +454,9 @@
 - kevinsr09
 - GiovanniJacinto
 - erigol  
-- Edson_onti
+- juanestrella2098
+- FdoReyes
+- matiaschamu
+- IngCG
+- OscarTerceros
+- EdsonOnti
