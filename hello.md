@@ -480,3 +480,4 @@
 - JoseDanielRomero 
 - djaremn
 - MiguelACarreno
+- Diegorsm4
