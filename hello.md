@@ -454,4 +454,18 @@
 - kevinsr09
 - GiovanniJacinto
 - erigol  
--dYNAM0
+- juanestrella2098
+- FdoReyes
+- matiaschamu
+- IngCG
+- OscarTerceros
+- EdsonOnti
+- Pfurr
+- Kennykenny01
+- JackAlvites12
+- Dmpiedrahita
+- DavidTorrejano
+- AmadorGOsuna
+- neuroproxy
+- FranLess
+- dYNAM0x
