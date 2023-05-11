@@ -453,5 +453,11 @@
 - Manuhob
 - kevinsr09
 - GiovanniJacinto
-- erigol
+- erigol  
+- juanestrella2098
+- FdoReyes
+- matiaschamu
+- IngCG
+- OscarTerceros
+- EdsonOnti
 - Pfurr
