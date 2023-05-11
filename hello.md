@@ -469,6 +469,7 @@
 - neuroproxy
 - FranLess
 - dYNAM0x
+- KenzoDiMarco
 - gergg90
 - bellodev
 - Alva19
@@ -495,3 +496,4 @@
 - NahumMartinez01
 - attisDev92
 - fadrian06
+- rgisrkardreventlov
