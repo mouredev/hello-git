@@ -454,4 +454,5 @@
 - kevinsr09
 - GiovanniJacinto
 - erigol  
+- juanestrella2098
 - FdoReyes
