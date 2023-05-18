@@ -4,6 +4,7 @@
 
 - mouredev
 - braismoure
+- HansAllTech
 - agustinlopezdev
 - geroschmidt
 - javicb
