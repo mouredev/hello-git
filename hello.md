@@ -1,5 +1,5 @@
 > ### Si estás participando en el curso. Haz un fork del proyecto y añade tu usuario de GitHub en una nueva línea.
->
+> 
 > _Así practicarás un flujo completo de trabajo en Git y GitHub_
 
 - mouredev
@@ -453,6 +453,48 @@
 - Manuhob
 - kevinsr09
 - GiovanniJacinto
-- erigol
-- Insiteweb
-- Insiteweb2
+- erigol  
+- juanestrella2098
+- FdoReyes
+- matiaschamu
+- IngCG
+- OscarTerceros
+- EdsonOnti
+- Pfurr
+- Kennykenny01
+- JackAlvites12
+- Dmpiedrahita
+- DavidTorrejano
+- AmadorGOsuna
+- neuroproxy
+- FranLess
+- dYNAM0x
+- KenzoDiMarco
+- gergg90
+- bellodev
+- Alva19
+- tonnysoyyo
+- AlexisReyes98
+- ifuensan
+- ezequielmz
+- gabalvarez21
+- JoseDanielRomero 
+- djaremn
+- MiguelACarreno
+- Diegorsm4
+- abidosjl28
+- KyoAya
+- Ana2145
+- kaelus001
+- JavierCasanaDev 
+- YokinDev
+- FranValderrey
+- manuelmilian
+- sebasrios977
+- EdisonSastoque
+- isra997
+- NahumMartinez01
+- attisDev92
+- fadrian06
+- rgisrkardreventlov
+- Insitewebcos
