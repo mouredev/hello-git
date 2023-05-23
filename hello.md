@@ -533,3 +533,4 @@
 - sgarciaar
 - darthlolo 
 - SenpuDev
+- AldoGaray-32
