@@ -536,4 +536,5 @@
 - AldoGaray-32
 - edanbece31
 - danmorinigo
-- edwinro09
+- Kamidb
+- Edwinro09
