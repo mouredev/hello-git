@@ -4,6 +4,7 @@
 
 - mouredev
 - braismoure
+- LucianaAG
 - agustinlopezdev
 - geroschmidt
 - javicb
