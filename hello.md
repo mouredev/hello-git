@@ -563,3 +563,4 @@
 - CristianPintoDev
 - JosueLeon98
 - luisangelescom
+- javierarteagagonzales
