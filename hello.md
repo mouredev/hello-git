@@ -566,3 +566,4 @@
 - javierarteagagonzales
 - JoroGB
 - yeinwillie
+- JoanMarqueno
