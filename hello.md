@@ -585,3 +585,4 @@
 - RafaelOliva95
 - HansAllTech
 - marsantiagos
+- DDHCosmo
