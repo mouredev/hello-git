@@ -586,4 +586,7 @@
 - HansAllTech
 - marsantiagos
 - DDHCosmo
+- Quinoku
+- alexandreLado
+- alexisnlh
 - gustavors1
