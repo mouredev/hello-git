@@ -583,4 +583,6 @@
 - BravoMorteo
 - migueldevbp
 - RafaelOliva95
+- HansAllTech
+- marsantiagos
 - DDHCosmo
