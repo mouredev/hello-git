@@ -590,3 +590,4 @@
 - alexandreLado
 - alexisnlh
 - gustavors1
+- JoseLuisDiaz
