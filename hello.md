@@ -590,4 +590,4 @@
 - alexandreLado
 - alexisnlh
 - gustavors1
-- joseacm1
+- jose-acm1
