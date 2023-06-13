@@ -583,4 +583,12 @@
 - BravoMorteo
 - migueldevbp
 - RafaelOliva95
+- HansAllTech
+- marsantiagos
+- DDHCosmo
+- Quinoku
+- alexandreLado
+- alexisnlh
+- gustavors1
+- SMSPROGRAMACION1236
 - NeftaLiClemente
