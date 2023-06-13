@@ -608,3 +608,4 @@
 - JuanAntonioRojasGarcia
 - JoseLuisDiaz
 - jabatron
+- darioeoliva
