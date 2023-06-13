@@ -601,3 +601,4 @@
 - OriDango
 - xipirinet
 - nikodevtech
+- blancadev
