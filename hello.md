@@ -612,4 +612,7 @@
 - joseacm1
 - Rocnail23
 - marodriguezd
-- Kufita
+- AlanElectronic
+- Dave-dev-ceo
+- CarlosGarciaDMarina
+- Facundo-Cruz
