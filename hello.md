@@ -612,4 +612,9 @@
 - joseacm1
 - Rocnail23
 - marodriguezd
--Klvo666
+- AlanElectronic
+- Dave-dev-ceo
+- CarlosGarciaDMarina
+- Facundo-Cruz
+- Mass27
+- Klvo666
