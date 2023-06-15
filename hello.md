@@ -612,4 +612,12 @@
 - joseacm1
 - Rocnail23
 - marodriguezd
-- Erwin-Loverwin
+- AlanElectronic
+- Dave-dev-ceo
+- CarlosGarciaDMarina
+- Facundo-Cruz
+- Mass27
+- Klvo666
+- Marihuanito
+- RaulMLA
+- LOVERWIN
