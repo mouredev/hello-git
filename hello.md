@@ -628,3 +628,4 @@
 - alex-m-castillo
 - DeiviedDev
 - carperez42
+- edgarorlandobermudez
