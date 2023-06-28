@@ -2,7 +2,6 @@
 >
 > _Así practicarás un flujo completo de trabajo en Git y GitHub_
 
-- blasilacle
 - mouredev
 - braismoure
 - agustinlopezdev
@@ -648,3 +647,5 @@
 - josedelarosados
 - SebastianVera29
 - ISMAuri
+- blasilacle
+- Fernando-Barajas1999
