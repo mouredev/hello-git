@@ -655,3 +655,4 @@
 - afl0r3s
 - jcmendez26
 - Alaneslaley
+- LP-React
