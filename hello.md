@@ -662,3 +662,4 @@
 - DarwinDev06
 - Dieguillo22
 - juanjo0611
+- danielSepulvedaGastelum
