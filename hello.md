@@ -612,6 +612,7 @@
 - joseacm1
 - Rocnail23
 - marodriguezd
+- SuperMegaVagabundo1
 - AlanElectronic
 - Dave-dev-ceo
 - CarlosGarciaDMarina
@@ -622,4 +623,18 @@
 - RaulMLA
 - LOVERWIN
 - David-R92
+- nahenaoc
+- AleVinokur
+- alex-m-castillo
+- DeiviedDev
+- carperez42
+- edgarorlandobermudez
+- Raptor-Rebelde
+- cordex33
+- agmCorp
+- 4bsolent
+- Sanberqui18
+- Pipeto84
+- josevegas27
+- KleyMa
 - physiodevapp
