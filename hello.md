@@ -644,3 +644,4 @@
 - Kavalier89
 - d0ug14sm
 - MiguelMacias3M
+- josedelarosados
