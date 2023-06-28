@@ -612,6 +612,7 @@
 - joseacm1
 - Rocnail23
 - marodriguezd
+- SuperMegaVagabundo1
 - AlanElectronic
 - Dave-dev-ceo
 - CarlosGarciaDMarina
