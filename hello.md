@@ -653,3 +653,4 @@
 - brmeza
 - SebastianIsmaelG
 - afl0r3s
+- jcmendez26
