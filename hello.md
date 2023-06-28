@@ -626,3 +626,4 @@
 - nahenaoc
 - AleVinokur
 - alex-m-castillo
+- DeiviedDev
