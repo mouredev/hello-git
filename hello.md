@@ -666,4 +666,6 @@
 - Jorgegdmg
 - JaviG19
 - Develabhiper
+- dekkard79
+- Adys87
 - TomiPicols
