@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 # Hello Git & GitHub HAHAHAHAHAHA!!!hfhfh
 # mas cambios
+=======
+# Hello Git & GitHub HAHAHAHAHAHA!!! xscd
+>>>>>>> 79b176c4bbad810f25859e219d70ca1d7f4f8ca0
 
 
 [![Git](https://img.shields.io/badge/Git-2.37+-f14e32?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)](https://git-scm.com/)
