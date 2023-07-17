@@ -681,4 +681,10 @@
 - leandrothomasdev
 - Mg010
 - knopfler19
+- nftorres
+- banquerif
+- ElYonathanD
+- tatoclemente
+- InmaSantos
+- juanma414
 - juacho444
