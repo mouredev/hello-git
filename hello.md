@@ -728,3 +728,4 @@
 - gabrielsifontes
 - lucgarmac
 - Mardowen
+- JeffersonQuin
