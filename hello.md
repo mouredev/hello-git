@@ -681,4 +681,7 @@
 - leandrothomasdev
 - Mg010
 - knopfler19
+- nftorres
+- banquerif
+- ElYonathanD
 - tatoclemente
