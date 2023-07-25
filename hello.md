@@ -681,6 +681,7 @@
 - leandrothomasdev
 - Mg010
 - knopfler19
+- DiegoSerDev 
 - nftorres
 - banquerif
 - ElYonathanD
@@ -712,7 +713,7 @@
 - Serafin
 - FerDarder
 - PabloSsolbal
-- MoscatR 
+- MoscatR
 - juanpablo311
 - hiayrtonlavayen
 - Johan-73
@@ -738,4 +739,13 @@
 - siendomiguel
 - bechara611
 - YairCrt
+- eduardoramos98
+- AllestGG
+- RoMaFo91
+- 114154-ESPECHE
+- Babu-was-taken
+- robersygonzalez
+- e2tovar
+- daniel-lima-lopez
+- ZulangySatizabal
 - luiyifm
