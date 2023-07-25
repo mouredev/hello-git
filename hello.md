@@ -681,6 +681,7 @@
 - leandrothomasdev
 - Mg010
 - knopfler19
+- DiegoSerDev 
 - nftorres
 - banquerif
 - ElYonathanD
@@ -738,4 +739,12 @@
 - siendomiguel
 - bechara611
 - YairCrt
+- eduardoramos98
+- AllestGG
+- RoMaFo91
+- 114154-ESPECHE
+- Babu-was-taken
+- robersygonzalez
+- e2tovar
+- daniel-lima-lopez
 - ZulangySatizabal
