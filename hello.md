@@ -756,4 +756,5 @@
 - CelesteFiguera
 - CambiaNombres
 - 14LM
--juancaferreyra
+- juancaferreyra
+- Nearius
