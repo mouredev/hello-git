@@ -4,7 +4,6 @@
 
 - mouredev
 - braismoure
-- SrLagUwU
 - agustinlopezdev
 - geroschmidt
 - javicb
@@ -766,3 +765,4 @@
 - alexgarabt
 - Camilo7777
 - wguia03
+- SrLagUwU
