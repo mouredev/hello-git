@@ -681,7 +681,7 @@
 - leandrothomasdev
 - Mg010
 - knopfler19
-- DiegoSerDev 
+- DiegoSerDev
 - nftorres
 - banquerif
 - ElYonathanD
@@ -765,3 +765,4 @@
 - alexgarabt
 - Camilo7777
 - wguia03
+- darocarena
