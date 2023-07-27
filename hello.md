@@ -4,6 +4,7 @@
 
 - mouredev
 - braismoure
+- SrLagUwU
 - agustinlopezdev
 - geroschmidt
 - javicb
