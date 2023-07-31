@@ -765,4 +765,5 @@
 - alexgarabt
 - Camilo7777
 - wguia03
+- ChrisJS
 - jpculturasegura
