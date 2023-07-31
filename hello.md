@@ -765,4 +765,8 @@
 - alexgarabt
 - Camilo7777
 - wguia03
+- ChrisJS
+- jpculturasegura
+- adrianco24
+- hugodev160198
 - Dobeyisc
