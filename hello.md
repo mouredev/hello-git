@@ -681,7 +681,7 @@
 - leandrothomasdev
 - Mg010
 - knopfler19
-- DiegoSerDev 
+- DiegoSerDev
 - nftorres
 - banquerif
 - ElYonathanD
@@ -765,5 +765,13 @@
 - alexgarabt
 - Camilo7777
 - wguia03
-- CarolinaBerrio(Inakob)
-
+- ChrisJS
+- jpculturasegura
+- adrianco24
+- hugodev160198
+- Dobeyisc
+- darocarena
+- SrLagUwU
+- frangallardo30
+- JulietaSaez2580
+- CarolinaBerrio
