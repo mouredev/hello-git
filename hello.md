@@ -4,6 +4,7 @@
 
 - mouredev
 - braismoure
+- Abiezerk
 - agustinlopezdev
 - geroschmidt
 - javicb
@@ -681,7 +682,7 @@
 - leandrothomasdev
 - Mg010
 - knopfler19
-- DiegoSerDev 
+- DiegoSerDev
 - nftorres
 - banquerif
 - ElYonathanD
@@ -765,4 +766,24 @@
 - alexgarabt
 - Camilo7777
 - wguia03
+- ChrisJS
+- jpculturasegura
+- adrianco24
+- hugodev160198
+- Dobeyisc
+- darocarena
+- SrLagUwU
+- frangallardo30
+- JulietaSaez2580
+- CarolinaBerrio
+- jnproyects
+- franxpincay
+- DARKCYCLE03
+- carlosmgonzalez
+- javierfiestasbotella
+- roirh
+- RodrigoEMM11
+- berth21gg
+- nazarenogabrielbastanzo
+- nicolasgrajaleshoyos
 - CarlosIRB
