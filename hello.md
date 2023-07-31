@@ -788,4 +788,5 @@
 - nicolasgrajaleshoyos
 - alrich30
 - CarlosIRB
--jhsantiagodev
+- jhSantiagoDev
+
