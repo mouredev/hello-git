@@ -786,4 +786,6 @@
 - berth21gg
 - nazarenogabrielbastanzo
 - nicolasgrajaleshoyos
+- alrich30
+- CarlosIRB
 - Paiz9-12
