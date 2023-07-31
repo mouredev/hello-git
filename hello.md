@@ -765,4 +765,7 @@
 - alexgarabt
 - Camilo7777
 - wguia03
--alrich30
+- ChrisJS
+- jpculturasegura
+- adrianco24
+- alrich30
