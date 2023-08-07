@@ -808,4 +808,5 @@
 - Nvarela87
 - danielgomezpascual
 - Elias4ever
-- Nmejia Colombia
+- NMEJIA93
+- maxi6np
