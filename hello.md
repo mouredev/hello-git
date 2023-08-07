@@ -788,4 +788,16 @@
 - nicolasgrajaleshoyos
 - alrich30
 - CarlosIRB
+- jhSantiagoDev
+- Csarmrtinz
+- stdycc
+- paleon2010
+- ivanlopeznieto
+- Azsurei
+- QD1n
+- alboncho
+- KevinRomero2
+- Vcarvajall
+- George241915
+- Alex291001
 - wils09
