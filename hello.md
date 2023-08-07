@@ -788,4 +788,6 @@
 - nicolasgrajaleshoyos
 - alrich30
 - CarlosIRB
+- jhSantiagoDev
+- Csarmrtinz
 - stdycc
