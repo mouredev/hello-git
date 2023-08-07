@@ -806,3 +806,4 @@
 - jonanderR
 - andresmendozaf
 - Nvarela87
+- danielgomezpascual
