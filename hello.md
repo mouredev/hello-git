@@ -791,3 +791,4 @@
 - jhSantiagoDev
 - Csarmrtinz
 - stdycc
+- paleon2010
