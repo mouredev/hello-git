@@ -826,3 +826,4 @@
 - Amparwen
 - jggdeveloper-indie
 - Miguel-neuron
+- RicardoDB96
