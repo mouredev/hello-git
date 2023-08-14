@@ -824,3 +824,4 @@
 - Elbronx95
 - JPably
 - Amparwen
+- jggdeveloper-indie
