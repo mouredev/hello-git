@@ -816,4 +816,6 @@
 - BJM43
 - Saet91
 - andres-manzano
+- Paiz9-12
+- AbisalD
 - MapacheIng
