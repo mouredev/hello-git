@@ -825,3 +825,4 @@
 - JPably
 - Amparwen
 - jggdeveloper-indie
+- Miguel-neuron
