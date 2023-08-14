@@ -1,5 +1,5 @@
 > ### Si estás participando en el curso. Haz un fork del proyecto y añade tu usuario de GitHub en una nueva línea.
->
+> 
 > _Así practicarás un flujo completo de trabajo en Git y GitHub_
 
 - mouredev
@@ -816,4 +816,34 @@
 - BJM43
 - Saet91
 - andres-manzano
+- Paiz9-12
+- AbisalD
+- MapacheIng
+- jagiraldorestrepo
+- javitmx
+- Elbronx95
+- JPably
+- Amparwen
+- jggdeveloper-indie
+- Miguel-neuron
+- RicardoDB96
+- Laboratorio-01
+- AlexDev-Top
+- davayme
+- Megaviro
+- rgasha
+- caro6852
+- fredytalero22
+- coyyesid
+- alainav
+- Chudopie
+- piter81
+- edgarlange
+- sun-mistake
+- ReynaldoGithubb
+- gusdudu
+- leonardojaviersalistre
+- DraonRe
+- KEVIN-LUIS-CH-S
+- martorelli617
 - lferquint
