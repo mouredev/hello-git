@@ -848,4 +848,7 @@
 - martorelli617
 - lferquint
 - devantonioh
+- AFOXJONES
+- ZabaDeV
+- marcusverom17
 - Gabrielda2002
