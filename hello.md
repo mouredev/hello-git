@@ -848,4 +848,12 @@
 - martorelli617
 - lferquint
 - devantonioh
-- danieltb92    
+- AFOXJONES
+- ZabaDeV
+- marcusverom17
+- Gabrielda2002
+- reenaBit
+- Mayron-Castillo
+- SagittariusVE
+- CarlosMorales23
+- danieltb92  
