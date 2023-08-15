@@ -1,1 +1,0 @@
-# Si estas participando bla bla bla
