@@ -859,4 +859,6 @@
 - danieltb92  
 - chill-imax
 - harlantonguino
+- Carlos8122001
+- JGiioo
 - Khath0
