@@ -869,4 +869,13 @@
 - jorge-ricartti
 - EstuardoAgustin
 - DvitDavid
+- AlgorithmEncoder
+- Noel194
+- jinaman
+- gionnito
+- ElliotFrias
+- wbravoanoni
+- MrJoseAndres
+- yasselComas
+- NickDaemon
 - Geridage
