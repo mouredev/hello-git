@@ -869,4 +869,14 @@
 - jorge-ricartti
 - EstuardoAgustin
 - DvitDavid
-- ARPORTASS
+- AlgorithmEncoder
+- Noel194
+- jinaman
+- gionnito
+- ElliotFrias
+- wbravoanoni
+- MrJoseAndres
+- yasselComas
+- NickDaemon
+- Geridage
+- arportass
