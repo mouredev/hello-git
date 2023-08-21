@@ -869,4 +869,7 @@
 - jorge-ricartti
 - EstuardoAgustin
 - DvitDavid
+- AlgorithmEncoder
+- Noel194
+- jinaman
 - gionnito
