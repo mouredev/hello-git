@@ -869,4 +869,5 @@
 - jorge-ricartti
 - EstuardoAgustin
 - DvitDavid
+- AlgorithmEncoder
 - Noel194
