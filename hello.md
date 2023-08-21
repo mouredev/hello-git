@@ -876,4 +876,5 @@
 - ElliotFrias
 - wbravoanoni
 - MrJoseAndres
--yasselComas
+- yasselComas
+- NickDaemon
