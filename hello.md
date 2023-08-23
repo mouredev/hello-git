@@ -880,4 +880,14 @@
 - NickDaemon
 - Geridage
 - arportass
-- MagicIglesias
+- falukner
+- AdriusGLZ
+- donbravari
+- mulheyamar
+- elarreglador
+- alopdele
+- jose-maria-de-miguel
+- Sanlx
+- JahirXrX
+- alejarandro
+- riglesiasc01
