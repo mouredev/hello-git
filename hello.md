@@ -880,4 +880,8 @@
 - NickDaemon
 - Geridage
 - arportass
-- David Moreno (ElArreglador)
+- falukner
+- AdriusGLZ
+- donbravari
+- mulheyamar
+- elarreglador
