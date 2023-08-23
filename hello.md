@@ -880,4 +880,10 @@
 - NickDaemon
 - Geridage
 - arportass
+- falukner
+- AdriusGLZ
+- donbravari
+- mulheyamar
+- elarreglador
+- alopdele
 - jose-maria-de-miguel
