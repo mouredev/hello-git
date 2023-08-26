@@ -869,4 +869,29 @@
 - jorge-ricartti
 - EstuardoAgustin
 - DvitDavid
-- Diegp14
+
+
+- AlgorithmEncoder
+- Noel194
+- jinaman
+- gionnito
+- ElliotFrias
+- wbravoanoni
+- MrJoseAndres
+- yasselComas
+- NickDaemon
+- Geridage
+- arportass
+- falukner
+- AdriusGLZ
+- donbravari
+- mulheyamar
+- elarreglador
+- alopdele
+- jose-maria-de-miguel
+- Sanlx
+- JahirXrX
+- alejarandro
+- riglesiasc01
+- FcoJoseSantana
+>>>>>>> 5ff65ca20189dd5d851a91f428fb767d3c900cca
