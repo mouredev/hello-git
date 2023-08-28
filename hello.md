@@ -892,4 +892,12 @@
 - alejarandro
 - riglesiasc01
 - FcoJoseSantana
+- ivocoimbraw
+- sistemasitpro
+- JuanseCZ
+- cbmella
+- myfri09
+- 22guerrabruno
+- rgisbert
+- risaza01
 - bartolo502
