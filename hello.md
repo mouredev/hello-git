@@ -869,8 +869,6 @@
 - jorge-ricartti
 - EstuardoAgustin
 - DvitDavid
-
-
 - AlgorithmEncoder
 - Noel194
 - jinaman
@@ -894,4 +892,21 @@
 - alejarandro
 - riglesiasc01
 - FcoJoseSantana
-- Diegp14
+- ivocoimbraw
+- sistemasitpro
+- JuanseCZ
+- cbmella
+- myfri09
+- 22guerrabruno
+- rgisbert
+- risaza01
+- bartolo502
+- dokeys28
+- DavidLD3
+- viktokito
+- antoniomarinsanchez
+- Alejandromarmilich
+- juanfranciscosm
+- LeoSisPrueba
+- mauor
+- diegp14
