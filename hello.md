@@ -911,3 +911,4 @@
 - mauor
 - diegp14
 - noorthex
+- JeremiasLajas
