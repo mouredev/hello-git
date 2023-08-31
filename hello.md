@@ -4,7 +4,6 @@
 
 - mouredev
 - braismoure
-- Samurd
 - Abiezerk
 - agustinlopezdev
 - geroschmidt
@@ -893,3 +892,4 @@
 - alejarandro
 - riglesiasc01
 - FcoJoseSantana
+- Samurd
