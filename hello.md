@@ -911,4 +911,6 @@
 - mauor
 - diegp14
 - noorthex
+- GokuVegetQ
+- AdriDevnull
 - h0r4ci0
