@@ -923,3 +923,5 @@
 - Axel-Zaragoci
 - adra-dev
 - antonio-lopez-gonzalez
+- DavidSalazarG
+- netsoren
