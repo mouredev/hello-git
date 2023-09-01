@@ -923,3 +923,4 @@
 - Axel-Zaragoci
 - adra-dev
 - DavidSalazarG
+- netsoren
