@@ -919,3 +919,4 @@
 - lermns
 - rawi-varela
 - jorgeprietoarranz
+- Samurd
