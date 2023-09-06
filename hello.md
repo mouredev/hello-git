@@ -4,6 +4,7 @@
 
 - mouredev
 - braismoure
+- JuanPalomino23
 - Abiezerk
 - agustinlopezdev
 - geroschmidt
