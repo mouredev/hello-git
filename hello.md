@@ -1,5 +1,5 @@
 > ### Si estás participando en el curso. Haz un fork del proyecto y añade tu usuario de GitHub en una nueva línea.
-> 
+>
 > _Así practicarás un flujo completo de trabajo en Git y GitHub_
 
 - mouredev
@@ -937,4 +937,29 @@
 - tomaspassadore
 - tadeo14
 - BruckBrown
-- Paxtor__
+- gitpabloquilombo
+- mgdavidd
+- XMICT
+- victorrmc
+- gtorresgrau
+- santigorbe
+- juanmcervantes
+- Aziderius
+- wapastorv
+- juancalel
+- chrismark182
+- cesarcuervo
+- EverardoNava
+- ManuelCastanedaS
+- naviomaya
+- ivanfranco07
+- Emil-IX
+- robmaasmarin
+- WaltMancia
+- machitoX
+- SantiagoSanchezDev
+- Jmiguelmangas
+- alisuperpro
+- j-bravo-o
+- juddev1
+- paxxtor
