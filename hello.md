@@ -937,4 +937,7 @@
 - tomaspassadore
 - tadeo14
 - BruckBrown
+- gitpabloquilombo
+- mgdavidd
+- XMICT
 - victorrmc
