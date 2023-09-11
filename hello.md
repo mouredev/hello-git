@@ -961,3 +961,4 @@
 - Jmiguelmangas
 - alisuperpro
 - j-bravo-o
+- juddev1
