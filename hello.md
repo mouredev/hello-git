@@ -962,3 +962,4 @@
 - alisuperpro
 - j-bravo-o
 - juddev1
+- paxxtor
