@@ -986,3 +986,4 @@
 - marloncardonadev
 - RafaDev87
 - JhonnatanPajuelo
+- TinajaStyle
