@@ -969,5 +969,9 @@
 - Francisco2Murillov
 - AlbertoAlvarado
 - erick537
-- *Carlos-Andres-Garcia-Perez*
-
+- NeyerPabon
+- JacsPer18
+- edgar24
+- MiguelDecode
+- MishellRamos
+- Carlos-Andres-Garcia-Perez
