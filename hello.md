@@ -969,4 +969,14 @@
 - Francisco2Murillov
 - AlbertoAlvarado
 - erick537
+- NeyerPabon
+- JacsPer18
+- edgar24
+- MiguelDecode
+- MishellRamos
+- Carlos-Andres-Garcia-Perez
+- AndresSanchez96
+- jmendieta09
+- AbrilDm14
+- Juanmathon
 - keniferAma
