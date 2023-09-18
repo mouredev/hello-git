@@ -969,4 +969,6 @@
 - Francisco2Murillov
 - AlbertoAlvarado
 - erick537
+- NeyerPabon
+- JacsPer18
 - edgar24
