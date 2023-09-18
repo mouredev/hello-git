@@ -987,3 +987,4 @@
 - RafaDev87
 - JhonnatanPajuelo
 - TinajaStyle
+- SoyDavidDev
