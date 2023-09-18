@@ -969,4 +969,10 @@
 - Francisco2Murillov
 - AlbertoAlvarado
 - erick537
-- Andres_Sanchez
+- NeyerPabon
+- JacsPer18
+- edgar24
+- MiguelDecode
+- MishellRamos
+- Carlos-Andres-Garcia-Perez
+- AndresSanchez96
