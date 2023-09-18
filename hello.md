@@ -937,9 +937,6 @@
 - tomaspassadore
 - tadeo14
 - BruckBrown
-<<<<<<< HEAD
-- Tyzer
-=======
 - gitpabloquilombo
 - mgdavidd
 - XMICT
@@ -972,4 +969,16 @@
 - Francisco2Murillov
 - AlbertoAlvarado
 - erick537
->>>>>>> 3775959256038b2375bb8552e096a37e531863ac
+- NeyerPabon
+- JacsPer18
+- edgar24
+- MiguelDecode
+- MishellRamos
+- Carlos-Andres-Garcia-Perez
+- AndresSanchez96
+- jmendieta09
+- AbrilDm14
+- Juanmathon
+- keniferAma
+- Gladys077
+- Tyzer
