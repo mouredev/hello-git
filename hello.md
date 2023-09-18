@@ -992,3 +992,4 @@
 - OfficeGirbau
 - retxano
 - XrayTH
+- LoloDev
