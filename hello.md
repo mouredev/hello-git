@@ -970,3 +970,5 @@
 - AlbertoAlvarado
 - erick537
 - alekcancino
+- alekcancino2
+- alekcancino69
