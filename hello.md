@@ -971,3 +971,4 @@
 - erick537
 - NeyerPabon
 - JacsPer18
+- edgar24
