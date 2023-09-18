@@ -988,3 +988,4 @@
 - JhonnatanPajuelo
 - TinajaStyle
 - SoyDavidDev
+- AntonioMorenoLara
