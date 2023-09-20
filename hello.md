@@ -5,7 +5,6 @@
 - mouredev
 - braismoure
 - Abiezerk
-- JohnIvwy
 - agustinlopezdev
 - geroschmidt
 - javicb
@@ -970,3 +969,4 @@
 - Francisco2Murillov
 - AlbertoAlvarado
 - erick537
+- JohnIvwy
