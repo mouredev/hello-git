@@ -995,4 +995,5 @@
 - LoloDev
 - AngelYoNoRobot
 - alekcancino
+- JohnIvwy
 - 01sergio10
