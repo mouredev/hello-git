@@ -995,3 +995,6 @@
 - LoloDev
 - AngelYoNoRobot
 - alekcancino
+-HectorDev
+-Ponchitoxd
+-CarlosDev
