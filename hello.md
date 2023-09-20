@@ -995,4 +995,14 @@
 - LoloDev
 - AngelYoNoRobot
 - alekcancino
+- JohnIvwy
+- 01sergio10
+- NunezHoracio
+- Werazo
+- jedatobe
+- VictorMVG
+- RicardoRamirezReyes
+- celiasaar
+- mceli27
+- carlosalgado1
 - averan
