@@ -995,4 +995,7 @@
 - LoloDev
 - AngelYoNoRobot
 - alekcancino
+- JohnIvwy
+- 01sergio10
+- NunezHoracio
 - Werazo
