@@ -86,6 +86,7 @@
 - gdawso
 - ZentoBernabeuPerez
 - lufranbeco
+- Jaaime03
 - OsRo
 - Andresmatta90
 - skyalvaro
@@ -969,6 +970,7 @@
 - Francisco2Murillov
 - AlbertoAlvarado
 - erick537
+- limproda
 - NeyerPabon
 - JacsPer18
 - edgar24
@@ -1008,4 +1010,18 @@
 - averan
 - jperegir
 - jtaboadab
+- abraham4f
+- hernirg
+- JJOELSZ
+- Jeffer25
+- EdgarMPz
+- cristianalvarez1404
+- jlcontini
+- FabianVargas99
+- gastonjuarez
+- briancamposvalle
+- Carlos-D-Olivera
+- ssh1141
+- pame26dev
+- javiicarcoba
 - JuanFernando13
