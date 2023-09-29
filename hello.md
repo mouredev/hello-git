@@ -1029,4 +1029,6 @@
 - AntonioMarcet
 - ManuelitoPE
 - divarelap
-- Daniel-Code
+- josemaexposito76
+- AndPhil
+- Daniel-Code-Design
