@@ -1040,4 +1040,11 @@
 - ElSaloo
 - ChekeGT
 - Neider-G
--DarioCode1
+- Nikit88nline
+- davmen91
+- xlbrosxxl
+- joseluisrp97
+- CesarAcosta93
+- cpachecow
+- Kaiser11
+- DarioCode1
