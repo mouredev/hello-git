@@ -701,7 +701,6 @@
 - marin2025
 - torvicv
 - jsolano0112
-- eruedasanchez
 - AnadeCordoba
 - dov_dev
 - db0w
@@ -797,7 +796,7 @@
 - Azsurei
 - QD1n
 - alboncho
-- KevinRomero2git@github.com:cusquitonet/hello-git.git
+- KevinRomero2
 - Vcarvajall
 - George241915
 - Alex291001
@@ -851,7 +850,7 @@
 - devantonioh
 - AFOXJONES
 - ZabaDeV
-- marcusverom17git@github.com:cusquitonet/hello-git.git
+- marcusverom17
 - Gabrielda2002
 - reenaBit
 - Mayron-Castillo
@@ -877,7 +876,6 @@
 - ElliotFrias
 - wbravoanoni
 - MrJoseAndres
-- yasselComas
 - NickDaemon
 - Geridage
 - arportass
@@ -1066,3 +1064,4 @@
 - imaginuz
 - EmmaCG19
 - Cusquitonet
+- IzOla
