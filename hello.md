@@ -701,7 +701,6 @@
 - marin2025
 - torvicv
 - jsolano0112
-- eruedasanchez
 - AnadeCordoba
 - dov_dev
 - db0w
@@ -877,7 +876,6 @@
 - ElliotFrias
 - wbravoanoni
 - MrJoseAndres
-- yasselComas
 - NickDaemon
 - Geridage
 - arportass
@@ -1056,4 +1054,15 @@
 - Jom3
 - Krespee
 - Denix04
+- Grande1982
+- Okynos03
+- GeraSamayoa
+- AnhellSteve
+- sierrapor
+- arielsre
+- yonny-147
+- imaginuz
+- EmmaCG19
+- Cusquitonet
+- IzOla
 - raquelitinha
