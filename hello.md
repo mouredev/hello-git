@@ -797,7 +797,7 @@
 - Azsurei
 - QD1n
 - alboncho
-- KevinRomero2
+- KevinRomero2git@github.com:cusquitonet/hello-git.git
 - Vcarvajall
 - George241915
 - Alex291001
@@ -851,7 +851,7 @@
 - devantonioh
 - AFOXJONES
 - ZabaDeV
-- marcusverom17
+- marcusverom17git@github.com:cusquitonet/hello-git.git
 - Gabrielda2002
 - reenaBit
 - Mayron-Castillo
@@ -1051,3 +1051,5 @@
 - valbornoz
 - AlexCoffing
 - ItsRedfield
+- Cusquitonet
+
