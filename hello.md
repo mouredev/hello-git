@@ -1066,4 +1066,6 @@
 - Cusquitonet
 - IzOla
 - raquelitinha
+- luisfers5
+- ElizabethCrnl
 - GonzaloGarcia21
