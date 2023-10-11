@@ -1070,4 +1070,6 @@
 - ElizabethCrnl
 - GonzaloGarcia21
 - MarianaUrcuqui
+- Sergiochueco-94
+- Ninjaruto007
 - Ale-int
