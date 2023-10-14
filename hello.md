@@ -4,6 +4,7 @@
 
 - mouredev
 - braismoure
+- pedroamfm
 - Abiezerk
 - agustinlopezdev
 - geroschmidt
