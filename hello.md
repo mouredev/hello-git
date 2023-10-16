@@ -1096,3 +1096,4 @@
 - fradevgb
 - unacorbatanegra
 - FranSecOps
+- JuanCamiloGiraldo
