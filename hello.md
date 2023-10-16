@@ -1101,3 +1101,4 @@
 - marcdevelopez
 - demisborgeaud
 - jorge338991
+- miimote
