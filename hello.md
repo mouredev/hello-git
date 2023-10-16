@@ -1086,4 +1086,10 @@
 - alvarezgarciasergio
 - eamartin96
 - juanalc20
+- indentando
+- Puni2007
+- kmilo342
+- Everhech
+- agusrosero
+- SirGuille
 - vmarialuzm
