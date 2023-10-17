@@ -1087,7 +1087,6 @@
 - ilobar
 - eamartin96
 - juanalc20
-
 - indentando
 - Puni2007
 - kmilo342
@@ -1109,4 +1108,7 @@
 - quiquecampos92
 - AdriR-R
 - IveenNet
+- Jesalom
+- A01-Bot
+- Jymmy3024
 - Felix2695
