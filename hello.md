@@ -1087,3 +1087,4 @@
 - alvarezgarciasergio
 - eamartin96
 - juanalc20
+- pedroamfm
