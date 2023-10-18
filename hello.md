@@ -1112,4 +1112,6 @@
 - A01-Bot
 - Jymmy3024
 - Felix2695
+- pedroamfm
+- bakoeditions
 - JustHarlys
