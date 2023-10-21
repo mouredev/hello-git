@@ -5,7 +5,6 @@
 - mouredev
 - braismoure
 - Abiezerk
-- Luis
 - agustinlopezdev
 - geroschmidt
 - javicb
@@ -1118,3 +1117,4 @@
 - bakoeditions
 - JustHarlys
 - JuanAntonioOjeda
+- Luisill4036W
