@@ -926,6 +926,7 @@
 - DavidSalazarG
 - netsoren
 - Renzogon
+- xamu27
 - VictorHrnC
 - ivardev33
 - DanielPerezVelez
@@ -1117,3 +1118,4 @@
 - bakoeditions
 - JustHarlys
 - JuanAntonioOjeda
+- samuprofe
