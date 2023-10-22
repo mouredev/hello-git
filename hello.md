@@ -926,6 +926,7 @@
 - DavidSalazarG
 - netsoren
 - Renzogon
+- xamu27
 - VictorHrnC
 - ivardev33
 - DanielPerezVelez
@@ -1135,3 +1136,4 @@
 - Dobler22
 - Dervin48
 - Luisill4036W
+- samuprofe
