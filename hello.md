@@ -1117,4 +1117,16 @@
 - bakoeditions
 - JustHarlys
 - JuanAntonioOjeda
+- Pablo7776
+- facundopereira
+- cristianjcdigital
+- CamiloG
+- jlmilland
+- coloradodev
+- PaulAndre1
+- Vict0or
+- Juliantxo163
+- jf3palacios
+- JoseValperga
+- cubandeveloper89
 - Alvisdev
