@@ -1117,4 +1117,9 @@
 - bakoeditions
 - JustHarlys
 - JuanAntonioOjeda
+- Pablo7776
+- facundopereira
+- cristianjcdigital
+- CamiloG
+- jlmilland
 - coloradodev
