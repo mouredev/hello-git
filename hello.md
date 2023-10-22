@@ -1122,3 +1122,4 @@
 - cristianjcdigital
 - CamiloG
 - jlmilland
+- coloradodev
