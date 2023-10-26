@@ -1142,4 +1142,3 @@
 - jmrodriguezcorral
 - abelgzalazar
 - adelgadox
-- LeaLud
