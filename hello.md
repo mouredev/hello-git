@@ -1,5 +1,5 @@
 > ### Si estás participando en el curso. Haz un fork del proyecto y añade tu usuario de GitHub en una nueva línea.
-
+>
 > _Así practicarás un flujo completo de trabajo en Git y GitHub_
 
 - mouredev
@@ -926,6 +926,7 @@
 - DavidSalazarG
 - netsoren
 - Renzogon
+- xamu27
 - VictorHrnC
 - ivardev33
 - DanielPerezVelez
@@ -1009,6 +1010,7 @@
 - averan
 - jperegir
 - jtaboadab
+- EiroGM
 - abraham4f
 - hernirg
 - JJOELSZ
@@ -1117,4 +1119,47 @@
 - bakoeditions
 - JustHarlys
 - JuanAntonioOjeda
+- Pablo7776
+- facundopereira
+- cristianjcdigital
+- CamiloG
+- jlmilland
+- coloradodev
+- PaulAndre1
+- Vict0or
+- Juliantxo163
+- jf3palacios
+- JoseValperga
+- cubandeveloper89
+- wylcetal
+- ElkinMBecerraR
+- ELopezrse
+- Dobler22
+- Dervin48
+- Luisill4036W
+- samuprofe
+- Niicoph
+- Datsers
+- jmrodriguezcorral
+- abelgzalazar
+- adelgadox
+- Alvisdev
+- Omar25CH
+- OscarCordero
+- mario32111
+- ViGo95
+- agustingonzalezDev
+- josue50403
+- jeroba
+- mattgate
+- RavelPaniagua
+- jofegarca
+- amilcarmont
+- BetoGutierrezM
+- falfpan
+- annagul
+- EleudoFuva
+- LeaLud
+- saulmarz
+- LeonardoDLC18
 - estebang
