@@ -1010,6 +1010,7 @@
 - averan
 - jperegir
 - jtaboadab
+- EiroGM
 - abraham4f
 - hernirg
 - JJOELSZ
@@ -1142,4 +1143,28 @@
 - jmrodriguezcorral
 - abelgzalazar
 - adelgadox
+<<<<<<< HEAD
 - PaoloVD21
+=======
+- Alvisdev
+- Omar25CH
+- OscarCordero
+- mario32111
+- ViGo95
+- agustingonzalezDev
+- josue50403
+- jeroba
+- mattgate
+- RavelPaniagua
+- jofegarca
+- amilcarmont
+- BetoGutierrezM
+- falfpan
+- annagul
+- EleudoFuva
+- LeaLud
+- saulmarz
+- LeonardoDLC18
+- estebang
+- Tomu98
+>>>>>>> ee7a22d43ec0c3ebeec7c5b3ca2fbc2557de6df7
