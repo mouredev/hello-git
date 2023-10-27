@@ -1161,3 +1161,4 @@
 - EleudoFuva
 - LeaLud
 - saulmarz
+- LeonardoDLC18
