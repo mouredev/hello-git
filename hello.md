@@ -1142,4 +1142,10 @@
 - jmrodriguezcorral
 - abelgzalazar
 - adelgadox
+- Alvisdev
+- Omar25CH
+- OscarCordero
+- mario32111
+- ViGo95
+- agustingonzalezDev
 - Tomu98
