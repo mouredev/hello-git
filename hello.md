@@ -1142,4 +1142,12 @@
 - jmrodriguezcorral
 - abelgzalazar
 - adelgadox
+- Alvisdev
+- Omar25CH
+- OscarCordero
+- mario32111
+- ViGo95
+- agustingonzalezDev
+- josue50403
+- jeroba
 - mattgate
