@@ -1170,3 +1170,4 @@
 - all.galeano
 - O-Awakate
 - Fran3021
+- juanmz8
