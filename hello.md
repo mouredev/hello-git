@@ -1173,4 +1173,17 @@
 - juanmz8
 - alonsocha07
 - CamiloDev404
+- FedeAirala
+- Develoferr
+- alejandrob318
+- bryvil16
+- Tmorda
+- renzocolina
+- SamCharlie
+- K3nse1
+- martinmsr
+- LuciaRF
+- DV1L
+- Ejota93
+- carlos
 - emedevelopa
