@@ -1179,4 +1179,10 @@
 - bryvil16
 - Tmorda
 - renzocolina
+- SamCharlie
+- K3nse1
+- martinmsr
+- LuciaRF
+- DV1L
+- Ejota93
 - carlos
