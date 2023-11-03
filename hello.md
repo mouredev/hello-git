@@ -1179,4 +1179,11 @@
 - bryvil16
 - Tmorda
 - renzocolina
-- Edy4Ever
+- SamCharlie
+- K3nse1
+- martinmsr
+- LuciaRF
+- DV1L
+- Ejota93
+- carlos
+- emedevelopa
