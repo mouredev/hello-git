@@ -1187,4 +1187,10 @@
 - Ejota93
 - carlos
 - emedevelopa
--AxelToledo
+- Yoshima11
+- JoseLuis1411
+- ncastellanosort
+- b-aez
+- unamili 
+- Giulianaa
+- AxelToledo
