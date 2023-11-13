@@ -1199,4 +1199,17 @@
 - Edy4Ever
 - MickyRomanVictorio
 - LACONCHA232
-- Oscar Duglas A.
+- Eduspider7
+- Luciano
+- jordirdp
+- fbecker23
+- Jpepetrueno
+- sergiocanram
+- davepanto
+- NIU1708086
+- DenisPablo
+- eduardovivarp
+- MDD557
+- ElAprendiz0000
+- pjmf17
+- OscarDug
