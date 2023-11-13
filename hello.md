@@ -1205,3 +1205,4 @@
 - fbecker23
 - Jpepetrueno
 - sergiocanram
+- davepanto
