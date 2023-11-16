@@ -1219,4 +1219,7 @@
 - KevinOlarte1
 - DanielBanariba
 - RobertoPalmar
+- Arsfano
+- M0nchit0
+- OmeroMM93
 - RafaelChaparroCode
