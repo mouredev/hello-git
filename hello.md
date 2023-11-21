@@ -1,5 +1,5 @@
 > ### Si estás participando en el curso. Haz un fork del proyecto y añade tu usuario de GitHub en una nueva línea.
-> 
+>
 > _Así practicarás un flujo completo de trabajo en Git y GitHub_
 
 - mouredev
@@ -1191,7 +1191,7 @@
 - JoseLuis1411
 - ncastellanosort
 - b-aez
-- unamili 
+- unamili
 - Giulianaa
 - AxelToledo
 - noeeR
@@ -1228,3 +1228,4 @@
 - Paula109
 - Huesos99
 - Kabanery21
+- buuu-u
