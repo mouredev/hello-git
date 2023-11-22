@@ -1238,4 +1238,4 @@
 - PauloDamianVinci
 - paoloVD21
 - AndresGraneroSala
--SolitaMRSoftware
+- SolitaMRSoftware
