@@ -1246,3 +1246,4 @@
 - buuu-u
 - josedavid1996
 - Francbotardo
+- SolitaMRSoftware
