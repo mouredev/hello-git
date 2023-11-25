@@ -1238,4 +1238,10 @@
 - PauloDamianVinci
 - paoloVD21
 - AndresGraneroSala
+- Dietmar
+- jsalinasc77
+- IrvinC6
+- PalomaresScorp28
+- RomPirsZ
+- buuu-u
 - josedavid1996
