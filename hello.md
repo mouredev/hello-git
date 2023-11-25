@@ -1252,3 +1252,4 @@
 - naxetem
 - GaboDev23
 - NeelBit
+- Dial3D
