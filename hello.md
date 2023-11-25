@@ -1247,3 +1247,4 @@
 - josedavid1996
 - Francbotardo
 - SolitaMRSoftware
+- mufunior
