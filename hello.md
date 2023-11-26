@@ -4,7 +4,11 @@
 
 - mouredev
 - braismoure
+<<<<<<< HEAD
 - Mrlucioz
+=======
+- mrlucioz
+>>>>>>> 978d7f85873a7285a43ef3708628b729bd6d7f53
 - Abiezerk
 - agustinlopezdev
 - geroschmidt
