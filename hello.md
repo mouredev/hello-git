@@ -1258,6 +1258,11 @@
 - LissVi
 - ElJeroGGs
 - Alvenisja
-- Nahuel-a 
+- Nahuel-a
 - SkrillBoss
+- r4mons4an
+- johnvazquezz
+- Neishol
+- jeisonchuquin
+- Roballed
 - Davmel21
