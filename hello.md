@@ -1278,4 +1278,10 @@
 - jacd19
 - AguilarRaulRicardo
 - PGSCOM
+- Xxavier14
+- AgustinCabeda
+- Canperez
+- Darien190
+- edr-gh
+- StarLord450
 - antoniocalahurtado
