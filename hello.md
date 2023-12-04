@@ -1278,4 +1278,6 @@
 - jacd19
 - AguilarRaulRicardo
 - PGSCOM
+- Xxavier14
+- AgustinCabeda
 - Canperez
