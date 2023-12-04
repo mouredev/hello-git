@@ -1285,3 +1285,4 @@
 - edr-gh
 - StarLord450
 - antoniocalahurtado
+- zentyx
