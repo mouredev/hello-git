@@ -1287,3 +1287,4 @@
 - antoniocalahurtado
 - zentyx
 - Miriamcec
+- Brikedev
