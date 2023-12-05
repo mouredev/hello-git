@@ -4,7 +4,6 @@
 
 - mouredev
 - braismoure
-- Mathiur
 - Abiezerk
 - agustinlopezdev
 - geroschmidt
@@ -1272,3 +1271,4 @@
 - MaoMachado
 - Eltukyrafa
 - JAL0NS0
+- Mathiur
