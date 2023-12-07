@@ -1292,4 +1292,6 @@
 - sofiaggb
 - Jin61904
 - laubertarelli
+- Mathiur
+- Such4rd
 - angellm
