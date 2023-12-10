@@ -1299,4 +1299,9 @@
 - TroyNebula
 - MedranoKJ07
 - RPantax
+- nespinolab
+- lautypetelin
+- CaballeroSoftDev
+- pablosay
+- Erickaato
 - Cristof10
