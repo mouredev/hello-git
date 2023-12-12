@@ -1307,4 +1307,17 @@
 - Cristof10
 - jesuspetit11
 - ImYitz
-- Sergio Strazzacappa
+- psenki
+- sergiporta
+- martacg
+- rominabello87
+- AgustinEDev
+- RaulMarquez24
+- maurope
+- giampierecrisostomo 
+- alejandroavm
+- asaelz
+- ZAKKDRTE
+- Anastacio123
+- AdrianGuerra46
+- Sergio-strazzacappa
