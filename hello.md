@@ -1314,10 +1314,11 @@
 - AgustinEDev
 - RaulMarquez24
 - maurope
-- giampierecrisostomo 
+- giampierecrisostomo
 - alejandroavm
 - asaelz
 - ZAKKDRTE
 - Anastacio123
 - AdrianGuerra46
 - Sergio-strazzacappa
+- Lojsti
