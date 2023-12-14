@@ -1,5 +1,15 @@
 # Hello Git changes by Toni Gil
 
+<div align="center">
+
+<img alt="Curso de React js desde cero y con proyectos" src="https://user-images.githubusercontent.com/1561955/212888793-fd719e58-b0c2-4d03-9c55-38e3e79ebc17.png" width="500" />
+
+# Aprendiendo React ⚛️
+
+Curso para aprender **React** basado en proyectos.
+**[Todos los miércoles a las 18PM 🇪🇸 en Twitch](https://twitch.tv/midudev)**
+</div>
+
 [![Git](https://img.shields.io/badge/Git-2.37+-f14e32?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-Web-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/)
 
