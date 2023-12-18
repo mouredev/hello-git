@@ -1321,3 +1321,5 @@
 - Anastacio123
 - AdrianGuerra46
 - Sergio-strazzacappa
+- Miguel-Paredes
+- 
