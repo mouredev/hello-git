@@ -1336,3 +1336,4 @@
 - danielullauri93
 - frannmv
 - AndersonRamirez037
+- JuanM-DS
