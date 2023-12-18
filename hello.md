@@ -1339,3 +1339,4 @@
 - JuanM-DS
 - Jaquez
 - Fdez99
+- Miguel-Paredes
