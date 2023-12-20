@@ -1314,7 +1314,7 @@
 - AgustinEDev
 - RaulMarquez24
 - maurope
-- giampierecrisostomo 
+- giampierecrisostomo
 - alejandroavm
 - asaelz
 - ZAKKDRTE
@@ -1347,3 +1347,4 @@
 - Nomah2
 - Luis
 - Chrisdev00
+- mariacidoncha
