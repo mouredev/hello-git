@@ -1,1 +1,1 @@
-### Hola, estoy aprendiendo Git.
+### Hola. Estoy aprendiendo Git.
