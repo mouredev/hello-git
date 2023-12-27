@@ -1321,6 +1321,7 @@
 - Anastacio123
 - AdrianGuerra46
 - Sergio-strazzacappa
+- Lojsti
 - andrest04
 - andrestobar05
 - Jalivur
@@ -1348,9 +1349,17 @@
 - Luis
 - Chrisdev00
 - mariacidoncha
+- Jontxuburgos
 - DER3000
 - Depechedude
 - MicaBazan
 - migueszitle111
+- Ithakua
+- Nicol4s1920
+- martinval20
+- JuancaOStos
+- diegolas1973
+- JoseJesusLaCasaNieto
+- Harold-V
+- Boolu06
 - luterfloyd
-
