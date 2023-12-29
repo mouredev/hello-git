@@ -1375,4 +1375,17 @@
 - martinAguirreRuiz
 - jerson7176
 - MarkexDev
--juliansan6
+- BacterioBranches
+- Kreitos13
+- nunezlagos
+- NicoPotrich
+- tralas85
+- Jalonso76
+- WhiterBB
+- AMitchellG
+- kI0r203
+- sgj5885
+- Juankkor
+- Hugo3373
+- wampa84
+- juliansan6
