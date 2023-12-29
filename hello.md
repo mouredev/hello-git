@@ -1375,4 +1375,7 @@
 - martinAguirreRuiz
 - jerson7176
 - MarkexDev
+- BacterioBranches
+- Kreitos13
+- nunezlagos
 - NicoPotrich
