@@ -1375,4 +1375,10 @@
 - martinAguirreRuiz
 - jerson7176
 - MarkexDev
+- BacterioBranches
+- Kreitos13
+- nunezlagos
+- NicoPotrich
+- tralas85
+- Jalonso76
 - WhiterBB
