@@ -1390,4 +1390,6 @@
 - wampa84
 - juliansan6
 - AbelMV29
+- marcoosp7
+- bobkings
 - thesrcielos
