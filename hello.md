@@ -1416,4 +1416,13 @@
 - switchdays
 - helenaGM
 - SrLuis24
+- B4ST1N0
+- ONicolasEmiliano
+- JuanpaCortez93
+- MiltonSandoval
+- yanethirv
+- kakzumooto
+- DavidMontoyaHolgado
+- diegofalces
+- rantamhack
 - Cristoferdi
