@@ -1425,3 +1425,4 @@
 - DavidMontoyaHolgado
 - diegofalces
 - rantamhack
+- Cristoferdi
