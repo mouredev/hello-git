@@ -1428,7 +1428,7 @@
 - Cristoferdi
 - gerespinosa
 - Kleyner098
-- df27arts 
+- df27arts
 - johanP051
 - albertohlfrias
 - kenshivr
@@ -1436,4 +1436,6 @@
 - Eixaufnex
 - jorgerodriguez92
 - ecarmona
+- rfconde
+- valentinzurita
 - jimmyveloz
