@@ -1438,3 +1438,4 @@
 - ecarmona
 - rfconde
 - valentinzurita
+- jimmyveloz
