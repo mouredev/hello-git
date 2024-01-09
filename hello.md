@@ -1429,5 +1429,15 @@
 - Cristoferdi
 - gerespinosa
 - Kleyner098
-- df27arts 
+- df27arts
 - johanP051
+- albertohlfrias
+- kenshivr
+- jsanclemente
+- Eixaufnex
+- jorgerodriguez92
+- ecarmona
+- rfconde
+- valentinzurita
+- jimmyveloz
+- NhanDhya
