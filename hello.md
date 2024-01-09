@@ -4,7 +4,6 @@
 
 - mouredevq
 - braismoure
-- givecab
 - Abiezerk
 - agustinlopezdev
 - geroschmidt
@@ -1441,3 +1440,4 @@
 - valentinzurita
 - jimmyveloz
 - NhanDhya
+- giveCAB
