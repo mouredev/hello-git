@@ -1440,3 +1440,4 @@
 - valentinzurita
 - jimmyveloz
 - NhanDhya
+- ManuelCabral98
