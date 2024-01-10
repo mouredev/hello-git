@@ -1440,4 +1440,11 @@
 - valentinzurita
 - jimmyveloz
 - NhanDhya
+- ManuelCabral98
+- angelo1110
+- Sandez17
+- SooHav
+- Sanxeez
+- amcdev07
+- Bl4ckN3k0
 - Alan-Lugo-28
