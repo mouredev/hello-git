@@ -1440,4 +1440,4 @@
 - valentinzurita
 - jimmyveloz
 - NhanDhya
--Alan-Lugo-28
+- Alan-Lugo-28
