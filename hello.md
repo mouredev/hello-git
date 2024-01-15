@@ -1451,4 +1451,16 @@
 - raulallue
 - giveCAB
 - vmatmarco
+- leo0v0
+- OsianJL
+- gitrodhub
+- bercianor
+- Morodo00
+- LeonidasAsprilla
+- TeamFurbi
+- lucad-28
+- inc3411
+- oscarfedegc
+- dariorfm
+- dmauricio4
 - 0pio
