@@ -1470,3 +1470,4 @@
 - erickgcia
 - JosmelVergara
 - DiegoLopezDev
+- DerekMora
