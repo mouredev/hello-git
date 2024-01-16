@@ -1471,4 +1471,4 @@
 - JosmelVergara
 - DiegoLopezDev
 - DerekMora
-- nicogarciablanco
+- Nicogarciablanco
