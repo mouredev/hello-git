@@ -1471,4 +1471,4 @@
 - JosmelVergara
 - DiegoLopezDev
 - DerekMora
--Lucas88e
+- Lucas88e
