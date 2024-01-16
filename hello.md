@@ -1054,6 +1054,7 @@
 - ItsRedfield
 - Chalo86
 - anubedam
+- DataCiriano
 - Jom3
 - Krespee
 - Denix04
@@ -1465,4 +1466,5 @@
 - dmauricio4
 - 0pio
 - JRT-Vgz
+- Axelprz
 - erickgcia
