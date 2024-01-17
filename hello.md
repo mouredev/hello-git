@@ -4,6 +4,7 @@
 
 - mouredevq
 - braismoure
+- AngeloGranados
 - Abiezerk
 - agustinlopezdev
 - geroschmidt
