@@ -1471,3 +1471,4 @@
 - JosmelVergara
 - DiegoLopezDev
 - DerekMora
+- JuanP1704
