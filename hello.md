@@ -1471,4 +1471,12 @@
 - JosmelVergara
 - DiegoLopezDev
 - DerekMora
+- Nicogarciablanco
+- noeliaariza
+- Lucas88e
+- jonjimenez99
+- Olliug91
+- AndresRamos0608
+- AldoGonzalez25
+- gonzadev28
 - TabakoCuba
