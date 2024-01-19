@@ -1471,4 +1471,7 @@
 - JosmelVergara
 - DiegoLopezDev
 - DerekMora
+- Nicogarciablanco
+- noeliaariza
+- Lucas88e
 - jonjimenez99
