@@ -1471,3 +1471,5 @@
 - JosmelVergara
 - DiegoLopezDev
 - DerekMora
+- JuanCamiloMuñoz
+
