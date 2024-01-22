@@ -1487,3 +1487,4 @@
 - juanpcastano
 - JuanCamiloMuñoz
 - Kenys
+- Vidat
