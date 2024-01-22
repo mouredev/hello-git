@@ -1486,4 +1486,17 @@
 - OskarCali
 - juanpcastano
 - JuanCamiloMuñoz
--SergueyCorvoR
+- Kenys
+- Vidat
+- JowiiProgrammer
+- edgarCompte
+- LEPRITAXD
+- eliassales
+- AndresZabaleta
+- GomezVDev
+- Maxi-Soria
+- GaclySama
+- Hatusil
+- choterifa
+- JuanDYanez
+- SergueyCorvoR
