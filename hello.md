@@ -1486,4 +1486,8 @@
 - OskarCali
 - juanpcastano
 - JuanCamiloMuñoz
-- NOCTUM (COLOMBIA)
+- Kenys
+- Vidat
+- JowiiProgrammer
+- edgarCompte
+- LEPRITAXD
