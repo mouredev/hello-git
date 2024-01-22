@@ -1486,4 +1486,14 @@
 - OskarCali
 - juanpcastano
 - JuanCamiloMuñoz
+- Kenys
+- Vidat
+- JowiiProgrammer
+- edgarCompte
+- LEPRITAXD
+- eliassales
+- AndresZabaleta
+- GomezVDev
+- Maxi-Soria
+- GaclySama
 - Hatusil
