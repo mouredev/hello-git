@@ -1486,4 +1486,6 @@
 - OskarCali
 - juanpcastano
 - JuanCamiloMuñoz
+- Kenys
+- Vidat
 - JowiiProgrammer
