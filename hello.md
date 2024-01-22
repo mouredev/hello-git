@@ -1496,3 +1496,4 @@
 - GomezVDev
 - Maxi-Soria
 - GaclySama
+- Hatusil
