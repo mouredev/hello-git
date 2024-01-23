@@ -1506,4 +1506,6 @@
 - sopteccjscgmailcom
 - hug23gamers
 - Xerther
+- Rafa821
+- gonzalezjulvez
 - Shadowy-22
