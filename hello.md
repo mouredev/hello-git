@@ -1522,3 +1522,4 @@
 - Lydia3741
 - YxavierMachado
 - andreudev
+- DiegoEquise
