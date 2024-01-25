@@ -1506,4 +1506,12 @@
 - sopteccjscgmailcom
 - hug23gamers
 - Xerther
+- Rafa821
+- gonzalezjulvez
+- Shadowy-22
+- perla-zg
+- marlonss
+- Elder-Meyer
+- dmongec
+- verolopezdev
 - Romanocoder
