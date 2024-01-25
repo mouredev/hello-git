@@ -1513,3 +1513,4 @@
 - marlonss
 - Elder-Meyer
 - dmongec
+- verolopezdev
