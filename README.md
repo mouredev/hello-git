@@ -97,6 +97,14 @@ Una guía de estudio teórico-práctica paso a paso de 300 hojas para complement
 >
 > Si estás participando en el curso y ya has visto la lección 36, practica un flujo completo de trabajo en Git y GitHub añadiendo tu nombre de usuario en el documento [hello.md](./hello.md).
 
+## GitHub Actions desde cero
+
+<a href="https://youtu.be/pNtcTmCiXzw"><img src="http://i3.ytimg.com/vi/pNtcTmCiXzw/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
+
+Si quieres aprender más sobre GitHub, GitHub Actions es una herramienta muy potente que nos permite crear automatizaciones de construcción, despliegue y testing en nuestro código. Es gratis y te enseño a usarlo en este tutorial desde cero en menos de una hora.
+
+- [Tutorial GitHub Actions](https://youtu.be/pNtcTmCiXzw)
+
 ## Enlaces de interés
 
 - [Web](https://git-scm.com) oficial Git (Documentación, descarga...)
@@ -127,7 +135,6 @@ Si quieres unirte a nuestra comunidad de desarrollo, aprender programación de A
 [![Link](https://img.shields.io/badge/Links_de_interés-moure.dev-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://moure.dev)
 
 ## ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Brais Moure.
-
 ### Freelance full-stack iOS & Android engineer
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/mouredevapps?sub_confirmation=1)
@@ -137,7 +144,7 @@ Si quieres unirte a nuestra comunidad de desarrollo, aprender programación de A
 ![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/mouredev?style=social)
 
-Soy ingeniero de software desde hace más de 12 años. Desde hace 4 años combino mi trabajo desarrollando Apps con creación de contenido formativo sobre programación y tecnología en diferentes redes sociales como **[@mouredev](https://moure.dev)**.
+Soy ingeniero de software desde 2010. Desde 2018 combino mi trabajo desarrollando Apps con la creación de contenido formativo sobre programación y tecnología en diferentes redes sociales como **[@mouredev](https://moure.dev)**.
 
 ### En mi perfil de GitHub tienes más información
 
