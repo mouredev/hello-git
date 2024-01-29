@@ -1536,3 +1536,4 @@
 - marchdz
 - isAlvarezDev
 - Luisargo
+- augustosdev
