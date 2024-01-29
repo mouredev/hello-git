@@ -4,7 +4,6 @@
 
 - mouredevq
 - braismoure
-- AngeloGranados
 - Abiezerk
 - agustinlopezdev
 - geroschmidt
@@ -1472,3 +1471,4 @@
 - JosmelVergara
 - DiegoLopezDev
 - DerekMora
+- AngeloGranados
