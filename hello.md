@@ -1525,4 +1525,7 @@
 - DiegoEquise
 - IsaacMHz
 - LuisOlivaresJ
+- MoisesAReyes
+- eros7676
+- Francomoron 
 - IsabellaRodriguez
