@@ -1532,3 +1532,4 @@
 - AlexZander25
 - DavidDDL
 - DevEduardoS
+- eldekano
