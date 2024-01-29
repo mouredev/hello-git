@@ -1534,3 +1534,4 @@
 - DevEduardoS
 - eldekano
 - marchdz
+- isAlvarezDev
