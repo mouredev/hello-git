@@ -1525,4 +1525,11 @@
 - DiegoEquise
 - IsaacMHz
 - LuisOlivaresJ
+- MoisesAReyes
+- eros7676
+- Francomoron 
+- IsabellaRodriguez
+- AlexZander25
+- DavidDDL
+- DevEduardoS
 - eldekano
