@@ -1525,4 +1525,18 @@
 - DiegoEquise
 - IsaacMHz
 - LuisOlivaresJ
-- Mart1inRH710 -Gracias:3
+- MoisesAReyes
+- eros7676
+- Francomoron 
+- IsabellaRodriguez
+- AlexZander25
+- DavidDDL
+- DevEduardoS
+- eldekano
+- marchdz
+- isAlvarezDev
+- Luisargo
+- augustosdev
+- Lukensen187
+- Jesmaz6
+- Mart1nRH716
