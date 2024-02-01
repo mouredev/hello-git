@@ -1550,4 +1550,7 @@
 - ElBruckyng
 - lazg12
 - FrancoGallo
-- Dejhex iniciando con el gran mouredev
+- 01David10
+- Elinapaint
+- Tomicastel
+- Dejhex
