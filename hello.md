@@ -1552,4 +1552,7 @@
 - FrancoGallo
 - 01David10
 - Elinapaint
+- Tomicastel
+- Dejhex
+- GjDiazM
 - Martin-zn
