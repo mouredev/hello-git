@@ -1556,4 +1556,4 @@
 - Dejhex
 - GjDiazM
 - Martin-zn
-- Jared-Alanis
+- Jared-Alanis.
