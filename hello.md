@@ -1,5 +1,5 @@
 > ### Si estás participando en el curso. Haz un fork del proyecto y añade tu usuario de GitHub en una nueva línea.
-> 
+>
 > _Así practicarás un flujo completo de trabajo en Git y GitHub_
 
 - mouredevq
@@ -1527,7 +1527,7 @@
 - LuisOlivaresJ
 - MoisesAReyes
 - eros7676
-- Francomoron 
+- Francomoron
 - IsabellaRodriguez
 - AlexZander25
 - DavidDDL
@@ -1556,4 +1556,22 @@
 - Dejhex
 - GjDiazM
 - Martin-zn
+- marcoalonzo
+- Unaidevel
+- Diego-Salvana
+- Aimarmardo
+- erickstdy26
+- DGrex
+- jbodi
+- jendev497
+- JorgeOlaveLeon
+- Isabel09
+- admonadreasanchez
+- Boboxanqui
+- Danielopez27
+- martinavilasj
+- teofurlan
+- alxmares
+- eliezermarcano
+- arteemiisa
 - Gerard-Mora
