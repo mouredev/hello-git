@@ -1556,4 +1556,6 @@
 - Dejhex
 - GjDiazM
 - Martin-zn
+- marcoalonzo
+- Unaidevel
 - Diego-Salvana
