@@ -1593,4 +1593,6 @@
 - andres10cortes07
 - miguel-agm-dev
 - Klesserr
+- pguillo02
+- tomasrome
 - oswaldein5
