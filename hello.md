@@ -1594,3 +1594,4 @@
 - miguel-agm-dev
 - Klesserr
 - pguillo02
+- tomasrome
