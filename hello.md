@@ -1486,7 +1486,7 @@
 - OskarCali
 - juanpcastano
 - JuanCamiloMuñoz
-- Kenys
+- kenysdev
 - Vidat
 - JowiiProgrammer
 - edgarCompte
