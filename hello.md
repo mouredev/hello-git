@@ -4,7 +4,6 @@
 
 - mouredevq
 - braismoure
-- AstragMatyas
 - Abiezerk
 - agustinlopezdev
 - geroschmidt
@@ -1599,3 +1598,4 @@
 - oswaldein5
 - rafagarciafdz
 - Olmedomiquel
+- AstragMatyas
