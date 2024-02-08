@@ -1486,7 +1486,7 @@
 - OskarCali
 - juanpcastano
 - JuanCamiloMuñoz
-- Kenys
+- kenysdev
 - Vidat
 - JowiiProgrammer
 - edgarCompte
@@ -1593,4 +1593,8 @@
 - andres10cortes07
 - miguel-agm-dev
 - Klesserr
+- pguillo02
+- tomasrome
+- oswaldein5
+- rafagarciafdz
 - Olmedomiquel
