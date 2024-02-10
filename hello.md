@@ -1598,3 +1598,4 @@
 - oswaldein5
 - rafagarciafdz
 - Olmedomiquel
+- BrunoSC32
