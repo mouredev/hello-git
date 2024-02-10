@@ -1,5 +1,5 @@
 > ### Si estás participando en el curso. Haz un fork del proyecto y añade tu usuario de GitHub en una nueva línea.
-> 
+>
 > _Así practicarás un flujo completo de trabajo en Git y GitHub_
 
 - mouredevq
@@ -1486,7 +1486,7 @@
 - OskarCali
 - juanpcastano
 - JuanCamiloMuñoz
-- Kenys
+- kenysdev
 - Vidat
 - JowiiProgrammer
 - edgarCompte
@@ -1525,4 +1525,78 @@
 - DiegoEquise
 - IsaacMHz
 - LuisOlivaresJ
+- MoisesAReyes
+- eros7676
+- Francomoron
+- IsabellaRodriguez
+- AlexZander25
+- DavidDDL
+- DevEduardoS
+- eldekano
+- marchdz
+- isAlvarezDev
+- Luisargo
+- augustosdev
+- Lukensen187
+- Jesmaz6
+- Mart1nRH716
+- ErikaYeah
+- D4nte04
+- JoelVaz156
+- AngeloGranados
+- Cbr97nyb
+- aeslava
+- FannyCPdL
+- ElBruckyng
+- lazg12
+- FrancoGallo
+- 01David10
+- Elinapaint
+- Tomicastel
+- Dejhex
+- GjDiazM
+- Martin-zn
+- marcoalonzo
+- Unaidevel
+- Diego-Salvana
+- Aimarmardo
+- erickstdy26
+- DGrex
+- jbodi
+- jendev497
+- JorgeOlaveLeon
+- Isabel09
+- admonadreasanchez
+- Boboxanqui
+- Danielopez27
+- martinavilasj
+- teofurlan
+- alxmares
+- eliezermarcano
+- arteemiisa
+- Gerard-Mora
+- Jared-Alanis
+- cestrad5
+- daylmao
+- Over12
+- JulioV93
+- stalindlcruz
+- NixonVuele
+- Naxuh
+- dsarrion
+- nfraper
+- Jvip022
+- Danielvargas04
+- eduardolfULPGC2003
+- DD1506
+- AlanRVS
+- andres10cortes07
+- miguel-agm-dev
+- Klesserr
+- pguillo02
+- tomasrome
+- oswaldein5
+- rafagarciafdz
+- Olmedomiquel
 - NoMeeseeks
+
