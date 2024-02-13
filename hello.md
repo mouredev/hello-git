@@ -1598,4 +1598,13 @@
 - oswaldein5
 - rafagarciafdz
 - Olmedomiquel
-- IsraelReyes
+- NoMeeseeks
+- AstragMatyas
+- jordihomedes24
+- mvidal365
+- hscarom
+- Jacke
+- AbraEG95
+- Jotarose
+- jariasca9
+- isrsj
