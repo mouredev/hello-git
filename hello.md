@@ -1598,4 +1598,17 @@
 - oswaldein5
 - rafagarciafdz
 - Olmedomiquel
+- NoMeeseeks
+- AstragMatyas
+- jordihomedes24
+- mvidal365
+- hscarom
+- Jacke
+- AbraEG95
+- Jotarose
+- jariasca9
+- isrsj
+- npminit-dev
+- Juliecoronel
+- bernaluj10
 - braisd11
