@@ -1609,3 +1609,4 @@
 - jariasca9
 - isrsj
 - npminit-dev
+- Juliecoronel
