@@ -4,7 +4,6 @@
 
 - mouredevq
 - braismoure
-- lisandroviedo
 - Abiezerk
 - agustinlopezdev
 - geroschmidt
@@ -1621,3 +1620,4 @@
 - WalterDuchi
 - FedeFullDev
 - fcolper
+- lisandroviedo
