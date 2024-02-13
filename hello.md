@@ -1610,3 +1610,4 @@
 - isrsj
 - npminit-dev
 - Juliecoronel
+- bernaluj10
