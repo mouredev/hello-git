@@ -1598,4 +1598,6 @@
 - oswaldein5
 - rafagarciafdz
 - Olmedomiquel
+- NoMeeseeks
+- AstragMatyas
 - jordihomedes24
