@@ -1608,3 +1608,4 @@
 - Jotarose
 - jariasca9
 - isrsj
+- npminit-dev
