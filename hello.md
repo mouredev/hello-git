@@ -4,6 +4,7 @@
 
 - mouredevq
 - braismoure
+- chartypes
 - Abiezerk
 - agustinlopezdev
 - geroschmidt
