@@ -1,4 +1,4 @@
-# Hello Git & GitHub 
+# Hello Git & GitHub
 
 [![Git](https://img.shields.io/badge/Git-2.37+-f14e32?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-Web-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/)
@@ -13,6 +13,7 @@
 
 ## Lo que aprenderás
 
+- Modificacion hecha por mi Joe
 - Git desde su historia y fundamentos
 - Conceptos principales y flujo de trabajo
 - Manejo de terminal
@@ -135,6 +136,7 @@ Si quieres unirte a nuestra comunidad de desarrollo, aprender programación de A
 [![Link](https://img.shields.io/badge/Links_de_interés-moure.dev-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://moure.dev)
 
 ## ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Brais Moure.
+
 ### Freelance full-stack iOS & Android engineer
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/mouredevapps?sub_confirmation=1)
