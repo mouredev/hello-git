@@ -1635,3 +1635,4 @@
 - chartypes
 - jrivanshka
 - D3LP13R0
+- CD1974
