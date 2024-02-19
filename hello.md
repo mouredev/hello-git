@@ -1620,4 +1620,9 @@
 - WalterDuchi
 - FedeFullDev
 - fcolper
+- lisandroviedo
+- JavierEnriqueL
+- Grinxy
+- ElectroCoderEC
+- GallardoGH
 - Edgar24DEV
