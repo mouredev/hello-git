@@ -1620,4 +1620,7 @@
 - WalterDuchi
 - FedeFullDev
 - fcolper
-- &#11088; ElectroCoderEC 🤖🤖🤖
+- lisandroviedo
+- JavierEnriqueL
+- Grinxy
+- ElectroCoderEC
