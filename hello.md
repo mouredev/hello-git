@@ -1620,4 +1620,6 @@
 - WalterDuchi
 - FedeFullDev
 - fcolper
+- lisandroviedo
+- JavierEnriqueL
 - Grinxy
