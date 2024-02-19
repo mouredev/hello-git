@@ -1632,3 +1632,4 @@
 - joseeliezerr
 - CielitoM
 - HectorAlfonso22
+- chartypes
