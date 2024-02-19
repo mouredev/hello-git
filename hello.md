@@ -1620,4 +1620,12 @@
 - WalterDuchi
 - FedeFullDev
 - fcolper
-Luismyname
+- lisandroviedo
+- JavierEnriqueL
+- Grinxy
+- ElectroCoderEC
+- GallardoGH
+- Edgar24DEV
+- EstudianteJesus
+- Arkmiguel379
+- Luismyname
