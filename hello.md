@@ -1640,4 +1640,6 @@
 - JosafatZM
 - jjames10
 - AyRaMDT
+- GabyMilanesaDev
+- adrialvarezcorrea
 - Adricego
