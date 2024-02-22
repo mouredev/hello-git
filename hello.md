@@ -1640,4 +1640,13 @@
 - JosafatZM
 - jjames10
 - AyRaMDT
-- IvanAndresHR "ONKO"
+- GabyMilanesaDev
+- adrialvarezcorrea
+- Adricego
+- Yan451
+- JoseJuan1602
+- akirintxa
+- AmandaSMZ
+- davhage
+- AnubisTec
+- IvanAndresHR
