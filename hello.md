@@ -1640,4 +1640,15 @@
 - JosafatZM
 - jjames10
 - AyRaMDT
+- GabyMilanesaDev
+- adrialvarezcorrea
+- Adricego
+- Yan451
+- JoseJuan1602
+- akirintxa
+- AmandaSMZ
+- davhage
+- AnubisTec
+- IvanAndresHR
+- JavierAChacon
 - yanethgarcia
