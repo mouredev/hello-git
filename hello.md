@@ -1652,4 +1652,13 @@
 - IvanAndresHR
 - JavierAChacon
 - yanethgarcia
+- Jandresalvar
+- Yodel23
+- joseantonioperez123
+- pblo77
+- fernandogitme
+- Marrelli-Leandro
+- joaquiin724
+- Kayd98
+- elswork
 - EmanuelMartinezUribe
