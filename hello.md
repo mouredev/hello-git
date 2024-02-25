@@ -1652,4 +1652,7 @@
 - IvanAndresHR
 - JavierAChacon
 - yanethgarcia
-- pblo77 from Colombia
+- Jandresalvar
+- Yodel23
+- joseantonioperez123
+- pblo77
