@@ -1652,4 +1652,6 @@
 - IvanAndresHR
 - JavierAChacon
 - yanethgarcia
+- Jandresalvar
+- Yodel23
 - joseantonioperez123
