@@ -4,7 +4,6 @@
 
 - mouredevq
 - braismoure
-- ManodeCristiano
 - Abiezerk
 - agustinlopezdev
 - geroschmidt
@@ -1668,3 +1667,4 @@
 - DacalDev
 - YvetteFC
 - Javicuellar
+- ManodeCristiano
