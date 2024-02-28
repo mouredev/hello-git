@@ -1667,4 +1667,10 @@
 - DacalDev
 - YvetteFC
 - Javicuellar
+- jerdenrique
+- ANDZigsAndres
+- proluismack
+- VincentRodriguezR
+- AaronRangel99
+- MiltonFormiga
 - FepDev25
