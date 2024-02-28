@@ -1667,4 +1667,6 @@
 - DacalDev
 - YvetteFC
 - Javicuellar
+- jerdenrique
+- ANDZigsAndres
 - proluismack
