@@ -1676,4 +1676,10 @@
 - FepDev25
 - YonIvanMarquezBuitrago
 - BraulioP24
+- ManodeCristiano
+- Gonzalo98k
+- david-quinones
+- daanrango
+- Emperadev
+- gvillazack
 - Miguel-414
