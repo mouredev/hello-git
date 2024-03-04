@@ -1676,4 +1676,23 @@
 - FepDev25
 - YonIvanMarquezBuitrago
 - BraulioP24
+<<<<<<< HEAD
 
+=======
+- ManodeCristiano
+- Gonzalo98k
+- david-quinones
+- daanrango
+- Emperadev
+- gvillazack
+- Miguel-414
+- Diana22st
+- GUSSTAVUS
+- leandromartinez22
+- LeoDeBuu
+- Espasant3
+- jbsparta121
+- N30MUX
+- CrisDev3
+- jmiguelsangar
+>>>>>>> 857c13d47989d1fc89df673f52239b4957c41b8d
