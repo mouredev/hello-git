@@ -1676,4 +1676,6 @@
 - FepDev25
 - YonIvanMarquezBuitrago
 - BraulioP24
+- ManodeCristiano
+- Gonzalo98k
 - david-quinones
