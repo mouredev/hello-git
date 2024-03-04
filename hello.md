@@ -1676,4 +1676,7 @@
 - FepDev25
 - YonIvanMarquezBuitrago
 - BraulioP24
-- David "Dangraft" Anrango
+- ManodeCristiano
+- Gonzalo98k
+- david-quinones
+- daanrango
