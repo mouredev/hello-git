@@ -2,7 +2,7 @@
 >
 > _Así practicarás un flujo completo de trabajo en Git y GitHub_
 
-- mouredevq
+- mouredev
 - braismoure
 - Abiezerk
 - agustinlopezdev
@@ -1692,3 +1692,4 @@
 - N30MUX
 - CrisDev3
 - jmiguelsangar
+- adrichez
