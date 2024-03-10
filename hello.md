@@ -1693,3 +1693,4 @@
 - CrisDev3
 - jmiguelsangar
 - adrichez
+- RomeroAngelo
