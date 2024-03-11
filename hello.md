@@ -1583,6 +1583,7 @@
 - stalindlcruz
 - NixonVuele
 - Naxuh
+- Alvar0dev
 - dsarrion
 - nfraper
 - Jvip022
@@ -1693,4 +1694,22 @@
 - CrisDev3
 - jmiguelsangar
 - adrichez
--tillfabian
+- LeonFBeymar
+- promav
+- 4lverto
+- LeodevCZ
+- yeisonMoreno
+- herdavid03
+- RafaelDeveloper01
+- danifh1
+- TianGit333
+- yagolijo
+- jose-erazo
+- ricdevm
+- JoseACT7
+- marcos0803
+- jsgomezs1
+- tommarenco10
+- RomeroAngelo
+- Mizen87
+- tillfabian
