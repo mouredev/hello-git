@@ -1,3 +1,0 @@
-#Si estas participando
-
-aledev
