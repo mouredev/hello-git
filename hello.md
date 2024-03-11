@@ -1693,4 +1693,10 @@
 - CrisDev3
 - jmiguelsangar
 - adrichez
+- LeonFBeymar
+- promav
+- 4lverto
+- LeodevCZ
+- yeisonMoreno
+- herdavid03
 - RafaelDeveloper01
