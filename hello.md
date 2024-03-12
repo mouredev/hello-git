@@ -1715,4 +1715,3 @@
 - tillfabian
 - Wismal
 - LouArc
-- Yo otra vez
