@@ -1739,3 +1739,4 @@
 - SenDev
 - EdwardBideg
 - maykelcintron
+- xcualidox
