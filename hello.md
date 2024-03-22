@@ -1722,7 +1722,7 @@
 - LouArc
 - Arojoiniesta
 - Jmichael39
-- Ebo010-hub 
+- Ebo010-hub
 - nightRaven77
 - Jancarlos042003
 - pablogarciapda
@@ -1746,4 +1746,15 @@
 - danielbautistadev
 - Werisimo
 - Lautaromuller
+- Apox1991
+- KenVeraChan
+- JoseRDEV
+- linerlander
+- JuanG12001
+- AlejandroMejiaR
+- 76Oliverio
+- Anarvaezch
+- carsovg
+- roldanoteodavid
+- ovjohn
 - Enyel04
