@@ -1762,4 +1762,9 @@
 - GatiMhersi
 - daikodev
 - adrs1166ma
-- Mathias Drizzy
+- isj-code
+- jmichelc
+- FranMiDev
+- CaceresSebastian
+- nicolastt
+- MathiasDrizzy
