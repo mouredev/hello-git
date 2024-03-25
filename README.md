@@ -27,7 +27,7 @@
 
 Y mucho más...
 
-## ¡Nuevo! Libro de Git & GitHub desde cero
+## ¡Nuevo! Libro de Git & GitHub desde cero (segunda edición)
 
 <a href="https://mouredev.com/libro-git"><img src="./Media/book.jpg" style="height: 50%; width:50%;"/></a>
 
@@ -36,6 +36,14 @@ Una guía de estudio teórico-práctica paso a paso de 300 hojas para complement
 #### [Tapa Blanda y Kindle](https://mouredev.com/libro-git)
 
 #### [eBook (pdf, epub y web)](https://mouredev.com/ebook-git)
+
+*Primera edición: Abril de 2023*
+
+*Segunda edición: Abril de 2024*
+
+* *Actualización de imágenes*
+* *Sección GitHub Actions y "otros comandos"*
+* *Pequeñas correcciones*
 
 > **Nota importante**: Si dispones de la versión en papel, y quieres consultar las imágenes del libro en máxima resolución, puedes encontrarlas en el directorio [Media/Book screenshots](./Media/Book%20screenshots) del repositorio.
 
