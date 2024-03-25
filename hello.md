@@ -1762,4 +1762,11 @@
 - GatiMhersi
 - daikodev
 - adrs1166ma
+- isj-code
+- jmichelc
+- FranMiDev
+- CaceresSebastian
+- nicolastt
+- MathiasDrizzy
+- Pyrok97
 - gonzaloangaut
