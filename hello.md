@@ -1766,3 +1766,4 @@
 - jmichelc
 - FranMiDev
 - CaceresSebastian
+- nicolastt
