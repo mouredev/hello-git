@@ -1771,4 +1771,6 @@
 - Pyrok97
 - gonzaloangaut
 - Raismaav2510
+- andresmolinari
+- martinbohorquez
 - Deivisfrog
