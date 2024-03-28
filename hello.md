@@ -1779,3 +1779,5 @@
 - z3nit-dev
 - dgroes
 - BryanFP22
+- micaelavalle19
+
