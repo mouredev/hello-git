@@ -39,7 +39,7 @@ Una guía de estudio teórico-práctica paso a paso de 300 hojas para complement
 
 *Primera edición: Abril de 2023*
 
-*Segunda edición: Abril de 2024*
+*Segunda edición: Abril de 2024 [[Notas completas](./notas_segunda_ed.md)]*
 
 * *Actualización de imágenes*
 * *Sección GitHub Actions y "otros comandos"*
