@@ -1779,4 +1779,5 @@
 - z3nit-dev
 - dgroes
 - BryanFP22
--07UrielOlvera
+- Batmand0
+- 07UrielOlvera
