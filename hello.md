@@ -1797,4 +1797,6 @@
 - Nicopeek
 - AokamiX
 - DPM2310
+- OsmarGHz
+- MaxijTis
 - ablazali
