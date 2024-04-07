@@ -2,7 +2,6 @@
 >
 > _Así practicarás un flujo completo de trabajo en Git y GitHub_
 
-- JuanLuisFernandez
 - mouredev
 - braismoure
 - Abiezerk
@@ -1809,3 +1808,4 @@
 - jcmex15
 - pola
 - Antelo97
+- JuanLuisFernandez
