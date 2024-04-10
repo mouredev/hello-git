@@ -1823,4 +1823,6 @@
 - NoelTejeda
 - miguelsarabia
 - GuillermoDiaz14
+- WLSuD
+- Porfinfunciona
 - Santiidev-Colombia
