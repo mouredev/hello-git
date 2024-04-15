@@ -1826,4 +1826,6 @@
 - WLSuD
 - Porfinfunciona
 - Santiidev-Colombia
-- piperanni  desde Chile 
+- Sr-Alvarado
+- hrocando
+- piperanni
