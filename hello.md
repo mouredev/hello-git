@@ -1826,4 +1826,16 @@
 - WLSuD
 - Porfinfunciona
 - Santiidev-Colombia
-- Reaper
+- Sr-Alvarado
+- hrocando
+- piperanni
+- IreneBD
+- KontrolDev
+- danmorinigo
+- giantecca
+- C-Gabs
+- SergioFPerez
+- PucBro
+- Belensherd
+- angelurg05
+- reaperdevx
