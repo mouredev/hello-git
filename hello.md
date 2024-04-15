@@ -1826,4 +1826,9 @@
 - WLSuD
 - Porfinfunciona
 - Santiidev-Colombia
-- DanMorinigo
+- Sr-Alvarado
+- hrocando
+- piperanni
+- IreneBD
+- KontrolDev
+- danmorinigo
