@@ -17,7 +17,7 @@ Aquí tienes un resumen de los cambios introducidos en esta segunda edición:
 	* Repetir que, igual que se dice en el apartado anterior, las imágenes son referencias al curso en vídeo y, por lo tanto, no son esenciales para comprender el contenido del libro. Aún así, puedes consultar el vídeo ([mouredev.com/git-github](https://mouredev.com/git-github)) y la versión digital de las imágenes ([mouredev.com/imagenes-libro-git](https://mouredev.com/imagenes-libro-git)) en cualquier momento.
 * El comando `git checkout HEAD` se ha modificado por `git checkout HEAD -- .` en el capítulo 14.
 * Cada vez que se nombra en el capítulo 19 el comando `git merge --mine`, también se hará referencia a `--ours`. También se especifica que para la resolución de conflictos debe añadirse el nombre del archivo.
-* Se ha amplicado el apartado correspondiente a **GitHub Actions** en el capítulo 45. Ahora podrás conocer también cómo funciona esta potente funcionalidad de GitHub.
+* Se ha ampliado el apartado correspondiente a **GitHub Actions** en el capítulo 45. Ahora podrás conocer también cómo funciona esta potente funcionalidad de GitHub.
 * Antes del último apartado del libro, llamado *"Buenas prácticas"*, se ha añadido uno nuevo con *"Otros comandos"*.
 * Por último, se han corregido pequeños errores ortográficos. Ten en cuenta que la numeración de las páginas ha cambiado.
 
