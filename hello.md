@@ -1843,4 +1843,6 @@
 - Elian1723
 - SrCuffaro
 - RichardSGadea
+- manulucena12
+- Entornos2324
 - Melchor16
