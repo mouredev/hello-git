@@ -1852,4 +1852,12 @@
 - Gaania
 - alexismb
 - VictorCantu
-- sharon miranda
+- Gforneron
+- Davincillo
+- javi-rmz
+- Diegojimenezcts
+- EmmanuelMMontesinos
+- mallcca
+- Gioxed
+- dafidev
+- sharon2111
