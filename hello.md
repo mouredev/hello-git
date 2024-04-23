@@ -1868,4 +1868,8 @@
 - jostxei
 - Josue547
 - Carlos-MKR
-- Vorkov
+- luisvargasdev
+- davidsun1
+- EverViloriaAndres
+- MoreyCodex
+- Hes01
