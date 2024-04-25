@@ -3,7 +3,6 @@
 > _Así practicarás un flujo completo de trabajo en Git y GitHub_
 > 
 - mouredev
-- wilsonbarrera **
 - braismoure
 - Abiezerk
 - agustinlopezdev
@@ -1869,3 +1868,4 @@
 - jostxei
 - Josue547
 - Carlos-MKR
+- wilsonbarrera
