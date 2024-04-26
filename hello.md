@@ -1890,3 +1890,4 @@
 - dsrodriguezse
 - Sh3rlock7
 - JNBarrachina
+- oscarpuigcerver
