@@ -1876,5 +1876,11 @@
 - AlexXAwada
 - Avenator02
 - Dragtrop
-- Djpino82
-- Prueba Git Flow
+- wilsonbarrera
+- SergioGacal
+- Moisesvivass
+- Mig3L_0n
+- jdiego55
+- lcort11
+- fedegst90
+- djpino82
