@@ -1876,4 +1876,13 @@
 - AlexXAwada
 - Avenator02
 - Dragtrop
-- lacosta
+- wilsonbarrera
+- SergioGacal
+- Moisesvivass
+- Mig3L_0n
+- jdiego55
+- lcort11
+- fedegst90
+- djpino82
+- VlassDev
+- luisantonioacostas
