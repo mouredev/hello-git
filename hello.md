@@ -1876,4 +1876,17 @@
 - AlexXAwada
 - Avenator02
 - Dragtrop
+- wilsonbarrera
+- SergioGacal
+- Moisesvivass
+- Mig3L_0n
+- jdiego55
+- lcort11
+- fedegst90
+- djpino82
+- VlassDev
+- luisantonioacostas
+- Augustdev2003
+- dsrodriguezse
+- Sh3rlock7
 - JNBarrachina
