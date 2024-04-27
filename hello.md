@@ -1896,4 +1896,6 @@
 - santaravena
 - DanielLPdeJesus
 - mister-dario
-- Álvaro Wau
+- abregudev
+- lcp622
+- alvarowau
