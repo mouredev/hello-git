@@ -1896,4 +1896,11 @@
 - santaravena
 - DanielLPdeJesus
 - mister-dario
+- abregudev
+- lcp622
+- alvarowau
+- NoMeLlamoDante
+- AlexTiclla
+- GitHjuan
+- magogracian
 - jheiras
