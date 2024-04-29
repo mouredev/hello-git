@@ -1904,4 +1904,6 @@
 - GitHjuan
 - magogracian
 - jheiras
-- **_aprendere45_**
+- Solomon90s
+- JuanPedroSosa
+- aprendere45
