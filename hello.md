@@ -1904,4 +1904,9 @@
 - GitHjuan
 - magogracian
 - jheiras
-- AndresU
+- Solomon90s
+- JuanPedroSosa
+- aprendere45
+- SoviDev
+- ErickArtica
+- AndresUr
