@@ -1914,4 +1914,6 @@
 - SAMIND120
 - Joel7A
 - sGaroS
+- OctavioBerlanda
+- 14DavidNKT
 - C4rl0s
