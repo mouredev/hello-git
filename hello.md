@@ -1918,3 +1918,4 @@
 - 14DavidNKT
 - C4rl0s
 - atipaq
+- Paul Manriquez (Paul Alfredo Manriquez Chavez)
