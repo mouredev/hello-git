@@ -1918,4 +1918,13 @@
 - 14DavidNKT
 - C4rl0s
 - atipaq
+- Jav-mol
+- HALCON-CRK
+- jlopezar
+- GianninaGit
+- JaredB-Dev
+- nupsterd
+- juanfher4
+- MPerez2021
+- PaulManriquez
 - hafraileg
