@@ -1929,3 +1929,4 @@
 - PaulManriquez
 - hafraileg
 - erickalmazan
+- christiandiazv
