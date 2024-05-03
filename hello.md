@@ -1918,4 +1918,6 @@
 - 14DavidNKT
 - C4rl0s
 - atipaq
+- Jav-mol
+- HALCON-CRK
 - jlopezar
