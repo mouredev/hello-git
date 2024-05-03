@@ -1918,4 +1918,12 @@
 - 14DavidNKT
 - C4rl0s
 - atipaq
-- Paul Manriquez (Paul Alfredo Manriquez Chavez)
+- Jav-mol
+- HALCON-CRK
+- jlopezar
+- GianninaGit
+- JaredB-Dev
+- nupsterd
+- juanfher4
+- MPerez2021
+- PaulManriquez
