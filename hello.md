@@ -1918,4 +1918,7 @@
 - 14DavidNKT
 - C4rl0s
 - atipaq
-- Giannina
+- Jav-mol
+- HALCON-CRK
+- jlopezar
+- GianninaGit
