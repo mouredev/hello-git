@@ -1930,4 +1930,6 @@
 - hafraileg
 - erickalmazan
 - christiandiazv
+- AlexCastroo
+- justluisDev
 - emilianolima
