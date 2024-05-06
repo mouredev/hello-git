@@ -1930,4 +1930,8 @@
 - hafraileg
 - erickalmazan
 - christiandiazv
+- AlexCastroo
+- justluisDev
+- emilianolima
+- rumacar05
 - IbatoLionDev
