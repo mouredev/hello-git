@@ -1,4 +1,6 @@
-# Hello Git & GitHub 
+# Hello Git & GitHub HAHAHAHAHA  mejoras
+#Buen curso MoureDev excelente saca  de laravel o desarrollo movil con java o Klotin y mejores arquitecturas se la logica porque  nose como plasmarlo en un proyecto (en que orden va paquetes). Soy César Tolentino de Perú si me puede guiar seria excelente.
+# Mi Uusario es : CesarM1996
 
 [![Git](https://img.shields.io/badge/Git-2.37+-f14e32?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-Web-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/)
