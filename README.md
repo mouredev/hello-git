@@ -1,4 +1,4 @@
-# Hello Git & GitHub HAHAHAHAHA
+# Hello Git & GitHub HAHAHAHAHA  mejoras
 #Buen curso MoureDev excelente saca  de laravel o desarrollo movil con java o Klotin y mejores arquitecturas se la logica porque  nose como plasmarlo en un proyecto (en que orden va paquetes). Soy César Tolentino de Perú si me puede guiar seria excelente.
 # Mi Uusario es : CesarM1996
 
