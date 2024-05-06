@@ -1930,4 +1930,14 @@
 - hafraileg
 - erickalmazan
 - christiandiazv
+- AlexCastroo
+- justluisDev
+- emilianolima
+- rumacar05
+- IbatoLionDev
+- v0l0v
+- ddelvaller
+- Geoo16
+- DamianCasafuz
+- kronoss
 - CesarM1996
