@@ -1930,6 +1930,7 @@
 - hafraileg
 - erickalmazan
 - christiandiazv
+- osoto777
 - AlexCastroo
 - justluisDev
 - emilianolima
@@ -1941,4 +1942,18 @@
 - DamianCasafuz
 - kronoss
 - CesarM1996
+- MendezCamila
+- alarcmur
+- Alvargonzal
+- Gordo-Master
+- Bofi1
+- joseTokioSchool
+- MeLlamoOmar
+- PancoBits
+- Handres97
+- WatsiALV
+- JarolGabriel
+- J3NNYX
+- JoseH87
+- JuaniHigo
 - MatiasZancanaro
