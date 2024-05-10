@@ -1947,4 +1947,6 @@
 - Alvargonzal
 - Gordo-Master
 - Bofi1
-- Panco
+- joseTokioSchool
+- MeLlamoOmar
+- PancoBits
