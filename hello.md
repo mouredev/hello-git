@@ -3,7 +3,6 @@
 > _Así practicarás un flujo completo de trabajo en Git y GitHub_
 
 - mouredev
-- DragonQween
 - braismoure
 - Abiezerk
 - agustinlopezdev
@@ -1957,3 +1956,4 @@
 - J3NNYX
 - JoseH87
 - JuaniHigo
+- DragonQween
