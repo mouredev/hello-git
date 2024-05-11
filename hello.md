@@ -1956,4 +1956,8 @@
 - J3NNYX
 - JoseH87
 - JuaniHigo
+- DragonQween
+- CheMcPato
+- MatiasZancanaro
+- manuehhdev
 - mhrosariom
