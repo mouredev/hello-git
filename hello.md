@@ -1965,4 +1965,11 @@
 - carlos-moya
 - IsraelLizares
 - cinthyacasha
+- aresmendi
+- NeosV
+- NeoAbuelo
+- oscargeovannyrincon
+- FreddyASierraJ
+- kendallvargas
+- Ismael3011
 - rafa-centella
