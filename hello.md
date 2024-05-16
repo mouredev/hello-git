@@ -1965,4 +1965,7 @@
 - carlos-moya
 - IsraelLizares
 - cinthyacasha
+- aresmendi
+- NeosV
+- NeoAbuelo
 - oscargeovannyrincon
