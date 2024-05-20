@@ -1973,4 +1973,12 @@
 - kendallvargas
 - Ismael3011
 - rafa-centella
--jorgeadamowicz
+- Nuria8890
+- Durwian
+- hectorri
+- danyeles
+- dcpardodev
+- nksSkan
+- miguelruizF
+- Jose-Martin-Gut
+- jorgeadamowicz
