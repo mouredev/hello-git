@@ -1983,3 +1983,4 @@
 - Jose-Martin-Gut
 - jorgeadamowicz
 - ChaoticWit
+- danielhdzr
