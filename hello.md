@@ -1984,3 +1984,4 @@
 - jorgeadamowicz
 - ChaoticWit
 - danielhdzr
+- QueralesDev
