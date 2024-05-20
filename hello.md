@@ -1973,4 +1973,8 @@
 - kendallvargas
 - Ismael3011
 - rafa-centella
-- DCPARDODEV
+- Nuria8890
+- Durwian
+- hectorri
+- danyeles
+- dcpardodev
