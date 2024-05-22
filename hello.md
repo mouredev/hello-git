@@ -1985,4 +1985,8 @@
 - ChaoticWit
 - danielhdzr
 - QueralesDev
+- jaimeNar
+- Carlicsus
+- VictorE16
+- Nekol12
 - marinaTTM
