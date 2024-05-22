@@ -1985,4 +1985,6 @@
 - ChaoticWit
 - danielhdzr
 - QueralesDev
+- jaimeNar
+- Carlicsus
 - VictorE16
