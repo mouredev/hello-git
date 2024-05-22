@@ -1986,3 +1986,4 @@
 - danielhdzr
 - QueralesDev
 - jaimeNar
+- Carlicsus
