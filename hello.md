@@ -1985,4 +1985,5 @@
 - ChaoticWit
 - danielhdzr
 - QueralesDev
+- jaimeNar
 - Carlicsus
