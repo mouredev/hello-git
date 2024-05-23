@@ -5,7 +5,6 @@
 - mouredev
 - braismoure
 - Abiezerk
-- raynerpv2022
 - agustinlopezdev
 - geroschmidt
 - javicb
@@ -1986,3 +1985,4 @@
 - ChaoticWit
 - danielhdzr
 - QueralesDev
+- raynerpv2022
