@@ -1985,4 +1985,10 @@
 - ChaoticWit
 - danielhdzr
 - QueralesDev
-- raynerpv2022
+- jaimeNar
+- Carlicsus
+- VictorE16
+- Nekol12
+- evillarDev
+- marinaTTM
+- kuakoze
