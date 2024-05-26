@@ -1992,5 +1992,16 @@
 - evillarDev
 - marinaTTM
 - kuakoze
+- JoseRando12
+- JesusAceijas
+- sacosent
+- raynerpv2022
+- JuanDavidBastidas01
+- Hasedev
+- Eliskopun
+- Ivax7
+- sergioacunamartin
+- FranciscoJSBarragan
+- dannywilsonapaza
+- Sara-404
 - gvillasevil
-- 
