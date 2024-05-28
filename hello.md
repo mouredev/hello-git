@@ -187,7 +187,7 @@
 - yaleika
 - tut1n0
 - PwrOverwhelming
-https://github.com/josehb96/hello-git-PR-practice.git- javsjimenez
+- javsjimenez
 - Snipsx17
 - Aleboscrak
 - Beloxp
