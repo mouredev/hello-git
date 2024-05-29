@@ -4,6 +4,7 @@
 
 - mouredev
 - braismoure
+- RafaAlgotrading
 - Abiezerk
 - agustinlopezdev
 - geroschmidt
