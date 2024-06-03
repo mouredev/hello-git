@@ -2015,4 +2015,10 @@
 - igmarco
 - juanferitera
 - jorgeluismedina
+- jdom182
+- chaskibum
+- josehb96
+- JuanBrinicle86
+- MateMaki33
+- SamAS400
 - jtoledom1
