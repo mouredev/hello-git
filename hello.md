@@ -2015,4 +2015,9 @@
 - igmarco
 - juanferitera
 - jorgeluismedina
-- samAS400
+- jdom182
+- chaskibum
+- josehb96
+- JuanBrinicle86
+- MateMaki33
+- SamAS400
