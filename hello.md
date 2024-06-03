@@ -2015,4 +2015,8 @@
 - igmarco
 - juanferitera
 - jorgeluismedina
-- matedeveloop
+- jdom182
+- chaskibum
+- josehb96
+- JuanBrinicle86
+- MateMaki33
