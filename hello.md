@@ -12,7 +12,6 @@
 - Alexis033
 - LilyMilano
 - soyaldobeltran
-- [JuanjoAJ](https://github.com/JuanjoAJ)
 - franpistelli
 - Hugovrc
 - ZielDev
@@ -2030,3 +2029,4 @@
 - Cbastian-Araque
 - David-Abitia 
 - GonBlank
+- [JuanjoAJ](https://github.com/JuanjoAJ)
