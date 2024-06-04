@@ -2029,4 +2029,7 @@
 - Cbastian-Araque
 - David-Abitia 
 - GonBlank
-- [JuanjoAJ](https://github.com/JuanjoAJ)
+- JoeQuintero
+- santifsaf
+- Yererlin
+- JuanjoAJ
