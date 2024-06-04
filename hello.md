@@ -2,7 +2,6 @@
 >
 > _Así practicarás un flujo completo de trabajo en Git y GitHub_
 
-- Esteban
 - mouredev
 - braismoure
 - Abiezerk
@@ -2034,3 +2033,4 @@
 - santifsaf
 - Yererlin
 - JuanjoAJ
+- Esteban
