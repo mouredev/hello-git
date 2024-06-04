@@ -4,7 +4,6 @@
 
 - mouredev
 - braismoure
-- RafaAlgotrading
 - Abiezerk
 - agustinlopezdev
 - geroschmidt
@@ -2034,3 +2033,4 @@
 - santifsaf
 - Yererlin
 - JuanjoAJ
+- RafaAlgotrading
