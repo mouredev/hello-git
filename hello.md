@@ -12,6 +12,7 @@
 - Alexis033
 - LilyMilano
 - soyaldobeltran
+- [JuanjoAJ](https://github.com/JuanjoAJ)
 - franpistelli
 - Hugovrc
 - ZielDev
