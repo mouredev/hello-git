@@ -2035,5 +2035,6 @@
 - JuanjoAJ
 - RafaAlgotrading
 - Xabiguitian
-- Esteban
+- Estebannjsr
 - ferranbarbara
+- CevicheMixto23
