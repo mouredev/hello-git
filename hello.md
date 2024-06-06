@@ -2033,4 +2033,8 @@
 - santifsaf
 - Yererlin
 - JuanjoAJ
+- RafaAlgotrading
+- Xabiguitian
+- Estebannjsr
+- ferranbarbara
 - CevicheMixto23
