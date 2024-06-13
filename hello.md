@@ -1,4 +1,4 @@
-> ### Si estás participando en el curso. Haz un fork del proyecto y añade tu usuario de GitHub en una nueva línea 
+> ### Si estás participando en el curso. Haz un fork del proyecto y añade tu usuario de GitHub en una nueva línea
 >
 > _Así practicarás un flujo completo de trabajo en Git y GitHub_
 
@@ -2027,7 +2027,7 @@
 - chevesichdanko
 - AndreaSofiaValdez
 - Cbastian-Araque
-- David-Abitia 
+- David-Abitia
 - GonBlank
 - JoeQuintero
 - santifsaf
@@ -2038,4 +2038,16 @@
 - Estebannjsr
 - ferranbarbara
 - CevicheMixto23
+- tylsonb
+- CabinetSpyder
+- baadeel
+- BranCG
+- ruesga-99
+- JABUM-Dev
+- CarlosJavierOrozco
+- FelixGranado
+- Eugene1805
+- Ferca1993
+- yRomeroDev
+- samuelluna84
 - Espasante-XP
