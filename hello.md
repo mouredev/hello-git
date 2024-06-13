@@ -2051,3 +2051,4 @@
 - yRomeroDev
 - samuelluna84
 - Espasante-XP
+- adesduende
