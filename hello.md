@@ -4,7 +4,6 @@
 
 - mouredev
 - braismoure
-- somilsdiaz
 - Abiezerk
 - agustinlopezdev
 - geroschmidt
@@ -2077,3 +2076,4 @@
 - FabricioHG
 - Black-Mount
 - KikolasDEV
+- somilsdiaz
