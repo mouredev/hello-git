@@ -2,6 +2,7 @@
 >
 > _Así practicarás un flujo completo de trabajo en Git y GitHub_
 
+
 - mouredev
 - braismoure
 - Abiezerk
@@ -2081,4 +2082,15 @@
 - seba-alfano
 - EduMarc
 - AlejandroV2204
+- Jonoqu999
+- lvicenteperea
+- somilsdiaz
+- VolumiDev
+- VAP-developer
+- MartheloBurbanoSeg
+- ignaciorevainera
+- Pwrxman
+- valeriatorrealba
+- AFHH999
+- cmejiajulian
 - jthomasf
