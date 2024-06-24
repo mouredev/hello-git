@@ -2095,4 +2095,8 @@
 - cmejiajulian
 - jthomasf
 - DaviDevGG
-- TomasLatorre
+- jgregoris
+- DJimenez-dev
+- Juliandross
+- alemoraris
+- TOMAS-IGNACIO-LATORRE
