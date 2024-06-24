@@ -2097,3 +2097,4 @@
 - DaviDevGG
 - jgregoris
 - DJimenez-dev
+- Juliandross
