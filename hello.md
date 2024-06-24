@@ -5,7 +5,6 @@
 
 - mouredev
 - braismoure
-- FranMahecha
 - Abiezerk
 - agustinlopezdev
 - geroschmidt
@@ -2096,3 +2095,4 @@
 - cmejiajulian
 - jthomasf
 - DaviDevGG
+- FranMahecha
