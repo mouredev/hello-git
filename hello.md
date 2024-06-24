@@ -2095,4 +2095,9 @@
 - cmejiajulian
 - jthomasf
 - DaviDevGG
+- jgregoris
+- DJimenez-dev
+- Juliandross
+- alemoraris
+- TOMAS-IGNACIO-LATORRE
 - pdafoto
