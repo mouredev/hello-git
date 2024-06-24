@@ -2095,4 +2095,7 @@
 - cmejiajulian
 - jthomasf
 - DaviDevGG
+- jgregoris
+- DJimenez-dev
+- Juliandross
 - alemoraris
