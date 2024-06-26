@@ -2106,4 +2106,7 @@
 - paularellanom
 - Hernanzala15
 - JARS1904
+- AngelaGijon
+- GlossyPath
+- Roger5572019
 - Landryx-Gmz
