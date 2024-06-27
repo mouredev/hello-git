@@ -2112,4 +2112,4 @@
 - Landryx-Gmz
 - Jorge-Chavez004
 - albertomfdev
-- BernatCS
+- Bernatcs
