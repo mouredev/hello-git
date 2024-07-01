@@ -5,7 +5,6 @@
 - mouredev
 - braismoure
 - Abiezerk
-- LanzeWeb
 - agustinlopezdev
 - geroschmidt
 - javicb
