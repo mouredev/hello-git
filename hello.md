@@ -2127,6 +2127,7 @@
 - sirs-dev
 - Arkadio147
 - JoseLuisPerdomo
+- Lumanet
 - dmorafoguet
 - davidnbr
 - N3xx0dev
