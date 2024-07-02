@@ -8,6 +8,7 @@
 - agustinlopezdev
 - geroschmidt
 - javicb
+- Paz1Ws
 - erickvr2k
 - Alexis033
 - LilyMilano
