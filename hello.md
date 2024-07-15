@@ -2173,4 +2173,6 @@
 - StefanooV
 - IvanSMMA
 - msanlub
+- daanidev21
+- magerosco
 - GustavoAu
