@@ -2173,4 +2173,5 @@
 - StefanooV
 - IvanSMMA
 - msanlub
-- anasagastialejandro
+- daanidev21
+- magerosco
