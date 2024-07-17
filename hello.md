@@ -2183,4 +2183,12 @@
 - gatoJijen
 - GadielRP
 - JoelVilc
+- JoseJavega
+- JulianB0315
+- Diego17cp
+- Natalep
+- Abel10cf
+- IGaspar23
+- GuidoDev4
+- Pedrolu47
 - JoseMonico
