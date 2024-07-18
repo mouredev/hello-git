@@ -2186,10 +2186,15 @@
 - JoseJavega
 - JulianB0315
 - Diego17cp
-- Natalep
+- Natalep       
 - Abel10cf
 - IGaspar23
 - GuidoDev4
 - Pedrolu47
 - JoseMonico
+- David7978
+- jcrobles99
+- jies2024
+- marce1084
+- KuantumQuest
 - jeankydev
