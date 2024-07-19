@@ -2198,4 +2198,6 @@
 - marce1084
 - KuantumQuest
 - jeankydev
+- jgpg000
+- JorgeZarzueloGonzalez
 - Jcodem
