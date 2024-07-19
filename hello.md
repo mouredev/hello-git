@@ -2186,7 +2186,7 @@
 - JoseJavega
 - JulianB0315
 - Diego17cp
-- Natalep       
+- Natalep
 - Abel10cf
 - IGaspar23
 - GuidoDev4
@@ -2198,3 +2198,4 @@
 - marce1084
 - KuantumQuest
 - jeankydev
+- VictorR15
