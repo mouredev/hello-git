@@ -3,7 +3,6 @@
 > _Así practicarás un flujo completo de trabajo en Git y GitHub_
 
 - mouredev
-- Ignacio 
 - braismoure
 - Abiezerk
 - agustinlopezdev
@@ -2187,7 +2186,7 @@
 - JoseJavega
 - JulianB0315
 - Diego17cp
-- Natalep       
+- Natalep
 - Abel10cf
 - IGaspar23
 - GuidoDev4
@@ -2199,3 +2198,8 @@
 - marce1084
 - KuantumQuest
 - jeankydev
+- jgpg000
+- JorgeZarzueloGonzalez
+- Jcodem
+- VictorR15
+- IgnacioPasten
