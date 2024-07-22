@@ -2202,4 +2202,14 @@
 - JorgeZarzueloGonzalez
 - Jcodem
 - VictorR15
+- ambaraguirre
+- Jonnanno
+- DanielVZ0112
+- zeti1231
+- StephTeno
+- progValji
+- Santyesco09
+- DGJuancho
+- SergioDev8
+- IgnacioPasten
 - alhexmbs
