@@ -2202,4 +2202,10 @@
 - JorgeZarzueloGonzalez
 - Jcodem
 - VictorR15
-- JuanjoSolutions
+- ambaraguirre
+- Jonnanno
+- DanielVZ0112
+- zeti1231
+- StephTeno
+- progValji
+- Santyesco09
