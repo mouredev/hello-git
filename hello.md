@@ -2224,4 +2224,5 @@
 - Imbru
 - MartinPardo4
 - MelonConYogurt
-- Tecomahua :)
+- Salome-vm
+- SUORDd
