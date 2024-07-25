@@ -2224,4 +2224,6 @@
 - Imbru
 - MartinPardo4
 - MelonConYogurt
+- Salome-vm
+- SUORDd
 - MatiasZayas
