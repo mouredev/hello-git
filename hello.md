@@ -2249,5 +2249,9 @@
 - ANGE01SIS
 - YeshuaCM
 - taloah
-- Alvaro 
+- Alvaro
+- julian0521
+- xandreiitaax07
+- Ruthmp
+- Matematicslp
 - JesusEs1312
