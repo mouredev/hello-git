@@ -2259,4 +2259,10 @@
 - fpadronf
 - CHARLIEEDOKPA
 - MarioNet001
-- **_JoakoDelgado_**
+- FranCoderC
+- freddysito17
+- JeanpiV
+- EnriqueVal09
+- jhonatanseminario
+- claudiob1
+- JDamianDelgado
