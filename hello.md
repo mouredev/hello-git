@@ -3,7 +3,6 @@
 > _Así practicarás un flujo completo de trabajo en Git y GitHub_
 
 - mouredev
-- Manu Moraira(manummg10)Tengo 36 años y empezando con la programacion "Gracías por tu tiempo amigo"
 - braismoure
 - Abiezerk
 - agustinlopezdev
@@ -2260,3 +2259,4 @@
 - fpadronf
 - CHARLIEEDOKPA
 - MarioNet001
+- manummg10
