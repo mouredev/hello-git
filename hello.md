@@ -2259,9 +2259,7 @@
 - fpadronf
 - CHARLIEEDOKPA
 - MarioNet001
-<<<<<<< HEAD
-- manummg10
-=======
+- TheMarian85
 - FranCoderC
 - freddysito17
 - JeanpiV
@@ -2278,4 +2276,4 @@
 - franciscojcc007
 - JohnVelaMacedo
 - galaz117
->>>>>>> 3494c17cd84ba772aa64be13765cfb75e3a5b2b8
+- manummg10
