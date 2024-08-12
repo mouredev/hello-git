@@ -2285,5 +2285,19 @@
 - juanpf04
 - winss03
 - VictorSschz
+- jalejohg
+- caospaex
+- valentino-ortiz
+- DevMasterCJ
+- brianrscode
+- CodedBySalazar
+- AlvaroMN1991
+- garna013
+- mauricho
+- yohaan2
+- Oznadev
+- TecnoCoder
+- gugliio
+- k4rv3r
+- visapea
 - ETruICI
-
