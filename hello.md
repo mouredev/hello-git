@@ -2285,4 +2285,7 @@
 - juanpf04
 - winss03
 - VictorSschz
-- CarlosJG
+- jalejohg
+- caospaex
+- valentino-ortiz
+- DevMasterCJ
