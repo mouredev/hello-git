@@ -1,4 +1,4 @@
-# Hello Git & GitHub 
+# Hello Git & GitHub
 
 [![Git](https://img.shields.io/badge/Git-2.37+-f14e32?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-Web-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/)
@@ -37,13 +37,13 @@ Una guía de estudio teórico-práctica paso a paso de 300 hojas para complement
 
 #### [eBook (pdf, epub y web)](https://mouredev.com/ebook-git)
 
-*Primera edición: Abril de 2023*
+_Primera edición: Abril de 2023_
 
-*Segunda edición: Abril de 2024 [[Notas completas](./notas_segunda_ed.md)]*
+_Segunda edición: Abril de 2024 [[Notas completas](./notas_segunda_ed.md)]_
 
-* *Actualización de imágenes*
-* *Sección GitHub Actions y "otros comandos"*
-* *Pequeñas correcciones*
+- _Actualización de imágenes_
+- _Sección GitHub Actions y "otros comandos"_
+- _Pequeñas correcciones_
 
 > **Nota importante**: Si dispones de la versión en papel, y quieres consultar las imágenes del libro en máxima resolución, puedes encontrarlas en el directorio [Media/Book screenshots](./Media/Book%20screenshots) del repositorio.
 
@@ -143,6 +143,7 @@ Si quieres unirte a nuestra comunidad de desarrollo, aprender programación de A
 [![Link](https://img.shields.io/badge/Links_de_interés-moure.dev-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://moure.dev)
 
 ## ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Brais Moure.
+
 ### Freelance full-stack iOS & Android engineer
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/mouredevapps?sub_confirmation=1)
@@ -158,4 +159,5 @@ Soy ingeniero de software desde 2010. Desde 2018 combino mi trabajo desarrolland
 
 [![Web](https://img.shields.io/badge/GitHub-MoureDev-14a1f0?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/mouredev)
 
+un curso muy interesante!! Gracias por tu trabajo!!
 ...
