@@ -4,6 +4,7 @@
 
 - mouredev
 - braismoure
+- alvaromoron27
 - Abiezerk
 - agustinlopezdev
 - geroschmidt
@@ -2277,7 +2278,6 @@
 - JohnVelaMacedo
 - galaz117
 - manummg10
-- alvaromoron27
 - Chvrry1
 - IvanAGzgz
 - AlejandroFull
