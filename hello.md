@@ -45,6 +45,7 @@
 - dduran76
 - domingolf
 - FranVazquezG
+- danhingar
 - monleon96
 - javiMerida
 - RubenFortDev
