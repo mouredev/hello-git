@@ -2339,3 +2339,4 @@
 - NuriahDev
 - agus0505
 - JairoMolano
+- r1k4rd0g
