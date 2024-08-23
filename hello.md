@@ -2332,3 +2332,4 @@
 - krlosdev8244
 - hasso13
 - ParcivalDev
+- DuocGauss
