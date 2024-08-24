@@ -2349,3 +2349,4 @@
 - luismorenogv
 - ymorgil
 - Lidorbcn
+- BrunoLossada
