@@ -2344,4 +2344,9 @@
 - nelsiton20
 - EliasZach
 - vicente87
-- Bruno Lossada Dusset
+- DenderP
+- zeox09
+- luismorenogv
+- ymorgil
+- Lidorbcn
+- BrunoLossada
