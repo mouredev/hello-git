@@ -2348,3 +2348,4 @@
 - zeox09
 - luismorenogv
 - ymorgil
+- Lidorbcn
