@@ -2352,4 +2352,6 @@
 - BrunoLossada
 - DiegoJimenezUdla
 - neo091
-- Ranie2704 (AbadDev)
+- Jd2698
+- poxtius
+- Ranie2704A
