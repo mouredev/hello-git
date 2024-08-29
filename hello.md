@@ -2364,4 +2364,9 @@
 - AL34J11
 - KLL3R1450
 - pablopruebas
+- hedgarvy
+- davidpena98
+- Valitogt79
+- octaviorgc
+- jimfdez
 - N1c0l4s2804
