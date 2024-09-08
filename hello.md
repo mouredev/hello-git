@@ -2393,4 +2393,7 @@
 - ale364
 - CarlosLizamaGarcia
 - CanduriLuis
-- hugopzz
+- blancaap
+- jrhvega
+- CotaEmilio70
+- HugoPzo
