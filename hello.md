@@ -2393,4 +2393,8 @@
 - ale364
 - CarlosLizamaGarcia
 - CanduriLuis
+- blancaap
+- jrhvega
+- CotaEmilio70
+- HugoPzo
 - Clotrack
