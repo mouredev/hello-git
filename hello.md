@@ -2404,7 +2404,6 @@
 - ANTDORVEN
 - KevynDiaz10
 - carlitoswolf
-<<<<<<< HEAD
 - rolyan
 - rsaenz87
 - melhk2
@@ -2414,6 +2413,4 @@
 - Rober11pg
 - ChicoGavi
 - JuanABA
-=======
 - MoisesOrt25
->>>>>>> c33c66b3 (creacion de readme)
