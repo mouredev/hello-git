@@ -4,7 +4,6 @@
 
 - mouredev
 - braismoure
-- JHONTYU12
 - Abiezerk
 - agustinlopezdev
 - geroschmidt
@@ -2414,3 +2413,5 @@
 - Rober11pg
 - ChicoGavi
 - JuanABA
+- JHONTYU12
+
