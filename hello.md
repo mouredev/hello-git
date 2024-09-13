@@ -14,7 +14,6 @@
 - soyaldobeltran
 - franpistelli
 - Hugovrc
-- Yarbisbeme
 - ZielDev
 - cesarAndramart
 - vlc33
@@ -2422,3 +2421,4 @@
 - dani5m
 - JuanMonte96
 - juliogarciape
+-Yarbisbeme
