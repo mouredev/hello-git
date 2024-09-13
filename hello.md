@@ -2413,4 +2413,6 @@
 - Rober11pg
 - ChicoGavi
 - JuanABA
-- Xuko90
+- sorayapg
+- MoisesOrtiz25
+- CLeivaC
