@@ -4,7 +4,6 @@
 
 - mouredev
 - braismoure
-- Jozefhdez
 - Abiezerk
 - agustinlopezdev
 - geroschmidt
@@ -2438,4 +2437,5 @@
 - IgnacioGM1973
 - AlexDevCoding
 - kkrlosdev
+- Entitycrethus
 - Jozefhdez
