@@ -2439,4 +2439,5 @@
 - kkrlosdev
 - Entitycrethus
 - Jozefhdez
-- Deiduri
+- VicenteCorts
+- Uri-14
