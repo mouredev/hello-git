@@ -2459,4 +2459,6 @@
 - AlvarxRaul 
 - AnaHdzM
 - Yagamii537
+- SantiDev28
+- ReyRomano
 - SantiFer26
