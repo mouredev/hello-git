@@ -2456,7 +2456,7 @@
 - yuri19762008
 - OmarOrtez
 - TobSer-JC
-- AlvarxRaul 
+- AlvarxRaul
 - AnaHdzM
 - Yagamii537
 - SantiDev28
@@ -2472,4 +2472,16 @@
 - AudeJassiel12
 - jhoncodev
 - PacoOM25
+- JanVal3k
+- dileroc6
+- MiiguelHG
+- jocao24
+- AgustinZP
+- Kr1XM0
+- ricardom-ll
+- RuhlMirko
+- ElTitoStonks
+- hernandez-r
+- cosettek
+- GabosM27
 - ronnier0330
