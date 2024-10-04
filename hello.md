@@ -2485,3 +2485,4 @@
 - cosettek
 - GabosM27
 - ronnier0330
+- dev-arivas
