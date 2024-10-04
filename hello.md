@@ -4,6 +4,7 @@
 
 - mouredev
 - braismoure
+- CronusCore
 - Abiezerk
 - agustinlopezdev
 - geroschmidt
