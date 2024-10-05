@@ -4,7 +4,6 @@
 
 - mouredev
 - braismoure
-- CronusCore
 - Abiezerk
 - agustinlopezdev
 - geroschmidt
@@ -2483,3 +2482,4 @@
 - RuhlMirko
 - ElTitoStonks
 - hernandez-r
+- CronusCore
