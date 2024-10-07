@@ -2488,4 +2488,12 @@
 - dev-arivas
 - CronusCore
 - jcrtorres
+- NeithJNB
+- Juan-Pablo-Palacio
+- VictorMDev24
+- OutsiderChikito
+- RikiGL
+- gregorydev97
+- MTElopez
+- alvarezmol
 - OscarPetevi
