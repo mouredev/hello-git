@@ -2489,3 +2489,4 @@
 - CronusCore
 - jcrtorres
 - NeithJNB
+- Juan-Pablo-Palacio
