@@ -2486,4 +2486,8 @@
 - GabosM27
 - ronnier0330
 - dev-arivas
+- CronusCore
+- jcrtorres
+- NeithJNB
+- Juan-Pablo-Palacio
 - VictorMDev24
