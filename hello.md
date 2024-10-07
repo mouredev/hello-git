@@ -2488,3 +2488,4 @@
 - dev-arivas
 - CronusCore
 - jcrtorres
+- NeithJNB
