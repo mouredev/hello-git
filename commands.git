@@ -1,0 +1,23 @@
+# git init
+# git branch login
+# git add y git commit
+# git log y git status
+# git log --graph --pretty=one line
+# git log --graph --decorate --all --one line
+# git checkout y git reset
+# git checkout y git reset
+# git tag
+# git branch y git switch
+# git merge
+# git branch -d <rama>
+# git stash
+# git remote
+# git fetch y git 
+# git config pull.rebase false
+# git pull origin main
+# git clone
+# git push
+# git cherry-pick y git rebase
+#
+#
+#
