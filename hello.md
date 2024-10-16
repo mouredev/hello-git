@@ -2508,4 +2508,14 @@
 - Fabian7Aguirre
 - ninel2702
 - eliecerChacon
+- soydianaibarra
+- ChrisSR0
+- loiz1
+- WekarXD
+- CamiMancu
+- Emanuel2407
+- Crohum
+- yken-neky
+- njaimev
+- urielortega
 - amst1909
