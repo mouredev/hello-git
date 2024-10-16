@@ -2508,4 +2508,6 @@
 - Fabian7Aguirre
 - ninel2702
 - eliecerChacon
-- loiz1 (12-10-24)
+- soydianaibarra
+- ChrisSR0
+- loiz1
