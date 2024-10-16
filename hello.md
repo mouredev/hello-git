@@ -2508,4 +2508,7 @@
 - Fabian7Aguirre
 - ninel2702
 - eliecerChacon
-- Wekar
+- soydianaibarra
+- ChrisSR0
+- loiz1
+- WekarXD
