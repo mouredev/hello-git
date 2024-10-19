@@ -2519,4 +2519,11 @@
 - njaimev
 - urielortega
 - amst1909
+- MiguelRosalesL
+- jimenaesquivel13
+- GenosisDev
+- iBlacKings
+- RdeToro
+- mordevspt
+- JuanCarlosBermu
 - jordanurzua
