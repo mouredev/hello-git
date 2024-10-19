@@ -1,5 +1,7 @@
+<!-- @format -->
+
 > ### Si estás participando en el curso. Haz un fork del proyecto y añade tu usuario de GitHub en una nueva línea
-> 
+>
 > _Así practicarás un flujo completo de trabajo en Git y GitHub_
 
 - mouredev
@@ -2518,4 +2520,5 @@
 - yken-neky
 - njaimev
 - urielortega
-- amst1909
+- soy gay
+- dev_mendoza
