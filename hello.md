@@ -2520,5 +2520,13 @@
 - yken-neky
 - njaimev
 - urielortega
-- soy gay
-- dev_mendoza
+- amst1909
+- MiguelRosalesL
+- jimenaesquivel13
+- GenosisDev
+- iBlacKings
+- RdeToro
+- mordevspt
+- JuanCarlosBermu
+- jordanurzua
+- ajml502
