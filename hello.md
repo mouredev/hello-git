@@ -2519,4 +2519,7 @@
 - njaimev
 - urielortega
 - amst1909
-- iBlacKing_
+- MiguelRosalesL
+- jimenaesquivel13
+- GenosisDev
+- iBlacKings
