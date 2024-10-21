@@ -2529,4 +2529,8 @@
 - jordanurzua
 - WillyCoderUX
 - ajml502
+- dayron-rd
+- Csar290
+- JanSua
+- Marco-aq
 - jcmc209
