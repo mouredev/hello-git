@@ -4,7 +4,7 @@
 
 - mouredev
 - braismoure
-- IstBryan09
+- ItsBryan09
 - Abiezerk
 - agustinlopezdev
 - geroschmidt
