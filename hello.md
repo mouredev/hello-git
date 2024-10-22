@@ -4,7 +4,6 @@
 
 - mouredev
 - braismoure
-- Print-Alan
 - Abiezerk
 - agustinlopezdev
 - geroschmidt
@@ -2535,3 +2534,4 @@
 - JanSua
 - Marco-aq
 - jcmc209
+- Print-Alan
