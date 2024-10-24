@@ -2537,4 +2537,6 @@
 - Davidmr7
 - Print-Alan
 - daniel242002
-- Julialozafermin
+- CarlosTirado16
+- Estebangtz
+- Julianlozafermin
