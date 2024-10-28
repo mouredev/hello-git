@@ -2544,3 +2544,4 @@
 - r-nassib
 - Andrle0600
 - SyrockBug
+- Isaac Alvarez
