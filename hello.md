@@ -2544,4 +2544,9 @@
 - r-nassib
 - Andrle0600
 - SyrockBug
+- angeldhs00
+- Nicier
+- ChristianBustamante29
+- jorgesr05
+- NeoJordan
 - Vicasfer
