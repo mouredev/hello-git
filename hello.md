@@ -2544,4 +2544,6 @@
 - r-nassib
 - Andrle0600
 - SyrockBug
-- SpaceCat29
+- angeldhs00
+- Nicier
+- ChristianBustamante29
