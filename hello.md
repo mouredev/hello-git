@@ -2544,4 +2544,15 @@
 - r-nassib
 - Andrle0600
 - SyrockBug
-- Isaac Alvarez
+- angeldhs00
+- Nicier
+- ChristianBustamante29
+- jorgesr05
+- NeoJordan
+- Vicasfer
+- juanitoxd
+- JoseLuisRTrader
+- OmarVB77
+- JFSarrazola
+- mgs1960
+- isAlvarezDev
