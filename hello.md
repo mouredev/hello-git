@@ -1,7 +1,5 @@
 > ### Si estás participando en el curso. Haz un fork del proyecto y añade tu usuario de GitHub en una nueva línea
->## Hola mundo.
-
-ss
+>
 > _Así practicarás un flujo completo de trabajo en Git y GitHub_
 
 - mouredev
@@ -2546,4 +2544,7 @@ ss
 - r-nassib
 - Andrle0600
 - SyrockBug
+- angeldhs00
+- Nicier
+- ChristianBustamante29
 - jorgesr05
