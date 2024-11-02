@@ -2537,4 +2537,12 @@
 - Davidmr7
 - Print-Alan
 - daniel242002
+- CarlosTirado16
+- Estebangtz
+- Julianlozafermin
+- abekik
+- r-nassib
+- Andrle0600
+- SyrockBug
+- angeldhs00
 - Nicier
