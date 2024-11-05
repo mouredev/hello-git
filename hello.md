@@ -2573,4 +2573,6 @@
 - laguipemo
 - gmayas
 - dangelrubio
+- davidrguez98
+- jonhalias
 - mmillos
