@@ -2574,3 +2574,4 @@
 - gmayas
 - dangelrubio
 - davidrguez98
+- jonhalias
