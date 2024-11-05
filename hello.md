@@ -2573,4 +2573,5 @@
 - laguipemo
 - gmayas
 - dangelrubio
-- julian
+- davidrguez98
+- jonhalias
