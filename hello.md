@@ -2572,3 +2572,8 @@
 - robertoncd
 - laguipemo
 - gmayas, Hola,¿Podemos poner en práctica las otras dos opciones con respecto al Pull Request, con este ligero cambio?, solo para ver el flujo, si tienes un video que explique esto a más detalle, te lo agradecere. 
+- dangelrubio
+- davidrguez98
+- jonhalias
+- mmillos
+- abelbanda
