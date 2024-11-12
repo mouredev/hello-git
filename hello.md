@@ -2582,3 +2582,4 @@
 - guillermocanino
 - Kilianhc
 - Gerardosaurio
+- JEduardoM125
