@@ -2579,3 +2579,4 @@
 - abelbanda
 - ElManuub
 - hectorDev884
+- guillermocanino
