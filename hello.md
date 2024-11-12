@@ -2577,4 +2577,11 @@
 - jonhalias
 - mmillos
 - abelbanda
+- ElManuub
+- hectorDev884
+- guillermocanino
+- Kilianhc
+- Gerardosaurio
+- JEduardoM125
+- JcastV
 - Carlos-J-Guevara
