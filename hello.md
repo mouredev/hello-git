@@ -2597,3 +2597,4 @@
 - hfvaronb
 - karlitos360
 - ElMisanteco
+- joserhdez
