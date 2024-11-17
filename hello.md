@@ -2596,3 +2596,4 @@
 - danigilchu
 - hfvaronb
 - karlitos360
+- ElMisanteco
