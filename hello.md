@@ -2590,4 +2590,10 @@
 - svatrano
 - RodrigoNegrin
 - alexmruiz
+- Jorge1108-cyber
+- cmissene
+- DoggishTiee
+- danigilchu
+- hfvaronb
+- karlitos360
 - ElMisanteco
