@@ -2618,4 +2618,6 @@
 - jvillalonj
 - josantospy
 - 4pablospena
-- Erasmo Roca
+- alejoal2003
+- Suppli360sw
+- eras2704
