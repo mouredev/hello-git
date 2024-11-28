@@ -2618,4 +2618,13 @@
 - jvillalonj
 - josantospy
 - 4pablospena
+- alejoal2003
+- Suppli360sw
+- eras2704
+- cmariozs
+- ivan4896
+- DaniQB99
+- jared-vindel
+- pbuitragoa33
+- Hinalador
 - naferdev
