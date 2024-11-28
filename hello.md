@@ -2618,4 +2618,12 @@
 - jvillalonj
 - josantospy
 - 4pablospena
+<<<<<<< HEAD
 - TheFranciss
+=======
+- alejoal2003
+- Suppli360sw
+- eras2704
+- cmariozs
+- ivan4896
+>>>>>>> c89cfc84f505f7e4d8d740187852334aa5d18b89
