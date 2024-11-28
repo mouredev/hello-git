@@ -2626,4 +2626,9 @@
 - DaniQB99
 - jared-vindel
 - pbuitragoa33
+- Hinalador
+- naferdev
+- CarlosCortinasVK
+- diegocalva2
+- Tno07
 - TheFranciss
