@@ -2634,4 +2634,6 @@
 - TheFranciss
 - dacoder91
 - ImNotGabo
+- VarkoMS
+- JuanIgnacioMunozSanchez
 - msand2808
