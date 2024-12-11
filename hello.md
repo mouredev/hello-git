@@ -2648,4 +2648,18 @@
 - varoblanco
 - Lioomx
 - alangui0811
+<<<<<<< HEAD
 - FenanoOrtiz
+=======
+- LantDeath
+- aliabdelhaamid
+- vladimir-koz
+- Jero3009
+- pablo390
+- L_DevOps_01
+- PEDRO00100
+- diegofcdev
+- rolagiglia
+- misaelpracticagit
+- camiloAVN
+>>>>>>> e0c723dd56273645e533cc99bf087e7d057db4a1
