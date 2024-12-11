@@ -2656,3 +2656,4 @@
 - L_DevOps_01
 - PEDRO00100
 - diegofcdev
+- rolagiglia
