@@ -2654,4 +2654,7 @@
 - Jero3009
 - pablo390
 - L_DevOps_01
+- PEDRO00100
+- diegofcdev
+- rolagiglia
 - misaelpracticagit
