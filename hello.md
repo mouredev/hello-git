@@ -2648,6 +2648,7 @@
 - varoblanco
 - Lioomx
 - alangui0811
+- FenanoOrtiz
 - LantDeath
 - aliabdelhaamid
 - vladimir-koz
@@ -2659,4 +2660,5 @@
 - rolagiglia
 - misaelpracticagit
 - camiloAVN
+- JoseCSVega
 - RichRevo7
