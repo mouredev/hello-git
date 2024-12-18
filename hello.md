@@ -2670,4 +2670,10 @@
 - ryesquen
 - LukasGalicia
 - MSTOG04
+- JotaaGames
+- juliamachetti
+- anjamape1972
+- eavnavas10
+- Bugari05
+- MatiRodrigo
 - tomas-ib
