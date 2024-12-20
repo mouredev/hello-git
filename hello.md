@@ -2679,4 +2679,6 @@
 - tomas-ib
 - markitos177
 - AndreCuenca17
--EmmanuelPP
+- miguelangellacruz
+- mferhernandez
+- EmmanuelPP
