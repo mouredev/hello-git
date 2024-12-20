@@ -2679,4 +2679,7 @@
 - tomas-ib
 - markitos177
 - AndreCuenca17
+- miguelangellacruz
+- mferhernandez
+- EmmanuelPP
 - PalmaLuis
