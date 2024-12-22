@@ -1,0 +1,5 @@
+Este es un fichero de prueba para hacer probar el fork y contribuir con mi 
+aprendizaje.
+Esto es una prueba de pull.
+Ahora edito mi fichero desde el git.
+Vuelvo a editar el texto de aqui.
