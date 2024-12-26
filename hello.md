@@ -2696,3 +2696,4 @@
 - Deviitt11
 - zelh392
 - jugovi18
+- JGUZMANL0600
