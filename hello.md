@@ -2690,4 +2690,6 @@
 - franbogarin
 - estebanmhp
 - OscarEVazquez
-- YojanRomeroA
+- JersonMendoza18
+- gcesario
+- Yojan21
