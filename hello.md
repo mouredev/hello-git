@@ -2699,3 +2699,4 @@
 - camila-sanz-git
 - Strychi8
 - Gaby-L33
+- JGUZMANL0600
