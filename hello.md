@@ -2696,4 +2696,6 @@
 - Deviitt11
 - zelh392
 - jugovi18
-- GabyL33
+- camila-sanz-git
+- Strychi8
+- Gaby-L33
