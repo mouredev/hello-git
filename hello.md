@@ -2700,4 +2700,5 @@
 - Strychi8
 - Gaby-L33
 - JGUZMANL0600
-- digitalmaurer
+- mecogis
+- digitalMaurer
