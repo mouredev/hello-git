@@ -2700,4 +2700,6 @@
 - Strychi8
 - Gaby-L33
 - JGUZMANL0600
+- mecogis
+- digitalMaurer
 - Tenoclogy-28
