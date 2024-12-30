@@ -2690,3 +2690,4 @@
 - franbogarin
 - estebanmhp
 - OscarEVazquez
+- hectornez
