@@ -2706,4 +2706,7 @@
 - CesarG503
 - epceja
 - mguarna
+- hallxx
+- JoluDev05
+- auber-8a
 - alvaroharder
