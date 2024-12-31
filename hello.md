@@ -2710,3 +2710,4 @@
 - JoluDev05
 - auber-8a
 - alvaroharder
+- hectornez
