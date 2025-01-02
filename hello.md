@@ -2711,4 +2711,6 @@
 - auber-8a
 - alvaroharder
 - hectornez
-- toniripoll_
+- Untalalexmoreno
+- BryanMO595
+- toniripoll
