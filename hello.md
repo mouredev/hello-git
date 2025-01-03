@@ -2706,4 +2706,15 @@
 - CesarG503
 - epceja
 - mguarna
-- ThirtforBep
+- hallxx
+- JoluDev05
+- auber-8a
+- alvaroharder
+- hectornez
+- Untalalexmoreno
+- BryanMO595
+- toniripoll
+- Angaro920
+- MateoCastro304
+- XalocGaray
+-ThirtforBep
