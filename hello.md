@@ -2715,4 +2715,5 @@
 - BryanMO595
 - toniripoll
 - Angaro920
-- DevilBao
+- MateoCastro304
+- XalocGaray
