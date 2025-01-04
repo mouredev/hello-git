@@ -2717,4 +2717,6 @@
 - Angaro920
 - MateoCastro304
 - XalocGaray
-- JhonMM
+- emmyoyoyla
+- guillermo-penadillo
+- JhonMM27
