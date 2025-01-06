@@ -2723,4 +2723,7 @@
 - ThirtforBep
 - FacundoRiffo
 - luisjblitz
+- KeilorCruz
+- diegosof9
+- nicosgodoy
 - lMigu3l
