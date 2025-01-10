@@ -2727,4 +2727,8 @@
 - diegosof9
 - nicosgodoy
 - lMigu3l
-- JoakoMancillaVr
+- santiagoAnge1
+- Lightdemoon
+- LucasTaladrid
+- balechon
+- JoakoMancilla
