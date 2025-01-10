@@ -2729,3 +2729,4 @@
 - lMigu3l
 - santiagoAnge1
 - Lightdemoon
+- LucasTaladrid
