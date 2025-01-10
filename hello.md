@@ -2727,4 +2727,6 @@
 - diegosof9
 - nicosgodoy
 - lMigu3l
+- santiagoAnge1
+- Lightdemoon
 - LucasTaladrid
