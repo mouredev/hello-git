@@ -4,7 +4,6 @@
 
 - mouredev
 - braismoure
-- lozanolc
 - Abiezerk
 - agustinlopezdev
 - geroschmidt
@@ -2728,3 +2727,4 @@
 - diegosof9
 - nicosgodoy
 - lMigu3l
+- lozanolc
