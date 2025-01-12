@@ -2746,3 +2746,4 @@
 - lau052004
 - NicolocoX
 - corebytes
+- DyegoIrala
