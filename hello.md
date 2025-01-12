@@ -2745,4 +2745,5 @@
 - Jimena674
 - lau052004
 - NicolocoX
-- DiegoIrala
+- corebytes
+- DyegoIrala
