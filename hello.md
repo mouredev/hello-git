@@ -2747,4 +2747,5 @@
 - NicolocoX
 - corebytes
 - DyegoIrala
+- MrRomero02
 - ricardoH98
