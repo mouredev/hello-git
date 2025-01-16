@@ -2754,4 +2754,6 @@
 - igna-s
 - jdgarzon3
 - mky-es
+- JuitoMG
+- manueltux-sudo
 - KennWudi
