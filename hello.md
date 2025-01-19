@@ -2769,3 +2769,4 @@
 - DaniRojasDev
 - RubiguXIII
 - Betico1239
+- DanPhantom1327
