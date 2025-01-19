@@ -2761,4 +2761,6 @@
 - hjamx77
 - CovaJpg
 - AndreDev12
-- Antonio Heredia Morante
+- osamasgit
+- fernandokw07
+- Heran76
