@@ -2771,4 +2771,5 @@
 - Betico1239
 - DanPhantom1327
 - Albert23wm
-- Natch
+- diego62-dev
+- Tatiananay
