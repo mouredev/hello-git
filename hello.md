@@ -2771,4 +2771,7 @@
 - Betico1239
 - DanPhantom1327
 - Albert23wm
-- Kevint071 (Gracias por todo mouredev)
+- diego62-dev
+- Tatiananay
+- GySeR17
+- Kevint071
