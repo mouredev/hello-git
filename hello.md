@@ -2785,4 +2785,5 @@
 - jovarojas 
 - AllanYSalazarG
 - Angels35f
+- manuelPH
 - echanchan
