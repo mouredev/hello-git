@@ -3,4 +3,3 @@ aprendizaje.
 Esto es una prueba de pull.
 Ahora edito mi fichero desde el git.
 Vuelvo a editar el texto de aqui.
-Editando este texto dentro de mi repo local 
