@@ -2800,4 +2800,6 @@
 - Rickmij
 - aliguerreroj
 - Santohdz
+- Bmayo08
+- Gonzalo-GR
 - JordaAB251101
