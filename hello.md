@@ -2809,3 +2809,5 @@
 - agustintorres1603
 - RAngelloBaez
 - E5gar
+- Christian2697
+- Sirobad
