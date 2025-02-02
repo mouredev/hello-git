@@ -2809,4 +2809,9 @@
 - agustintorres1603
 - RAngelloBaez
 - E5gar
+<<<<<<< HEAD
 -CarolinaPerezBezares
+=======
+- Christian2697
+- Sirobad
+>>>>>>> aed3af1b47f8decde1d18a8f2d6ba5d219b8e62a
