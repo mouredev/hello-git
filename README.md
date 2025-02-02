@@ -27,7 +27,7 @@
 
 Y mucho más...
 
-## ¡Nuevo! Libro de Git & GitHub desde cero
+## ¡Nuevo! Libro de Git & GitHub desde cero (segunda edición)
 
 <a href="https://mouredev.com/libro-git"><img src="./Media/book.jpg" style="height: 50%; width:50%;"/></a>
 
@@ -36,6 +36,14 @@ Una guía de estudio teórico-práctica paso a paso de 300 hojas para complement
 #### [Tapa Blanda y Kindle](https://mouredev.com/libro-git)
 
 #### [eBook (pdf, epub y web)](https://mouredev.com/ebook-git)
+
+*Primera edición: Abril de 2023*
+
+*Segunda edición: Abril de 2024 [[Notas completas](./notas_segunda_ed.md)]*
+
+* *Actualización de imágenes*
+* *Sección GitHub Actions y "otros comandos"*
+* *Pequeñas correcciones*
 
 > **Nota importante**: Si dispones de la versión en papel, y quieres consultar las imágenes del libro en máxima resolución, puedes encontrarlas en el directorio [Media/Book screenshots](./Media/Book%20screenshots) del repositorio.
 
@@ -97,6 +105,14 @@ Una guía de estudio teórico-práctica paso a paso de 300 hojas para complement
 >
 > Si estás participando en el curso y ya has visto la lección 36, practica un flujo completo de trabajo en Git y GitHub añadiendo tu nombre de usuario en el documento [hello.md](./hello.md).
 
+## GitHub Actions desde cero
+
+<a href="https://youtu.be/pNtcTmCiXzw"><img src="http://i3.ytimg.com/vi/pNtcTmCiXzw/maxresdefault.jpg" style="height: 50%; width:50%;"/></a>
+
+Si quieres aprender más sobre GitHub, GitHub Actions es una herramienta muy potente que nos permite crear automatizaciones de construcción, despliegue y testing en nuestro código. Es gratis y te enseño a usarlo en este tutorial desde cero en menos de una hora.
+
+- [Tutorial GitHub Actions](https://youtu.be/pNtcTmCiXzw)
+
 ## Enlaces de interés
 
 - [Web](https://git-scm.com) oficial Git (Documentación, descarga...)
@@ -116,18 +132,19 @@ Una guía de estudio teórico-práctica paso a paso de 300 hojas para complement
 
 ![](./Media/terminal.gif)
 
-#### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
+#### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo. ¡Gracias!
 
-[![GitHub Star](https://img.shields.io/badge/GitHub-Nominar_a_star-yellow?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stars.github.com/nominate/)
+## Únete al campus de programación de la comunidad
 
-Si quieres unirte a nuestra comunidad de desarrollo, aprender programación de Apps, mejorar tus habilidades y ayudar a la continuidad del proyecto, puedes encontrarnos en:
+![https://mouredev.pro](./Media/pro.jpg)
 
-[![Twitch](https://img.shields.io/badge/Twitch-Programación_en_directo-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/mouredev)
-[![Discord](https://img.shields.io/badge/Discord-Servidor_de_la_comunidad-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://mouredev.com/discord)
-[![Link](https://img.shields.io/badge/Links_de_interés-moure.dev-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://moure.dev)
+#### Te presento [mouredev pro](https://mouredev.pro), mi proyecto más importante para ayudarte a estudiar programación y desarrollo de software de manera diferente.
+
+> **¿Buscas un extra?** Aquí encontrarás mis cursos editados por lecciones individuales, para avanzar a tu ritmo y guardar el progreso. También dispondrás de ejercicios y correcciones, test para validar tus conocimientos, examen y certificado público de finalización, soporte, foro de estudiantes, reunionnes grupales, cursos exclusivos y mucho más.
+> 
+> Entra en **[mouredev.pro](https://mouredev.pro)** y utiliza el cupón **"PRO"** con un 10% de descuento en tu primera suscripción.
 
 ## ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Brais Moure.
-
 ### Freelance full-stack iOS & Android engineer
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/mouredevapps?sub_confirmation=1)
@@ -137,8 +154,10 @@ Si quieres unirte a nuestra comunidad de desarrollo, aprender programación de A
 ![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/mouredev?style=social)
 
-Soy ingeniero de software desde hace más de 12 años. Desde hace 4 años combino mi trabajo desarrollando Apps con creación de contenido formativo sobre programación y tecnología en diferentes redes sociales como **[@mouredev](https://moure.dev)**.
+Soy ingeniero de software desde 2010. Desde 2018 combino mi trabajo desarrollando Apps con la creación de contenido formativo sobre programación y tecnología en diferentes redes sociales como **[@mouredev](https://moure.dev)**.
 
-### En mi perfil de GitHub tienes más información
+Si quieres unirte a nuestra comunidad de desarrollo, aprender programación, mejorar tus habilidades y ayudar a la continuidad del proyecto, puedes encontrarnos en:
 
-[![Web](https://img.shields.io/badge/GitHub-MoureDev-14a1f0?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/mouredev)
+[![Twitch](https://img.shields.io/badge/Twitch-Programación_en_directo-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/mouredev)
+[![Discord](https://img.shields.io/badge/Discord-Servidor_de_la_comunidad-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://mouredev.com/discord) [![Pro](https://img.shields.io/badge/Cursos-mouredev.pro-FF5500?style=for-the-badge&logo=gnometerminal&logoColor=white&labelColor=101010)](https://moure.dev)
+[![Link](https://img.shields.io/badge/Links_de_interés-moure.dev-14a1f0?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://moure.dev) [![Web](https://img.shields.io/badge/GitHub-MoureDev-087ec4?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/mouredev)
