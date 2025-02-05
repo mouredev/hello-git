@@ -2820,4 +2820,6 @@
 - Mancilla9
 - PauCastilla01
 - Luis1382019
+- Joaquin-v54
+- AikePetunia
 - Adoscasas10
