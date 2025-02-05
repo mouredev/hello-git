@@ -2820,4 +2820,5 @@
 - Mancilla9
 - PauCastilla01
 - Luis1382019
-- Venuss__
+- Joaquin-v54
+- AikePetunia
