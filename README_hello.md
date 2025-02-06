@@ -1,1 +1,0 @@
-aprendiendo con la comunidad
