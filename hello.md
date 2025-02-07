@@ -2826,4 +2826,6 @@
 - Cristopherfdev
 - jovazquez
 - antoniosuero
+- Ibuetab
+- chrismagaa
 - YordyHc
