@@ -2833,4 +2833,6 @@
 - DerianCastilloP
 - VScevdev
 - ElMauro21
-- J4vierDL
+- lufeca25
+- JhofredCam
+- J4vierdl
