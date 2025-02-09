@@ -2836,4 +2836,6 @@
 - lufeca25
 - JhofredCam
 - J4vierdl
+- mandsssdev
+- carlovelasquez2246
 - luzardoR
