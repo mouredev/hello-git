@@ -9,6 +9,7 @@
 - geroschmidt
 - javicb
 - erickvr2k
+- FedeocDev
 - Alexis033
 - LilyMilano
 - soyaldobeltran
