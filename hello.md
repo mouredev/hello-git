@@ -2854,4 +2854,4 @@
 - lagoausente
 - ObidioTimoteo
 - baRdeNNy
-- Darling Ramirez (DuarteDarling@outlook.com)
+- Darling Ramirez Duarte
