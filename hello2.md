@@ -1,1 +1,1 @@
-esto es un comentario de prueba (estoy en aprendisaje) algun consejo para un plan de estudio?
+esto es un comentario de prueba (Hola Comunidad) 
