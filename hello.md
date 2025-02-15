@@ -2860,4 +2860,9 @@
 - alfonsobg
 - Darling1522
 - IBGdev12
-  Yeferson Bernal
+- DaniiGalan
+- Wazky
+- mgblanco10
+- hugojmz
+- Roma2908
+- beral10
