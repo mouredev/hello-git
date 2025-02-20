@@ -2887,3 +2887,4 @@
 - juanjgp
 - Ing-JuanDavid
 - josevaldovinos
+- Clauditox800
