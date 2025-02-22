@@ -4,7 +4,6 @@
 
 - mouredev
 - braismoure
-- AlanTyping
 - Abiezerk
 - agustinlopezdev
 - geroschmidt
@@ -2890,3 +2889,4 @@
 - josevaldovinos
 - Clauditox800
 - Emilicds
+- AlanTyping
