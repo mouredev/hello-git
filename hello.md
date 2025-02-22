@@ -2889,4 +2889,6 @@
 - josevaldovinos
 - Clauditox800
 - Emilicds
+- Stingyx
+- Foumluis
 - PogloLopez
