@@ -2896,4 +2896,6 @@
 - devandrshidalgo
 - MauricioXIV
 - Guayner
+- lkemao
+- Agnaslia90
 - AlanTyping
