@@ -2892,8 +2892,14 @@
 - Stingyx
 - Foumluis
 - PogloLopez
+- YamilTejada
 - GSaul-HF
 - devandrshidalgo
 - MauricioXIV
 - Guayner
+- lkemao
+- Agnaslia90
+- AlanTyping
+- IanCardosoP
+- NiceIam
 - WosDan
