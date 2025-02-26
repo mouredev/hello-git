@@ -1,5 +1,5 @@
 > ### Si estás participando en el curso. Haz un fork del proyecto y añade tu usuario de GitHub en una nueva línea
->
+> 
 > _Así practicarás un flujo completo de trabajo en Git y GitHub_
 
 - mouredev
@@ -2905,4 +2905,11 @@
 - WosDan
 - lulusel
 - 0xcoded
-- jgv
+- guille-rqm
+- rosendomendoza
+- YangYang-Shao
+- MichaelSPS
+- xVadillo
+- JuanCamiloMT95
+- JDan004
+- Jgvilchez25
