@@ -2913,4 +2913,8 @@
 - JuanCamiloMT95
 - JDan004
 - Jgvilchez25
--k0k4depelover
+- ArturoCarrada
+- davidsito99
+- Twikzer
+- yeremi01
+- k0k4depelover
