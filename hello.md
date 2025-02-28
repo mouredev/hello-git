@@ -2913,4 +2913,11 @@
 - JuanCamiloMT95
 - JDan004
 - Jgvilchez25
-- AlexDD71
+- ArturoCarrada
+- davidsito99
+- Twikzer
+- yeremi01
+- k0k4depelover
+- teresanov
+- Peluk0
+- alexDD71
