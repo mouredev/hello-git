@@ -2927,4 +2927,7 @@
 - cesarmarquezdev
 - AlvaroDev91
 - Bongo91
-- lautar0tomas
+- rzape
+- waldiiiFd
+- ezecc-eze
+- Lautar0tomas
