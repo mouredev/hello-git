@@ -2927,4 +2927,6 @@
 - cesarmarquezdev
 - AlvaroDev91
 - Bongo91
+- rzape
+- waldiiiFd
 - ezecc-eze
