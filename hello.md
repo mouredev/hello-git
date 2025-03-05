@@ -2938,4 +2938,6 @@
 - EnzoFernandezz11
 - seguone
 - EmilioRosasTr
+- EduCepero
+- Bryan-Valenzuela
 - cmont20
