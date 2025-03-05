@@ -2938,4 +2938,7 @@
 - EnzoFernandezz11
 - seguone
 - EmilioRosasTr
-- Mate1coll
+- EduCepero
+- Bryan-Valenzuela
+- cmont20
+- Mate1Coll
