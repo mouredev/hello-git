@@ -2938,4 +2938,5 @@
 - EnzoFernandezz11
 - seguone
 - EmilioRosasTr
-- BryanValenzuela
+- EduCepero
+- Bryan-Valenzuela
