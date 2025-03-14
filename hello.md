@@ -2964,4 +2964,7 @@
 - gmartincasals
 - herrerafuente
 - SoyRuma
+- JhonJJimenez
+- eltitu
+- LucaFava
 - franco310121
