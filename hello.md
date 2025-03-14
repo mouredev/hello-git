@@ -2,8 +2,8 @@
 >
 > _Así practicarás un flujo completo de trabajo en Git y GitHub_
 
-- rub
 - mouredev
+- rub
 - braismoure
 - Abiezerk
 - agustinlopezdev
