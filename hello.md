@@ -2971,4 +2971,7 @@
 - PabloChM
 - jamaraz1983
 - ampowergit
-- andrewhme
+- kin85
+- Complex303
+- franpeix
+- Andreucito
