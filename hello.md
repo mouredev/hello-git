@@ -2975,4 +2975,6 @@
 - Complex303
 - franpeix
 - Andreucito
+- thepadawandev
+- nicoo-lz
 - RICKBILLIE
