@@ -2978,4 +2978,6 @@
 - thepadawandev
 - nicoo-lz
 - RICKBILLIE
-- marklok
+- JavierIncio
+- ncf0013
+- marcosgaval
