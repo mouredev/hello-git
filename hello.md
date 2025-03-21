@@ -2990,4 +2990,8 @@
 - alfxer69
 - VictorPko73
 - sreke
+- jespergir
+- Josexaser
+- 4nnngie
+- Numeritxs
 - CaritoBA87-tech
