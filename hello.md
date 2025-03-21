@@ -2990,4 +2990,8 @@
 - alfxer69
 - VictorPko73
 - sreke
-- Manuel ROsvaldo
+- jespergir
+- Josexaser
+- 4nnngie
+- Numeritxs
+- ManuelROsvaldo
