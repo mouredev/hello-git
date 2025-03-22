@@ -4,7 +4,7 @@
 
 - mouredev
 - braismoure
-- vfigunn
+- vfigun
 - Abiezerk
 - agustinlopezdev
 - geroschmidt
