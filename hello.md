@@ -2996,4 +2996,14 @@
 - Numeritxs
 - ManuelROsvaldo
 - CaritoBA87-tech
-- DaniLosada
+- rluquea95
+- astro-aleph
+- calisma17
+- Patri9610
+- jmcc29
+- ringoquimico
+- gabriel-g4
+- MarcoVargas0803
+- Cueto2003
+- Neomantix
+- LosadaDani
