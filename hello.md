@@ -4,7 +4,6 @@
 
 - mouredev
 - braismoure
-- vfigun
 - Abiezerk
 - agustinlopezdev
 - geroschmidt
@@ -3022,3 +3021,4 @@
 - Ivainillas
 - ayusojoan14
 - Vixtorsito
+- vfigun
