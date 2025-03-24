@@ -2996,4 +2996,6 @@
 - Numeritxs
 - ManuelROsvaldo
 - CaritoBA87-tech
-- Calisma
+- rluquea95
+- astro-aleph
+- calisma17
