@@ -2968,6 +2968,7 @@
 - eltitu
 - LucaFava
 - franco310121
+- rubenbv11
 - PabloChM
 - jamaraz1983
 - ampowergit
@@ -3011,4 +3012,10 @@
 - DaniCielo
 - cmanuelcasanova
 - markbass909
-- ivainillas
+- Tschenny64
+- RubenWWW
+- maavcode
+- adriaancadar
+- andresguardiaa
+- Julian-Negrete
+- Ivainillas
