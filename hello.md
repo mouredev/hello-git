@@ -3021,4 +3021,7 @@
 - Ivainillas
 - ayusojoan14
 - Vixtorsito
--karlaadev
+- Anicter
+- vfigunn
+- Afromero96
+- karlaadev
