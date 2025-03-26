@@ -3026,4 +3026,5 @@
 - Afromero96
 - karlaadev
 - FranGonzalezRomero
+- gonzalo00pineda
 - BrianG99
