@@ -63,6 +63,7 @@
 - pablogapez
 - Bunker8
 - Momboz12
+- chawy11
 - Alvarogtz
 - Aldroide
 - Jack-Strafer
@@ -3018,4 +3019,17 @@
 - adriaancadar
 - andresguardiaa
 - Julian-Negrete
+- Ivainillas
+- ayusojoan14
+- Vixtorsito
+- Anicter
+- vfigunn
+- Afromero96
+- karlaadev
+- FranGonzalezRomero
+- gonzalo00pineda
+- Sara29-hub
+- BrianG99
+- davidlema05
+- mraldrox
 - Gelet74
