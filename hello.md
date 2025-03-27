@@ -73,6 +73,7 @@
 - mariovelascodev
 - joaquinpolom
 - cepedajd
+- anatienzadev
 - robertofernangar
 - Cervereta
 - Tecfer
