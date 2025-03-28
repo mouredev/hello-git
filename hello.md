@@ -3042,3 +3042,4 @@
 - acerons
 - jessmartinezh
 - PytterDev
+- Franjmg
