@@ -3043,5 +3043,6 @@
 - jessmartinezh
 - PytterDev
 - Franjmg
+- Carmen-cr-coder
+- KevinPCVillar
 - MauricioS-G
-
