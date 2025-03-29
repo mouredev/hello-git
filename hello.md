@@ -3043,4 +3043,7 @@
 - jessmartinezh
 - PytterDev
 - Franjmg
-- LdeLimon
+- Carmen-cr-coder
+- KevinPCVillar
+- MauricioS-G
+- Diego-del-Canyo
