@@ -3043,3 +3043,5 @@
 - jessmartinezh
 - PytterDev
 - Franjmg
+- MauricioS-G
+
