@@ -3053,4 +3053,6 @@
 - Nifrael
 - herreromario
 - JavierABADdelMolino
+- MFLakatos
+- hugossanchezz
 - When-Cuan-do
