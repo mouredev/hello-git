@@ -3059,4 +3059,5 @@
 - DY-Madrid
 - eugeguzmanv
 - NeloJordan
-- jaimillos
+- Arevaliis
+- Jaimillos-Gonzalez
