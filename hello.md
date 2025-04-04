@@ -5,6 +5,7 @@
 - mouredev
 - braismoure
 - Abiezerk
+- davidgosp
 - agustinlopezdev
 - geroschmidt
 - javicb
