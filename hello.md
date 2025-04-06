@@ -3064,4 +3064,6 @@
 - rociodiazjmz16
 - sfdelriego
 - gsevilla28
+- Maxkaizo
+- ViuxiFuentes
 - jeffd2599
