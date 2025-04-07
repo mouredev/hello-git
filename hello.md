@@ -1,4 +1,4 @@
-> ### Si estás participando en el curso. Haz un fork del proyecto y añade tu usuario de GitHub en una nueva línea
+﻿> ### Si estás participando en el curso. Haz un fork del proyecto y añade tu usuario de GitHub en una nueva línea
 >
 > _Así practicarás un flujo completo de trabajo en Git y GitHub_
 
@@ -3054,4 +3054,20 @@
 - Nifrael
 - herreromario
 - JavierABADdelMolino
+- MFLakatos
+- hugossanchezz
+- When-Cuan-do
+- DY-Madrid
+- eugeguzmanv
+- NeloJordan
+- Arevaliis
+- Jaimillos-Gonzalez
+- rociodiazjmz16
+- sfdelriego
+- gsevilla28
+- Maxkaizo
+- ViuxiFuentes
+- jeffd2599
+- KuigsDev
+- CikeTheBear
 - davidgosp
