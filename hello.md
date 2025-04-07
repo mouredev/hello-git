@@ -5,6 +5,7 @@
 - mouredev
 - braismoure
 - Abiezerk
+- davidgosp
 - agustinlopezdev
 - geroschmidt
 - javicb
@@ -3073,3 +3074,4 @@
 - Arieeelx
 - danicv44
 - DayanaraCM
+- davidgosp
