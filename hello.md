@@ -3075,4 +3075,7 @@
 - danicv44
 - DayanaraCM
 - davidgosp
+- hazelprez
+- JulenAA
+- Sari123456789
 - BecaLince2024
