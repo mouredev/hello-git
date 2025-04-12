@@ -1,3 +1,0 @@
-hola
-
-When-Cuan-Do
