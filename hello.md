@@ -3,6 +3,7 @@
 
 - mouredev
 - braismoure
+- Royalthi13
 - Abiezerk
 - davidgosp
 - agustinlopezdev
