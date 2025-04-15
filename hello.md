@@ -3,7 +3,6 @@
 
 - mouredev
 - braismoure
-- Royalthi13
 - Abiezerk
 - davidgosp
 - agustinlopezdev
@@ -3093,3 +3092,4 @@
 - nicoKaminski
 - juanselser
 - valemilanesio
+- Royalthi13
