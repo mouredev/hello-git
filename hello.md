@@ -3092,4 +3092,7 @@
 - nicoKaminski
 - juanselser
 - valemilanesio
+- kiddo-jpg
+- gaffadoo
+- gionnito
 - IngJavRod
