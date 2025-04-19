@@ -3108,4 +3108,12 @@
 - jmaza-itix
 - esarmient0723
 - NaPenaTre
+<<<<<<< HEAD
 - JhonMarioA
+=======
+- pcrisho
+- yerkoppp
+- noeEdwin
+- AgustinAlfieri
+- Daniel-Hernandez2209
+>>>>>>> a18e440c1e0cb79bcad0ae20dc384a3f62fb5220
