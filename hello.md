@@ -3113,4 +3113,6 @@
 - noeEdwin
 - AgustinAlfieri
 - Daniel-Hernandez2209
-- juan_sabino
+- hestivarizm
+- Kevin-Medina-A
+- juarturito18
