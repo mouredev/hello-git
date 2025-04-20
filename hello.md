@@ -3120,4 +3120,6 @@
 - vidsanchez
 - Bea2691
 - JhonMarioA
-- Zero
+- cschavezv
+- EnriqueTori94
+- cesarg94
