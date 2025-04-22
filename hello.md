@@ -3123,4 +3123,8 @@
 - cschavezv
 - EnriqueTori94
 - cesarg94
+- jeca-dev
+- Trukisss
+- Israel-Hernandez-Martinez
+- angelcardona
 - mariana-94
