@@ -3123,4 +3123,7 @@
 - cschavezv
 - EnriqueTori94
 - cesarg94
-- Angel Cardona
+- jeca-dev
+- Trukisss
+- Israel-Hernandez-Martinez
+- angelcardona
