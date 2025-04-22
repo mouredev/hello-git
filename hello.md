@@ -3126,3 +3126,4 @@
 - jeca-dev
 - Trukisss
 - Israel-Hernandez-Martinez
+- angelcardona
