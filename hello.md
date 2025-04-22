@@ -3123,4 +3123,5 @@
 - cschavezv
 - EnriqueTori94
 - cesarg94
-- Trukis
+- jeca-dev
+- Trukisss
