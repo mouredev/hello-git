@@ -3133,4 +3133,7 @@
 - NeoZunder
 - Oscareeg
 - Airesesteban
-- Sergio-Troncoso/RUSERtr
+- alvarorpa
+- CsarBG
+- jcquiroz
+- RUSERtr
