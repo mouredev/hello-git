@@ -3143,6 +3143,6 @@
 - DanielNovoa553
 - RexAlejandro
 - CarlosDiazzz
-
-
+- IsaackMD
+- Cristiandias504
 - hugoe5cobar
