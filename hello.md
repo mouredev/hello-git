@@ -3143,4 +3143,5 @@
 - DanielNovoa553
 - RexAlejandro
 - CarlosDiazzz
--IsaackMD
+- IsaackMD
+- Cristiandias504
