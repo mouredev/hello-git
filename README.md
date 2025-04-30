@@ -1,4 +1,7 @@
-# Hello Git & GitHub 🐙
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hello+Git+%26+GitHub+🐙" alt="Hello Git & GitHub Title" />
+</p>
+
 
 [![Git](https://img.shields.io/badge/Git-2.37+-f14e32?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-Web-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/)
