@@ -3148,4 +3148,6 @@
 - hugoe5cobar
 - StevenDev14
 - kenrick123k
+- LetiCurso
+- lp3dr0
 - NataliaaSalazarr23
