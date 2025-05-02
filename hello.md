@@ -3153,4 +3153,5 @@
 - NataliaaSalazarr23
 - Yuliet88
 - Nichou27
-- David
+- hardynsnet
+- davidlh24
