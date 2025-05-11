@@ -3166,4 +3166,5 @@
 - marcoplaza
 - BogdanGeorgeDinu
 - DianaDeLeon1
-- Javier
+- MacLeeF13
+- JavierAR2612
