@@ -3172,4 +3172,8 @@
 - jhoyer123
 - Tin68
 - Jairdur704
+- Josiazx
+- Mateo-Esposito
+- vekzz-dev
+- Sylarshinigami
 - NicolasDeluchi
