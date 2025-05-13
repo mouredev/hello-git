@@ -3176,3 +3176,4 @@
 - Mateo-Esposito
 - vekzz-dev
 - Sylarshinigami
+- NicolasDeluchi
