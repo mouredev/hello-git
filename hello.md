@@ -3185,4 +3185,7 @@
 - raudev-h
 - eduardo-rodriguez-mena
 - nauticaweb
-- EduardoCG00
+- EricJairC
+- GHIPZY
+- Maurixiobros
+- BadRequest0404
