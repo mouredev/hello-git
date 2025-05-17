@@ -3189,4 +3189,7 @@
 - GHIPZY
 - Maurixiobros
 - BadRequest0404
--pgesca
+- Theoryzerp
+- johanUNAL753
+- printaniel
+- pgesca95
