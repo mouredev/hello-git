@@ -104,6 +104,7 @@ Una guía de estudio teórico-práctica paso a paso de 300 hojas para complement
 > ### Ejercicio para practicar lo aprendido:
 >
 > Si estás participando en el curso y ya has visto la lección 36, practica un flujo completo de trabajo en Git y GitHub añadiendo tu nombre de usuario en el documento [hello.md](./hello.md).
+Julio Cesar
 
 ## GitHub Actions desde cero
 
