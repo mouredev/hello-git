@@ -3209,4 +3209,8 @@
 - legar44
 - JulioCesarSanchez6843
 - DiegoMercadoAcero
-- LoradarofLordran
+- vicleji
+- Adrian-RodrigueZ-pereZ
+- AndreLir
+- BichoRaro
+- LoradarOfLordran
