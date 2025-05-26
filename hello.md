@@ -152,6 +152,7 @@
 - bernabebarroso
 - devnandoo
 - PatriGracia
+- jfduarte
 - robertjota
 - mnadal76
 - Edgar J.
