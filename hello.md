@@ -152,7 +152,6 @@
 - bernabebarroso
 - devnandoo
 - PatriGracia
-- jfduarte
 - robertjota
 - mnadal76
 - Edgar J.
@@ -3220,3 +3219,4 @@
 - Borjantona
 - Tiguer04
 - ELC-15
+- jfduarte
