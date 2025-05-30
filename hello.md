@@ -3229,4 +3229,5 @@
 - Angelmmoran
 - Cesaarkb
 - AEGS10
-- eloic04
+- giuucca
+- eloi-codorniu
