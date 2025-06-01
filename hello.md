@@ -3231,4 +3231,6 @@
 - AEGS10
 - giuucca
 - eloi-codorniu
+- Baryon-69
+- EdiRick
 - pa314roq
