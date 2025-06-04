@@ -218,7 +218,7 @@
 - lfmorales
 - KurylukDev
 - Caaldair
-- RREYES0424
+- RREYES0424git@github.com:DavidKano/hello-git-kano.git
 - Juanppdev
 - DanielCD96
 - andreem27
@@ -3245,3 +3245,4 @@
 - Adal0108
 - Omarrivv
 - Yarold-82
+- DavidKano
