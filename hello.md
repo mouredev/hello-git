@@ -3256,4 +3256,5 @@
 - JesusHCU
 - ValGuillen
 - F1ex14
-- Erick M..
+- pchavez91
+- ErickDeps
