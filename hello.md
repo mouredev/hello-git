@@ -3263,4 +3263,10 @@
 - IsmaelA01
 - JpabloAR
 - tonysalinas-futdev
-- leo8a11test
+- esauMartinez
+- fcaban
+- Yonderus
+- JossueGallardo
+- Iconillor
+- codentide
+- leo8a11tests
