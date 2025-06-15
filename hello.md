@@ -3271,4 +3271,6 @@
 - codentide
 - leo8a11tests
 - elNano80
-- quantumty
+- Jorge-Humberto
+- Rafaelrc
+- quantumtypew
