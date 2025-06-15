@@ -3263,4 +3263,16 @@
 - IsmaelA01
 - JpabloAR
 - tonysalinas-futdev
+- esauMartinez
+- fcaban
+- Yonderus
+- JossueGallardo
+- Iconillor
+- codentide
+- leo8a11tests
+- elNano80
+- Jorge-Humberto
+- Rafaelrc
+- quantumtypew
+- JulioJh14
 - juniordevp22
