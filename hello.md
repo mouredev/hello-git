@@ -3276,4 +3276,6 @@
 - quantumtypew
 - JulioJh14
 - juniordevp22
+- jabaloc
+- OmarMariscal
 - jesusdominguez2004
