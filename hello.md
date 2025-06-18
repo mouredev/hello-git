@@ -3280,4 +3280,6 @@
 - OmarMariscal
 - jesusdominguez2004
 - Delafu7
--BetoWisar
+- MangelDeveloper
+- CruzballDev
+- betowisar
