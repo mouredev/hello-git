@@ -7,6 +7,7 @@
 - Abiezerk
 - davidgosp
 - agustinlopezdev
+- james^2
 - geroschmidt
 - javicb
 - erickvr2k
