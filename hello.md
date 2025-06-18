@@ -3280,4 +3280,8 @@
 - OmarMariscal
 - jesusdominguez2004
 - Delafu7
+- MangelDeveloper
+- CruzballDev
+- betowisar
+- Cachorrillo
 - AlbeDiv
