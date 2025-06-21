@@ -3294,3 +3294,4 @@
 - jarol-028
 - SantyyFit
 - alejandroC4lderon
+- giovanni charca
