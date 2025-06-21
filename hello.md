@@ -3294,4 +3294,6 @@
 - jarol-028
 - SantyyFit
 - alejandroC4lderon
+- DanielBarrera001
+- Lumider
 - JeanPaulCardozo
