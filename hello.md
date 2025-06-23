@@ -4,6 +4,7 @@
 
 - mouredev
 - braismoure
+- Linuxxzz
 - Abiezerk
 - davidgosp
 - agustinlopezdev
