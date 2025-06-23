@@ -4,7 +4,6 @@
 
 - mouredev
 - braismoure
-- Linuxxzz
 - Abiezerk
 - davidgosp
 - agustinlopezdev
@@ -3304,3 +3303,4 @@
 - jlpuente
 - Henry17C
 - chabemry
+- Linuxxzz
