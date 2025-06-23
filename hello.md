@@ -3297,4 +3297,6 @@
 - DanielBarrera001
 - Lumider
 - JeanPaulCardozo
+- SergioFM94
+- Mhayhem
 - gonzalezmarti98
