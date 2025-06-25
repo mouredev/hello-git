@@ -3307,4 +3307,5 @@
 - Linuxxzz
 - enricarde
 - jucorral42
-- IanEmmanuelHernandezSanchez 
+- joedurdoreyes
+- IanEmmanuelHernandezSanchez
