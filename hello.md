@@ -3310,4 +3310,6 @@
 - joedurdoreyes
 - IanEmmanuelHernandezSanchez
 - vanparce90
+- dartcat90
+- jesusgdev
 - DENIS10BG
