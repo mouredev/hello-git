@@ -3314,4 +3314,7 @@
 - jesusgdev
 - DENIS10BG
 - maqleo123
+- BeverlyArias
+- SrMurillo
+- VickyNovarese
 - Vir-e
