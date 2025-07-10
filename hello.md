@@ -3344,4 +3344,6 @@
 - LuigiArgento
 - cristianTamayo
 - cristianromero4670
+- Danim299
+- joselesss
 - JBR-dev-10
