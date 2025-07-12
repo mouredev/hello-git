@@ -3,7 +3,6 @@
 > _Así practicarás un flujo completo de trabajo en Git y GitHub_
 
 - mouredev
-- JuanEspinoza2248
 - braismoure
 - Abiezerk
 - davidgosp
@@ -3351,3 +3350,4 @@
 - ae-rivera
 - rubikuam
 - Ds2v
+- JuanEspinoza2248
