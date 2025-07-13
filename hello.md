@@ -3350,4 +3350,6 @@
 - ae-rivera
 - rubikuam
 - Ds2v
+- charabeto97
+- AlexRamirezT
 - padomDev
