@@ -3350,4 +3350,9 @@
 - ae-rivera
 - rubikuam
 - Ds2v
--JuanPVelasquezR
+- charabeto97
+- AlexRamirezT
+- padomDev
+- santiagoortizc
+- SebastianArrieta
+- JuanPVelasquezR
