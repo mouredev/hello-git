@@ -3350,4 +3350,7 @@
 - ae-rivera
 - rubikuam
 - Ds2v
-- SantiagoOrtizC
+- charabeto97
+- AlexRamirezT
+- padomDev
+- santiagoortizc
