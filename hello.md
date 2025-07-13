@@ -3350,4 +3350,14 @@
 - ae-rivera
 - rubikuam
 - Ds2v
+- charabeto97
+- AlexRamirezT
+- padomDev
+- santiagoortizc
+- SebastianArrieta
+- JuanPVelasquezR
+- KC0lin
+- eduuHT
+- Juan2248
+- AlexisCruz19
 - franciscoGomezC
