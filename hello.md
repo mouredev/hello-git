@@ -3355,3 +3355,4 @@
 - padomDev
 - santiagoortizc
 - SebastianArrieta
+- JuanPVelasquezR
