@@ -3350,4 +3350,8 @@
 - ae-rivera
 - rubikuam
 - Ds2v
-- Sebactian
+- charabeto97
+- AlexRamirezT
+- padomDev
+- santiagoortizc
+- SebastianArrieta
