@@ -3350,4 +3350,12 @@
 - ae-rivera
 - rubikuam
 - Ds2v
-- JuanEspinoza2248
+- charabeto97
+- AlexRamirezT
+- padomDev
+- santiagoortizc
+- SebastianArrieta
+- JuanPVelasquezR
+- KC0lin
+- eduuHT
+- Juan2248
