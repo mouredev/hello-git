@@ -3362,4 +3362,6 @@
 - AlexisCruz19
 - franciscoGomezC
 - diumaro
-- CarlosFin
+- FlOwOrida
+- Eric-Oq
+- CarlosFinsinfin
