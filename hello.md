@@ -3362,4 +3362,7 @@
 - AlexisCruz19
 - franciscoGomezC
 - diumaro
+- FlOwOrida
+- Eric-Oq
+- CarlosFinsinfin
 - KaremOropeza
