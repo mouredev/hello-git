@@ -3362,4 +3362,9 @@
 - AlexisCruz19
 - franciscoGomezC
 - diumaro
-- EmmanuelRua
+- FlOwOrida
+- Eric-Oq
+- CarlosFinsinfin
+- KaremOropeza
+- Xayoteh
+- EmmanuelJRuaC
