@@ -2,7 +2,6 @@
 >
 > _Así practicarás un flujo completo de trabajo en Git y GitHub_
 
--Danielalozano9536
 - mouredev
 - braismoure
 - Abiezerk
@@ -3373,3 +3372,4 @@
 - MoiAlmendares
 - aletorresprado
 - lennycaseidev
+- Danielalozano9536
