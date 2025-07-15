@@ -3369,4 +3369,5 @@
 - Xayoteh
 - EmmanuelJRuaC
 - Abraham-3105
-- AlejandroTorresPrado 
+- MoiAlmendares
+- aletorresprado
