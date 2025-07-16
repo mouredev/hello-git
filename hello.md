@@ -3372,4 +3372,5 @@
 - MoiAlmendares
 - aletorresprado
 - lennycaseidev
-- Danielalozano9536
+- P-x-J
+- Danilozca
