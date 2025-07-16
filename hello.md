@@ -3372,4 +3372,7 @@
 - MoiAlmendares
 - aletorresprado
 - lennycaseidev
+- P-x-J
+- Danilozca
+- GreeMK
 - ArielJ93
