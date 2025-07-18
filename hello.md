@@ -3382,4 +3382,6 @@
 - GustavoAntonioSaucedaArce
 - CCastilla-hub
 - bazadevops
--JuanV24
+- Jaichino
+- sans6114
+- JuanV24
