@@ -3385,4 +3385,5 @@
 - Jaichino
 - sans6114
 - JuanV24
-- DavidBa45
+- sor820
+- DavidBarrios45
