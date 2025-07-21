@@ -3387,4 +3387,6 @@
 - JuanV24
 - sor820
 - DavidBarrios45
+- AaronUlate
+- Diegarius
 - devosw98
