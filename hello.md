@@ -3416,3 +3416,4 @@
 - GorkaEmazabel
 - manuelmarquez-ctrl
 - adridiazvic
+- sombrilla-jpg
