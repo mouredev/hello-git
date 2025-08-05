@@ -3424,4 +3424,6 @@
 - fmartindesarrollo
 - cburgoin-dev
 - ivorywhisp
+- yyrkoon18
+- DynamoFred
 - Ivan-Arce
