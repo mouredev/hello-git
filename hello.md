@@ -3432,7 +3432,8 @@
 - Axel08-IHQ
 - jcgsTCS
 - Vmex26
--JDL1972
 - maoruV
 - benavides-male01
 - SntgRM
+- rsamueldev
+- jesusdev1972
