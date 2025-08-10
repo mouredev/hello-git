@@ -3437,4 +3437,6 @@
 - SntgRM
 - rsamueldev
 - jesusdev1972
+- jimmyperezp
+- Stepaniuk-Matias
 - samirdp04
