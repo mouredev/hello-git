@@ -3437,4 +3437,11 @@
 - SntgRM
 - rsamueldev
 - jesusdev1972
+- jimmyperezp
+- Stepaniuk-Matias
+- samirdp04
+- Ajorge29
+- carlos186idh
+- stevenx2
+- DaniSemeniuk
 - Eder-Salas
