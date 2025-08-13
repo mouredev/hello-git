@@ -3456,4 +3456,9 @@
 - FrannnTWK
 - MatyBarrientos
 - AndySevillano
--JeanCarlosP
+- fertrojas
+- Xiflus
+- pablon04
+- BryanVanegas
+- Daqa03
+- jeancarlos-22
