@@ -3462,4 +3462,7 @@
 - BryanVanegas
 - Daqa03
 - jeancarlos-22
-- Cerodev-Gt111
+- PoindexterG
+- JeisiRosales
+- gigiquinpix
+- Cero-GT111
