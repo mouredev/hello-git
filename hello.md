@@ -3472,4 +3472,6 @@
 - ESRG-es
 - Dottiewh
 - camiloHL-95
-- MauricioRamirezM 
+- JeronimoOspina
+- Gero0202
+- MauricioRamirezM
