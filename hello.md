@@ -3477,4 +3477,5 @@
 - MauricioRamirezM
 - joseulettcr
 - ismacodetic
-- Banc0
+- Rulocc
+- BBanco21
