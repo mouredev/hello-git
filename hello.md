@@ -3477,4 +3477,6 @@
 - MauricioRamirezM
 - joseulettcr
 - ismacodetic
+- Rulocc
+- BBanco21
 - TheXoan
