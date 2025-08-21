@@ -3480,4 +3480,6 @@
 - Rulocc
 - BBanco21
 - TheXoan
+- DevAugGit
+- bryanMO18
 - Pabloski-c
