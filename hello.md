@@ -2,7 +2,7 @@
 >
 > _Así practicarás un flujo completo de trabajo en Git y GitHub_
 
-YaelRivera22
+
 - mouredev
 - braismoure
 - Abiezerk
@@ -3481,3 +3481,4 @@ YaelRivera22
 - Rulocc
 - BBanco21
 - TheXoan
+- YaelRivera22
