@@ -3485,4 +3485,6 @@
 - Pabloski-c
 - Juanjovm2626
 - JesusAlfonzo
-- pabloore
+- KidMarloCagno
+- YaelRivera22
+- pablooreugr
