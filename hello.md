@@ -2,7 +2,6 @@
 >
 > _Así practicarás un flujo completo de trabajo en Git y GitHub_
 
-
 - mouredev
 - braismoure
 - Abiezerk
@@ -3486,4 +3485,5 @@
 - Pabloski-c
 - Juanjovm2626
 - JesusAlfonzo
+- KidMarloCagno
 - YaelRivera22
