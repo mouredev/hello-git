@@ -3501,4 +3501,7 @@
 - XzLuizem
 - Eriiik19
 - DarkoLike
--juliapalfaro
+- ErMonV
+- BrunoMGT
+- Miguel-Alv867
+- juliapalfaro
