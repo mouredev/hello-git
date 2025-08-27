@@ -3501,5 +3501,6 @@
 - XzLuizem
 - Eriiik19
 - DarkoLike
+- ErMonV
+- BrunoMGT
 - Miguel-Alv867
-
