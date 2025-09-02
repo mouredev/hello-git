@@ -9,6 +9,7 @@
 - agustinlopezdev
 - geroschmidt
 - javicb
+- AnthonyCh-L12
 - erickvr2k
 - Alexis033
 - LilyMilano
