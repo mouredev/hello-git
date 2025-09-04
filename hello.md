@@ -3528,3 +3528,4 @@
 - garciaruben07
 - josejulianmtnez
 - Luisao82
+- Cristo
