@@ -3528,4 +3528,5 @@
 - garciaruben07
 - josejulianmtnez
 - Luisao82
-- Cristo
+- robnch30
+- cristoj
