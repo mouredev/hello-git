@@ -3530,4 +3530,5 @@
 - Luisao82
 - robnch30
 - cristoj
-- javier
+- galaxiahfast
+- DerekJSH
