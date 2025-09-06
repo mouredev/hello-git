@@ -3530,4 +3530,7 @@
 - Luisao82
 - robnch30
 - cristoj
--oscargualo
+- galaxiahfast
+- DerekJSH
+- Carloscesl
+- OscarGualo
