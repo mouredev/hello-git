@@ -3545,4 +3545,6 @@
 - josregistros
 - samirdev3
 - ccelisdev
+- KubeletKhan
+- hardynsnet
 - mpmerd
