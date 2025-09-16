@@ -3552,4 +3552,5 @@
 - AlvaTronsYT 
 - Ludeynis
 - JuanDGambaS
-- Alicia Gomiz
+- JaumeEsquerdo
+- aliciagomiz
