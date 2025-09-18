@@ -3561,4 +3561,6 @@
 - antonioabadpro
 - carlosninacio
 - AxMis13
+- diegomorcillod
+- UlisesIsaias
 - Viktor0Sol
