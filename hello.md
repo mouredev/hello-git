@@ -3563,4 +3563,5 @@
 - AxMis13
 - diegomorcillod
 - UlisesIsaias
--Jesus-eduardo-solis-g
+- halxhernandez
+- Jesus-eduardo-solis-g
