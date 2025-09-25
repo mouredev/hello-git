@@ -3585,4 +3585,6 @@
 - AlexisRey095
 - popezEdu
 - CrhistoferVera
+- MiguelHerrezuelo
+- yubermora
 - Jhonatangv10
