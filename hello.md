@@ -3588,4 +3588,7 @@
 - MiguelHerrezuelo
 - yubermora
 - Jhonatangv10
-- AgentJDev
+- alfonso17rangel
+- canticonagit
+- tcristian13
+- JasonMCBC
