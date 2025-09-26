@@ -3588,4 +3588,9 @@
 - MiguelHerrezuelo
 - yubermora
 - Jhonatangv10
+- alfonso17rangel
+- canticonagit
+- tcristian13
+- JasonMCBC
+- Lincol79
 - ChuyTovar
