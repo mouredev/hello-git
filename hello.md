@@ -3588,4 +3588,6 @@
 - MiguelHerrezuelo
 - yubermora
 - Jhonatangv10
+- alfonso17rangel
+- canticonagit
 - tcristian13
