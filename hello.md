@@ -3594,4 +3594,6 @@
 - JasonMCBC
 - Lincol79
 - ChuyTovar
+- nicolassgarciiia
+- jsmojicaj
 - Eduardo12Pacheco
