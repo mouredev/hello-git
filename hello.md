@@ -4,7 +4,6 @@
 
 - mouredev
 - braismoure
-- Darthzeroth
 - Abiezerk
 - davidgosp
 - agustinlopezdev
