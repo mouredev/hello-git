@@ -3605,4 +3605,5 @@
 - Darthzeroth
 - Eduardo-MPP
 - steevens6532-alt
-- Juancho9988
+- Juanhv24
+- JuanCamacho198
