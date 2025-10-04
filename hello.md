@@ -3613,4 +3613,5 @@
 - charligram
 - jaimeespin
 - ZapeONG
-- josedalopez06
+- jselga
+- Joselopezcas06
