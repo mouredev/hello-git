@@ -101,6 +101,11 @@ Una guía de estudio teórico-práctica paso a paso de 300 hojas para complement
 - [Lección 45 - GitHub Pages y Actions](https://youtu.be/3GymExBkKjE?t=18006)
 - [Próximos pasos](https://youtu.be/3GymExBkKjE?t=18263)
 
+> ### Ejercicios prácticos adicionales de Git (opcional):
+>
+> Un alumno de mouredev.pro ha creado unos ejercicios prácticos para Git, ideales si se ha completado la **lección 22**. Podéis empezar a practicar junto a retos de programación en este repositorio:  
+> [https://github.com/Chriseloj/ejercicios-git](https://github.com/Chriseloj/ejercicios-git)
+
 > ### Ejercicio para practicar lo aprendido:
 >
 > Si estás participando en el curso y ya has visto la lección 36, practica un flujo completo de trabajo en Git y GitHub añadiendo tu nombre de usuario en el documento [hello.md](./hello.md).
