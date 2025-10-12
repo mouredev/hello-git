@@ -3630,4 +3630,6 @@
 - jjgt-cpu
 - mariasan0902
 - MarceloDalto
+- aregogomez
+- usergitGrn
 - JuaneSsj
