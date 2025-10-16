@@ -3644,4 +3644,5 @@
 - sabtar26
 - dalarconro
 - tsardinasGitHub
-- jmercado
+- jmercadofraguasVillalba
+- KencyFS
