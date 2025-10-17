@@ -3646,4 +3646,6 @@
 - tsardinasGitHub
 - jmercadofraguasVillalba
 - KencyFS
-- FerTrejo
+- alegarmug
+- abarrera82
+- Fertrejoaram
