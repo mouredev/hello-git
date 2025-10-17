@@ -3646,4 +3646,6 @@
 - tsardinasGitHub
 - jmercadofraguasVillalba
 - KencyFS
-- sandynauta2013 
+- alegarmug
+- abarrera82
+- sandynauta2013
