@@ -48,6 +48,7 @@
 - FranVazquezG
 - monleon96
 - javiMerida
+- PacoGQ
 - RubenFortDev
 - franpua
 - Jocareher
