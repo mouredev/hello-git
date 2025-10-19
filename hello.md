@@ -3650,5 +3650,12 @@
 - abarrera82
 - sandynauta2013
 - Fertrejoaram
+<<<<<<< HEAD
 - PacoGQ
 
+=======
+- EduardoFerFer
+- IJyJ
+- Josedhdev
+- ivanordonez2003GitHub
+>>>>>>> upstream/main
