@@ -3657,4 +3657,7 @@
 - PacoGQ
 - srexxe
 - Manzano-Marcelo
-- Yeferson bot 
+- LeserNovich
+- franperez88dev
+- Richardby2005
+- Yeferson-bot
