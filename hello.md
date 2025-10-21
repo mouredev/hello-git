@@ -3657,4 +3657,8 @@
 - PacoGQ
 - srexxe
 - Manzano-Marcelo
-- MuriDev
+- LeserNovich
+- franperez88dev
+- Richardby2005
+- Yeferson-bot
+- MuriTheBoy
