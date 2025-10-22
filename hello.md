@@ -3658,3 +3658,13 @@
 - srexxe
 - Manzano-Marcelo
 - AbelDev3
+- LeserNovich
+- franperez88dev
+- Richardby2005
+- Yeferson-bot
+- MuriTheBoy
+- WalterS255
+- andermanasalb
+- Isidro9494
+- JuanArismendipruebas
+- PFPE20
