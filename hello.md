@@ -3663,4 +3663,6 @@
 - Yeferson-bot
 - MuriTheBoy
 - WalterS255
+- andermanasalb
+- Isidro9494
 - JuanArismendipruebas
