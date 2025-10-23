@@ -3657,7 +3657,6 @@
 - PacoGQ
 - srexxe
 - Manzano-Marcelo
-- AbelDev3
 - LeserNovich
 - franperez88dev
 - Richardby2005
@@ -3668,3 +3667,5 @@
 - Isidro9494
 - JuanArismendipruebas
 - PFPE20
+- Alexigmu
+- AbelDev3
