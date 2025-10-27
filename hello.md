@@ -3676,4 +3676,5 @@
 - emijes
 - darkhouselab08
 - Jhamil75029
-- DamagedNug
+- jromeroc99
+- DamagedBug
