@@ -3,6 +3,7 @@
 > _Así practicarás un flujo completo de trabajo en Git y GitHub_
 
 - mouredev
+- DanielaPerez14
 - braismoure
 - Abiezerk
 - davidgosp
