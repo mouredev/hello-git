@@ -1,0 +1,103 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-white text-gray-900;
+  }
+}
+
+@layer components {
+  .container {
+    @apply max-w-7xl mx-auto;
+  }
+
+  /* Button Styles */
+  .btn-primary {
+    @apply bg-git-orange text-white px-6 py-3 rounded-lg font-semibold hover:bg-git-red transition-colors;
+  }
+
+  .btn-secondary {
+    @apply bg-github-purple text-white px-6 py-3 rounded-lg font-semibold hover:bg-github-dark transition-colors;
+  }
+
+  .btn-outline {
+    @apply border-2 border-git-orange text-git-orange px-6 py-3 rounded-lg font-semibold hover:bg-git-orange hover:text-white transition-colors;
+  }
+
+  /* Card Styles */
+  .card {
+    @apply bg-white border border-gray-200 rounded-lg p-6 hover:shadow-lg transition-shadow;
+  }
+
+  /* Section Styles */
+  .section {
+    @apply py-16;
+  }
+
+  .section-title {
+    @apply text-3xl md:text-4xl font-bold text-center mb-12 text-gray-900;
+  }
+
+  /* Link Styles */
+  .link {
+    @apply text-git-orange hover:text-git-red underline transition-colors;
+  }
+
+  /* Code Styles */
+  .code-block {
+    @apply bg-gray-900 text-gray-100 p-4 rounded-lg font-mono text-sm overflow-x-auto;
+  }
+}
+
+@layer utilities {
+  /* Gradient Text */
+  .gradient-text {
+    @apply bg-gradient-to-r from-git-orange via-git-red to-github-purple bg-clip-text text-transparent;
+  }
+
+  /* Gradient Background */
+  .gradient-bg {
+    @apply bg-gradient-to-br from-git-orange via-git-red to-github-purple;
+  }
+
+  /* Shadow Utilities */
+  .shadow-git {
+    box-shadow: 0 4px 14px 0 rgba(241, 78, 50, 0.39);
+  }
+
+  .shadow-github {
+    box-shadow: 0 4px 14px 0 rgba(110, 84, 148, 0.39);
+  }
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-gray-100;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-git-orange rounded-full;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  @apply bg-git-red;
+}
+
+/* Selection */
+::selection {
+  @apply bg-git-orange text-white;
+}
+
+::-moz-selection {
+  @apply bg-git-orange text-white;
+}
