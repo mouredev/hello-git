@@ -3690,4 +3690,6 @@
 - AngelCode2318
 - jose-crypto
 - DieguiBoy
+- Feirg
+- JoseArnulfoVelasquezPrieto
 - DiegoEdue
