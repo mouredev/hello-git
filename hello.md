@@ -3690,4 +3690,5 @@
 - AngelCode2318
 - jose-crypto
 - DieguiBoy
-- Jose
+- Feirg
+- JoseArnulfoVelasquezPrieto
