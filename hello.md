@@ -3694,4 +3694,5 @@
 - JoseArnulfoVelasquezPrieto
 - DiegoEdue
 - anatobon19
--JOElozz
+- JOElozz
+- MariaParej
