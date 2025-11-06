@@ -3698,4 +3698,6 @@
 - MariaParej
 - neutrolex
 - yan2005dris-afk
+- DiegoDev-13
+- Pindelrio
 - Esteban98EO
