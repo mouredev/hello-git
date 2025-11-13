@@ -3717,3 +3717,4 @@
 - anarotela18
 - pedrorb-dev
 - JEMaurice
+- Bauzamir13
