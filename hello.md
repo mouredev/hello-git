@@ -3714,4 +3714,5 @@
 - Fernandowdd
 - FabriBanda
 - JuanYFH
-- pedrorb
+- anarotela18
+- pedrorb-dev
