@@ -3717,4 +3717,5 @@
 - anarotela18
 - pedrorb-dev
 - JEMaurice
-- Malios
+- NaditaLinda
+- MaliosDekar
