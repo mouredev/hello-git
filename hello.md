@@ -3717,4 +3717,6 @@
 - anarotela18
 - pedrorb-dev
 - JEMaurice
+- NaditaLinda
+- MaliosDekar
 - Bauzamir13
