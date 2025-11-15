@@ -3720,4 +3720,7 @@
 - NaditaLinda
 - MaliosDekar
 - Bauzamir13
-- Josue Valdivieso
+- jbuil-bivid
+- JCZordan
+- PedrixWizard
+- JosueValdivieso
