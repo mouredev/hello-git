@@ -3730,4 +3730,7 @@
 - alexander6099
 - BertaAsensio
 - Brayiux
+- alan-cx
+- brunomatt1
+- Jfg21-github
 - lalanmikell
