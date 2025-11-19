@@ -3730,4 +3730,6 @@
 - alexander6099
 - BertaAsensio
 - Brayiux
-- Jfg
+- alan-cx
+- brunomatt1
+- Jfg21-github
