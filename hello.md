@@ -3730,4 +3730,5 @@
 - alexander6099
 - BertaAsensio
 - Brayiux
-- brunomatt11
+- alan-cx
+- brunomatt1
