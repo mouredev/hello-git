@@ -3739,4 +3739,6 @@
 - AnsAjxup
 - JaviDVP10
 - daniel-2030
+- javi-kl
+- jofrodriguezsu
 - Ricardo-Jaramillo
