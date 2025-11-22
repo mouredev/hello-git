@@ -3734,4 +3734,18 @@
 - brunomatt1
 - Jfg21-github
 - lalanmikell
+<<<<<<< HEAD
+=======
+- Sheetlake
+- JuanTrillini06
+- AnsAjxup
+- JaviDVP10
+- daniel-2030
+- javi-kl
+- jofrodriguezsu
+- Ricardo-Jaramillo
+- Jess-Ayala
+- Jondr06
+- MauricioAedoS
 - montxooo
+>>>>>>> 859cb1db392c5e87dc07c21bac65b2e056231723
