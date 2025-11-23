@@ -3745,4 +3745,6 @@
 - Jess-Ayala
 - Jondr06
 - MauricioAedoS
+- tatianainesmartinez
+- montxooo
 - 03XimenaCruz
