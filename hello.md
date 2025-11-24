@@ -2,8 +2,8 @@
 >
 > _Así practicarás un flujo completo de trabajo en Git y GitHub_
 
-- mouredev ❤️
-- braismoure ❤️
+- mouredev
+- braismoure
 - Abiezerk
 - davidgosp
 - agustinlopezdev
@@ -3749,4 +3749,9 @@
 - montxooo
 - 03XimenaCruz
 - Samuellondo08
-- gerezfabian [Fabian Gerez](https://github.com/gerezfabian) {❤️}
+- suiro-A
+- TomasAlonso95
+- Vicksdev2
+- mariolopezcb
+- Zunku
+- gerezfabian
