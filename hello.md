@@ -3749,4 +3749,4 @@
 - montxooo
 - 03XimenaCruz
 - Samuellondo08
-- gerezfabian [Fabian Gerez](https://github.com/gerezfabian) ❤️
+- gerezfabian [Fabian Gerez](https://github.com/gerezfabian) {❤️}
