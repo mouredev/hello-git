@@ -4,6 +4,7 @@
 
 - mouredev
 - braismoure
+- Don Rodrigo de Novoa Alonso
 - Abiezerk
 - davidgosp
 - agustinlopezdev
