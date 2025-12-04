@@ -3768,5 +3768,6 @@
 - LucasVersion1997
 - RPJMICRO01
 - macudev
-  JSebas-23
-  
+- JorgeZavalza
+- 1quii
+- JSebas-23
