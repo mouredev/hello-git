@@ -3774,4 +3774,6 @@
 - SantiagoBA528
 - jabssdev
 - descobedoc
+- UrielJC12
+- JorchDev-sudo
 - miguelangelmz21
