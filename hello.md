@@ -3774,4 +3774,5 @@
 - SantiagoBA528
 - jabssdev
 - descobedoc
-- JorchDev-Sudo
+- UrielJC12
+- JorchDev-sudo
