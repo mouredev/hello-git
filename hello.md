@@ -6,7 +6,6 @@
 - braismoure
 - Abiezerk
 - davidgosp
-- agustinlopezdev
 - geroschmidt
 - javicb
 - erickvr2k
