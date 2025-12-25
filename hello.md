@@ -3805,5 +3805,6 @@
 - yanniyzd
 - ariadnagramary-lang
 - gabriel-fg-dev
-- Julio-Glez
 - FeralvDev
+- Jafuhe01
+- Julio-Glez
