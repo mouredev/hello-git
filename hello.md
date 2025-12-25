@@ -3806,4 +3806,9 @@
 - ariadnagramary-lang
 - gabriel-fg-dev
 - FeralvDev
+- Jafuhe01
+- Julio-Glez
+- Katydovalemo
+- Juan11Xd
+- Julianr96
 - FernandoMulato
