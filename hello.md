@@ -3799,4 +3799,15 @@
 - ScorbunnyCorp15
 - MaximilianoJf
 - juancholopodous
-- julianr96
+- Mrandon23
+- elsetecoding
+- Tomas-LunaH
+- yanniyzd
+- ariadnagramary-lang
+- gabriel-fg-dev
+- FeralvDev
+- Jafuhe01
+- Julio-Glez
+- Katydovalemo
+- Juan11Xd
+- Julianr96
