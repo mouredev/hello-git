@@ -5,8 +5,8 @@
 - mouredev_
 - braismoure_
 - Abiezerk_
-- davidgosp
-- agustinlopezdev
+- davidgosp_
+- agustinlopezdev_
 - geroschmidt
 - javicb
 - erickvr2k
