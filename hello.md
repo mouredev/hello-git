@@ -7,7 +7,7 @@
 - Abiezerk_
 - davidgosp_
 - agustinlopezdev_
-- geroschmidt
+- geroschmidt_
 - javicb
 - erickvr2k
 - Alexis033
