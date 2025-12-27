@@ -11,7 +11,7 @@
 - LilyMilano
 - soyaldobeltran
 - franpistelli
-- Hugovrc
+- Hugovrc_
 - ZielDev
 - cesarAndramart
 - vlc33
