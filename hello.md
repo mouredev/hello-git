@@ -6,7 +6,7 @@
 - braismoure_
 - Abiezerk_
 - davidgosp_
-- erickvr2k
+- erickvr2k_
 - Alexis033
 - LilyMilano
 - soyaldobeltran
