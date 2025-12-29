@@ -3816,4 +3816,6 @@
 - evelyn-lg
 - Nicolaspifo
 - TRD-Marisa
+- FranDev200
+- MigueJano
 - MaxiNMonzon
