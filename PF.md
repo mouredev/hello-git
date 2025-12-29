@@ -1,0 +1,1 @@
+Hola Moure como estas? creo este nuevo fichero me parecio interesante para preguntas frecuentes sobre este curso en particular, para que cada uno coloque su pregunta sobre alguna duda y de paso practica la clonacion de repo y todo lo que es pull request. Te mando un abrazo y gracias por los cursos!
