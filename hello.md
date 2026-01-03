@@ -3828,4 +3828,6 @@
 - Byron-fran
 - Abrahamaf-2020
 - noldee
+- diego0603
+- Diegoaga31
 - Yoseph-GL
