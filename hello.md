@@ -3871,4 +3871,6 @@
 - sermorr
 - erregepe
 - Jdhiper
-- joseluiscortes
+- AlanReyes001
+- jomatorralba
+- joseluiscortesrapela
