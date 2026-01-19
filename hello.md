@@ -3872,4 +3872,6 @@
 - erregepe
 - Jdhiper
 - AlanReyes001
-- JaviCJ99
+- jomatorralba
+- joseluiscortesrapela
+- JaviCJ99-eng
