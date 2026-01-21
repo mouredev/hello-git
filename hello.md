@@ -3879,4 +3879,7 @@
 - yohan-o
 - ciriarte-dev
 - miguel-camargo611
-- sfrv-devgit
+- antonioluque9
+- Noelia-PT
+- tomasdacosta
+- sandrafrv
