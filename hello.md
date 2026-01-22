@@ -3886,4 +3886,6 @@
 - ErickMendoza21
 - Francisco-Flores12
 - jeffridev
-- YeremyAc17
+- LeanMongelos
+- BrauSantaFe
+- Yeremy17
