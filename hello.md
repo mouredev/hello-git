@@ -3892,4 +3892,9 @@
 - ReyLlulian54
 - VictorDonayre
 - luisestrech
-- Fernand3z
+- DeltaG8109
+- txino90
+- Matheuzz-underdog
+- omarsaldanc-Dev
+- DennisGD94
+- grupoo3
