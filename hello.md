@@ -3892,4 +3892,6 @@
 - ReyLlulian54
 - VictorDonayre
 - luisestrech
-- Matheuz_c4
+- DeltaG8109
+- txino90
+- Matheuzz-underdog
