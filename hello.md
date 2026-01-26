@@ -3892,4 +3892,7 @@
 - ReyLlulian54
 - VictorDonayre
 - luisestrech
+- DeltaG8109
+- txino90
+- Matheuzz-underdog
 - omarsaldanc-Dev
