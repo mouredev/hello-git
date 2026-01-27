@@ -3900,4 +3900,6 @@
 - grupoo3
 - Bensanchez14
 - jeandurand33
-- JzLev
+- marllulitmgr
+- DaniloRincon07
+- josue-Jimenez
