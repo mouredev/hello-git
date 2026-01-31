@@ -1,3 +1,4 @@
+
 > ### Si estás participando en el curso. Haz un fork del proyecto y añade tu usuario de GitHub en una nueva línea
 >
 > _Así practicarás un flujo completo de trabajo en Git y GitHub_
@@ -3906,4 +3907,7 @@
 - rbelvis85
 - rmartinbu
 - Miauchito
+- SynnergyDev47
+- ericksuper8000-source
+- Gustavu07
 - AndyGarcia291003
