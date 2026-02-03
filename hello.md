@@ -3916,4 +3916,6 @@
 - bridamcs
 - bozada28
 - JuanMendivelsoZuleta
+- jorge-sanch
+- CKEME1
 - Ricardo-Guerra-Carreño
