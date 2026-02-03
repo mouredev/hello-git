@@ -3917,4 +3917,5 @@
 - bridamcs
 - bozada28
 - JuanMendivelsoZuleta
-- RamonRaluy
+- jorge-sanch
+- CKEME1
