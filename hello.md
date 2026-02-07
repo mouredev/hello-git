@@ -3925,4 +3925,5 @@
 - Irenetitor
 - dandreara-boop
 - JavierRodarte
-- pepeitoxd
+- Rojadeveloper
+- juan27muri
