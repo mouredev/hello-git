@@ -2,6 +2,7 @@
 >
 > _Así practicarás un flujo completo de trabajo en Git y GitHub_
 
+
 - mouredev
 - braismoure
 - Abiezerk
@@ -3924,4 +3925,6 @@
 - Irenetitor
 - dandreara-boop
 - JavierRodarte
-- icano.dev
+- Rojadeveloper
+- juan27muri
+- icano-dev
