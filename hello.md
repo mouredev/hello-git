@@ -3934,4 +3934,6 @@
 - victorruben-castillopalomino
 - anclajeanmaro
 - pinperrisimo
+- joshan10
+- shiroi-edm
 - zZzekret
