@@ -5,7 +5,6 @@
 - mouredev
 - braismoure
 - Abiezerk
-- DanielM997
 - davidgosp
 - agustinlopezdev
 - geroschmidt
@@ -3942,3 +3941,4 @@
 - Morsac
 - JairoJimenezArzuza
 - AdriSanse
+- DanielM997
