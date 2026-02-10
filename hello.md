@@ -5,6 +5,7 @@
 - mouredev
 - braismoure
 - Abiezerk
+- DanielM997
 - davidgosp
 - agustinlopezdev
 - geroschmidt
