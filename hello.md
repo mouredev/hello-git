@@ -3946,4 +3946,5 @@
 - RonaldDiego
 - nicolaspaezt
 - Carlostala04
-- LuciaG1704
+- MiguelHerrera-13
+- raiciCgt26
