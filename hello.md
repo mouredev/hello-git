@@ -3946,4 +3946,13 @@
 - RonaldDiego
 - nicolaspaezt
 - Carlostala04
-- chrisssgmz
+- MiguelHerrera-13
+- raiciCgt26
+- odoexx
+- Ruben-PH
+- cabredev
+- bferve
+- jbsparta121
+- apedrosa1985
+- JS1719
+- Diegoloy57
