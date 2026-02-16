@@ -3958,3 +3958,5 @@
 - Diegoloy57
 - Jstdk25
 - ericksuper8000-source
+- Chrisssgmz
+- seiscodes
