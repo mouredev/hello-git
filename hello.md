@@ -3960,3 +3960,4 @@
 - ericksuper8000-source
 - Chrisssgmz
 - seiscodes
+- Equispalt
