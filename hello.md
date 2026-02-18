@@ -4,6 +4,7 @@
 
 - mouredev
 - braismoure
+- Aronxter
 - Abiezerk
 - davidgosp
 - agustinlopezdev
