@@ -4,7 +4,6 @@
 
 - mouredev
 - braismoure
-- Aronxter
 - Abiezerk
 - davidgosp
 - agustinlopezdev
@@ -3965,3 +3964,4 @@
 - shertas
 - SantiagoCzk
 - equispalt
+- Aronxter
