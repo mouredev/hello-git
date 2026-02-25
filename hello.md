@@ -3984,3 +3984,5 @@
 - CarlosA35
 - Katsuond
 - bloodreina-coder
+- AlexAraC
+- manusolmel
