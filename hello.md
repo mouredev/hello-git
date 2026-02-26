@@ -3986,3 +3986,4 @@
 - bloodreina-coder
 - AlexAraC
 - manusolmel
+- juancarlosrozoa
