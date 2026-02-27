@@ -3992,4 +3992,5 @@
 - PabloSumbaU
 - daniabe98
 - juancarlosrozoa
-- Yordin_CR
+- carlosfernandev
+- yycruzr-afk
