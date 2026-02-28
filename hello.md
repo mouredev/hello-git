@@ -3995,4 +3995,5 @@
 - carlosfernandev
 - yycruzr-afk
 - javips99
-- Httpnancho
+- luciaPestana
+- CharlesBenz
