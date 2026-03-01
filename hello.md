@@ -3998,3 +3998,6 @@
 - luciaPestana
 - CharlesBenz
 - juanDvelez
+- ivandevsec-ctrl
+- Luisenri8197
+- Jakailadoma
