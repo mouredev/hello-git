@@ -3997,4 +3997,8 @@
 - javips99
 - luciaPestana
 - CharlesBenz
-- TomasRubio
+- juanDvelez
+- ivandevsec-ctrl
+- Luisenri8197
+- Jakailadoma
+- Vantprofit
