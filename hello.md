@@ -4011,3 +4011,5 @@
 - ValeDev121
 - andres16-cmd
 - Javy747
+- Angelloti
+- luquitro
