@@ -4006,9 +4006,16 @@
 - RM24004
 - enrique22-22
 - JoseJulioGP
-- jorgeortiz6
 - RubenSanchezGalera
 - rubiocabezali94
 - ValeDev121
 - andres16-cmd
 - Javy747
+- JitaBor
+- RCUR59
+- samuelvillalpa-del
+- bucdtm
+- Rodel7
+- AdrianFambuena
+- RaquelDisid
+- jorgeortiz6
