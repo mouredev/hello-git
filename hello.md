@@ -4028,6 +4028,8 @@
 - DanielTCc
 - Arpeks1
 - acesargg
-- morales0412- JoseanMF
+- morales0412
+- JoseanMF
 - luiscuya7-ops
 - naPooLeon
+- natipenalva01
