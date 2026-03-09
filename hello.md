@@ -4027,7 +4027,13 @@
 - mafaldusebs
 - DanielTCc
 - Arpeks1
-<<<<<<< HEAD
+- acesargg
+- morales0412
+- JoseanMF
+- luiscuya7-ops
+- naPooLeon
+- natipenalva01
+- geramos2004-coder
+- giovanny8129-stack
+- HectorPozo2007
 - SanCG36
-=======
->>>>>>> 51b86e29d506de09736d617da5f3d7b24bd2f88b
