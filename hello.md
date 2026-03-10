@@ -4033,9 +4033,15 @@
 - luiscuya7-ops
 - naPooLeon
 - natipenalva01
-- JoseCulebras
 - geramos2004-coder
 - giovanny8129-stack
 - HectorPozo2007
 - SanCG36
 - Andrelgo08
+- JavierAsh
+- danaluque
+- aran028
+- Povea123
+- paumayrea22
+- VictorAparisi
+- JoseCulebras
