@@ -4052,3 +4052,5 @@
 - Bernete
 - msgonzalezcasas-oss
 - Nesttorbg
+- Sdg79
+- owen-rodriguez-rojas
