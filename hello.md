@@ -4053,5 +4053,7 @@
 - msgonzalezcasas-oss
 - Sdg79
 - owen-rodriguez-rojas
-- cybermito
 - julito0002
+- alejo-herrer
+- phantonkain
+- cybermito
