@@ -4053,4 +4053,6 @@
 - msgonzalezcasas-oss
 - Sdg79
 - owen-rodriguez-rojas
-- phantompain
+- julito0002
+- alejo-herrer
+- phantonkain
