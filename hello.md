@@ -4073,4 +4073,6 @@
 - Cyraxevil7
 - Veko1007
 - chemamarc
-- VíctorGE
+- Lexjavier-cca
+- JCodeMasterJ
+- victordaniel123rt-lang
