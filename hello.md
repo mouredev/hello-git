@@ -11,7 +11,6 @@
 - javicb
 - erickvr2k
 - Alexis033
-- alexmarpar
 - LilyMilano
 - soyaldobeltran
 - franpistelli
@@ -4074,3 +4073,4 @@
 - Cyraxevil7
 - Veko1007
 - chemamarc
+- hello-git-mouredevreadme
