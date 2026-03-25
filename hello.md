@@ -2,7 +2,7 @@
 >
 > _Así practicarás un flujo completo de trabajo en Git y GitHub_
 
-Esto es una prueba
+Esto es una prueba para resolver conflictos
 
 - mouredev
 - braismoure
