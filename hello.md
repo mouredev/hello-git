@@ -4,6 +4,7 @@
 
 - mouredev
 - braismoure
+- kerodriguezar
 - Abiezerk
 - davidgosp
 - agustinlopezdev
