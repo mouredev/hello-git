@@ -4079,4 +4079,5 @@ Esto es una prueba en local
 - JCodeMasterJ
 - victordaniel123rt-lang
 - alexmarpar
+- JorgeAChaconL
 - jrbarriod
