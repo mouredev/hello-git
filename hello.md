@@ -2,6 +2,8 @@
 >
 > _Así practicarás un flujo completo de trabajo en Git y GitHub_
 
+Esto es una prueba en local
+
 - mouredev
 - braismoure
 - Abiezerk
@@ -4078,3 +4080,4 @@
 - victordaniel123rt-lang
 - alexmarpar
 - JorgeAChaconL
+- jrbarriod
