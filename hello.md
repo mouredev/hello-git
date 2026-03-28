@@ -4083,3 +4083,5 @@ Esto es una prueba en local
 - jrbarriod
 - Daniel2
 - Lovbo
+- jorgeAngelus
+- Adrian2004-ram
