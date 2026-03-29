@@ -4085,4 +4085,5 @@ Esto es una prueba en local
 - Lovbo
 - jorgeAngelus
 - Adrian2004-ram
-- Sebastian Chaves
+- adominguez1998
+- Sebas0718
