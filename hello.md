@@ -4086,3 +4086,8 @@ Esto es una prueba en local
 - jorgeAngelus
 - Adrian2004-ram
 - rodrigorert
+- adominguez1998
+- Sebas0718
+- shiquimagno
+- vtaguchi
+
