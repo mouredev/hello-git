@@ -4085,4 +4085,6 @@ Esto es una prueba en local
 - Lovbo
 - jorgeAngelus
 - Adrian2004-ram
-- Shiquihno (shiquimagno) 
+- adominguez1998
+- Sebas0718
+- shiquimagno
