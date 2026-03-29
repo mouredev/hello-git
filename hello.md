@@ -4088,3 +4088,4 @@ Esto es una prueba en local
 - adominguez1998
 - Sebas0718
 - shiquimagno
+- vtaguchi
