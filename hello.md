@@ -4092,3 +4092,4 @@ Esto es una prueba en local
 - alexmtzrv
 - pablodegalvez
 - rodrigorert
+- ManuelDiZAr
