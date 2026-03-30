@@ -4089,4 +4089,7 @@ Esto es una prueba en local
 - Sebas0718
 - shiquimagno
 - vtaguchi
-- ManuelDZA :D 
+- alexmtzrv
+- pablodegalvez
+- rodrigorert
+- ManuelDiZAr
