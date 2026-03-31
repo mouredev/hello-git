@@ -4093,4 +4093,8 @@ Esto es una prueba en local
 - pablodegalvez
 - rodrigorert
 - ManuelDiZAr
-- YisusGeek
+- vicenDroid
+- BarbaraPVazquez
+- SenkuT
+- DLoraDev
+- colosimokid
