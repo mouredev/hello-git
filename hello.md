@@ -4090,3 +4090,12 @@ Esto es una prueba en local
 - shiquimagno
 - vtaguchi
 - infodumper
+- alexmtzrv
+- pablodegalvez
+- rodrigorert
+- ManuelDiZAr
+- vicenDroid
+- BarbaraPVazquez
+- SenkuT
+- DLoraDev
+- colosimokid
