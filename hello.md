@@ -4097,3 +4097,4 @@ Esto es una prueba en local
 - BarbaraPVazquez
 - SenkuT
 - DLoraDev
+- colosimokid
