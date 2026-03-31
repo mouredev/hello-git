@@ -4096,3 +4096,4 @@ Esto es una prueba en local
 - vicenDroid
 - BarbaraPVazquez
 - SenkuT
+- DLoraDev
