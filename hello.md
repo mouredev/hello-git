@@ -4094,3 +4094,4 @@ Esto es una prueba en local
 - rodrigorert
 - ManuelDiZAr
 - vicenDroid
+- BarbaraPVazquez
