@@ -4089,6 +4089,7 @@ Esto es una prueba en local
 - Sebas0718
 - shiquimagno
 - vtaguchi
+- infodumper
 - alexmtzrv
 - pablodegalvez
 - rodrigorert
@@ -4098,4 +4099,5 @@ Esto es una prueba en local
 - SenkuT
 - DLoraDev
 - colosimokid
-- ingenmanuelbran
+- StevenCapy
+- EbranTech
