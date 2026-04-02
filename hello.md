@@ -4102,3 +4102,4 @@ Esto es una prueba en local
 - StevenCapy
 - EbranTech
 - Estebannjsr
+- EricDev2
