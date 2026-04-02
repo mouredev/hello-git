@@ -4099,4 +4099,6 @@ Esto es una prueba en local
 - SenkuT
 - DLoraDev
 - colosimokid
-- PinguinoHimalaya
+- StevenCapy
+- EbranTech
+- Estebannjsr
