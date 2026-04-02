@@ -4089,6 +4089,7 @@ Esto es una prueba en local
 - Sebas0718
 - shiquimagno
 - vtaguchi
+- infodumper
 - alexmtzrv
 - pablodegalvez
 - rodrigorert
