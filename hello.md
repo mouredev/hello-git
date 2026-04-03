@@ -4105,3 +4105,4 @@ Esto es una prueba en local
 - EdWarGG
 - lromero-esperta
 - ericksuper8000-source
+- JuanJeGit
