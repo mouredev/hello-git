@@ -4102,4 +4102,6 @@ Esto es una prueba en local
 - StevenCapy
 - EbranTech
 - Estebannjsr
-- EricDev2
+- EdWarGG
+- lromero-esperta
+- ericksuper8000-source
