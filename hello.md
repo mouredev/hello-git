@@ -4106,3 +4106,6 @@ Esto es una prueba en local
 - lromero-esperta
 - ericksuper8000-source
 - RafaAraya14
+- Franco-14
+- JuanJeGit
+- mvargasdev123
