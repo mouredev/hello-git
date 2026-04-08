@@ -4112,4 +4112,8 @@ Esto es una prueba en local
 - constanzodz
 - AlexanderCasimiro
 - kavokcode
-- Jenifer
+- javisalg
+- Syluss
+- borjamarindev
+- kv8978904-byte
+- Jeffer-cod3
