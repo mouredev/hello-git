@@ -4114,4 +4114,7 @@ Esto es una prueba en local
 - kavokcode
 - javisalg
 - Syluss
-- jm1234n
+- borjamarindev
+- kv8978904-byte
+- Jeffer-cod3
+- Jm1234n
