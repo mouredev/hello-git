@@ -4112,4 +4112,7 @@ Esto es una prueba en local
 - constanzodz
 - AlexanderCasimiro
 - kavokcode
-- KEVIN_VARGAS
+- javisalg
+- Syluss
+- borjamarindev
+- kv8978904-byte
