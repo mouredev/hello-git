@@ -4126,3 +4126,4 @@ Esto es una prueba en local
 - Lagbowski
 - ezequielpopolo
 - mantillaqed
+- crisyntaxis
