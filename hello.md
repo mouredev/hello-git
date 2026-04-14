@@ -6,7 +6,6 @@ Esto es una prueba en local
 
 - mouredev
 - braismoure
-- HAAGCH
 - Abiezerk
 - davidgosp
 - agustinlopezdev
@@ -4131,3 +4130,4 @@ Esto es una prueba en local
 - javiergemar
 - apillacag
 - Emmanuelme76
+- HAAGCH
