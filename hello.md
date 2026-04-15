@@ -4131,3 +4131,5 @@ Esto es una prueba en local
 - apillacag
 - Emmanuelme76
 - AndreaSoto7
+- ElChochua
+- HAAGCH
