@@ -4130,4 +4130,7 @@ Esto es una prueba en local
 - javiergemar
 - apillacag
 - Emmanuelme76
-- AngelDarkerZ99
+- AndreaSoto7
+- ElChochua
+- HAAGCH
+- AngelSoulZ99
