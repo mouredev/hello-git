@@ -4135,3 +4135,6 @@ Esto es una prueba en local
 - HAAGCH
 - AngelSoulZ99
 - danielesteban1306-create
+- susanagzr7
+- MasterGino7
+- quiet-thinker
