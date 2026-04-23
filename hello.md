@@ -4148,4 +4148,5 @@ Esto es una prueba en local
 - FDvck
 - willycasanova
 - mdgarcia4
-- elfede
+- Osmel0000
+- FedericoPorras
