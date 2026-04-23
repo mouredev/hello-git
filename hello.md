@@ -4149,4 +4149,5 @@ Esto es una prueba en local
 - willycasanova
 - mdgarcia4
 - Osmel0000
-- FedericoPorras\- JorgeVenegas2024
+- FedericoPorras
+- JorgeVenegas2024
