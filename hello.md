@@ -4150,4 +4150,8 @@ Esto es una prueba en local
 - mdgarcia4
 - Osmel0000
 - FedericoPorras
-- DonSparky
+- marco-esteban-dev
+- JorgeVenegas2024
+- Ari-kell
+- santi-pereyra
+- Don-Sparky21
