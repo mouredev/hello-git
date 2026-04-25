@@ -4155,4 +4155,5 @@ Esto es una prueba en local
 - Ari-kell
 - santi-pereyra
 - Don-Sparky21
-- Lolimoli
+- W4RS22
+- jimenezbaronbeatrizz-ux
