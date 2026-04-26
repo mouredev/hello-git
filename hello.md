@@ -4159,3 +4159,4 @@ Esto es una prueba en local
 - jimenezbaronbeatrizz-ux
 - AdolfoPalomaresVillar
 - Jmarcosrose
+- vDiego-A
