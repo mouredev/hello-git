@@ -1482,6 +1482,7 @@ Esto es una prueba en local
 - Olliug91
 - AndresRamos0608
 - AldoGonzalez25
+- jjbkstudio
 - gonzadev28
 - TabakoCuba
 - Bhennu
