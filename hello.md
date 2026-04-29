@@ -1482,6 +1482,7 @@ Esto es una prueba en local
 - Olliug91
 - AndresRamos0608
 - AldoGonzalez25
+- jjbkstudio
 - gonzadev28
 - TabakoCuba
 - Bhennu
@@ -4163,4 +4164,7 @@ Esto es una prueba en local
 - vaalentinaalvareezfacebook-coder
 - Nicooking23
 - 4ngelvega
--es una prueba
+- JEstebanAriasO
+- YsraelMauricio
+- EdmondG18
+- AdrianFambuena
