@@ -4167,4 +4167,5 @@ Esto es una prueba en local
 - JEstebanAriasO
 - YsraelMauricio
 - EdmondG18
+- AdrianFambuena
 - GhostWareJSX
