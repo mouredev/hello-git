@@ -4166,3 +4166,4 @@ Esto es una prueba en local
 - 4ngelvega
 - JEstebanAriasO
 - YsraelMauricio
+- EdmondG18
