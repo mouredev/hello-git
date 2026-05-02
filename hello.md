@@ -4169,3 +4169,4 @@ Esto es una prueba en local
 - EdmondG18
 - AdrianFambuena
 - GhostWareJSX
+- crisgio24
