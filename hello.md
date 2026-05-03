@@ -6,6 +6,7 @@ Esto es una prueba en local
 
 - mouredev
 - braismoure
+- Alan-pacheco-dev
 - Abiezerk
 - davidgosp
 - agustinlopezdev
