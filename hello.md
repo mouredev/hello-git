@@ -4180,3 +4180,4 @@ Esto es una prueba en local
 - andurbal
 - ericksuper8000-source
 - xevirengel
+- zeusdiazherrera-ai
