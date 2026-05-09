@@ -4181,3 +4181,4 @@ Esto es una prueba en local
 - ericksuper8000-source
 - xevirengel
 - zeusdiazherrera-ai
+- GarciaJuan19
