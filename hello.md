@@ -4182,3 +4182,4 @@ Esto es una prueba en local
 - xevirengel
 - zeusdiazherrera-ai
 - GarciaJuan19
+- gamingjuanca
