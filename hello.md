@@ -6,7 +6,6 @@ Esto es una prueba en local
 
 - mouredev
 - braismoure
-- JoseAlejos
 - Abiezerk
 - davidgosp
 - agustinlopezdev
@@ -4184,3 +4183,5 @@ Esto es una prueba en local
 - zeusdiazherrera-ai
 - GarciaJuan19
 - gamingjuanca
+- acardiels
+- alejandrofc2709
