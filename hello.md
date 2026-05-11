@@ -4183,3 +4183,4 @@ Esto es una prueba en local
 - zeusdiazherrera-ai
 - GarciaJuan19
 - gamingjuanca
+- acardiels
