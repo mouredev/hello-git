@@ -4187,3 +4187,5 @@ Esto es una prueba en local
 - alejandrofc2709
 - juanperrotat
 - Elvis1219BS
+- davidfdezm
+- jsearab-del
