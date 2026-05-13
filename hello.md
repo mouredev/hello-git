@@ -4189,3 +4189,4 @@ Esto es una prueba en local
 - Elvis1219BS
 - davidfdezm
 - jsearab-del
+- Diegoyaki
