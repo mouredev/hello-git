@@ -4194,4 +4194,6 @@ Esto es una prueba en local
 - EnriGF
 - MasterHoracio
 - CJUDC
-- Markoko 
+- agarayii
+- Yuliana-barcelo
+- Marc-Ignacio
