@@ -4198,3 +4198,6 @@ Esto es una prueba en local
 - Yuliana-barcelo
 - Marc-Ignacio
 - raulgavilan
+- aestevem01
+- DanielRo537
+- samm-xs
