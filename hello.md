@@ -4204,3 +4204,4 @@ Esto es una prueba en local
 - severinodev
 - marioalbamart
 - Pablo-MP
+- c0c0weed
