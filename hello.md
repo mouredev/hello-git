@@ -4207,3 +4207,4 @@ Esto es una prueba en local
 - DevJulian07
 - lautarolugones-rgb
 - ChristianShei
+- Fabriziofb25
