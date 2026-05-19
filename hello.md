@@ -4205,3 +4205,4 @@ Esto es una prueba en local
 - marioalbamart
 - Pablo-MP
 - DevJulian07
+- lautarolugones-rgb
