@@ -4208,3 +4208,4 @@ Esto es una prueba en local
 - lautarolugones-rgb
 - ChristianShei
 - Fabriziofb25
+- JuanBMoscoso
