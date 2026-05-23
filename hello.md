@@ -4213,3 +4213,4 @@ Esto es una prueba en local
 - yyrkoon1982
 - limasdarius12-art
 - amiguito-lol
+- knArango
