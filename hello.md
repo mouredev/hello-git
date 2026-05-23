@@ -4214,3 +4214,4 @@ Esto es una prueba en local
 - limasdarius12-art
 - amiguito-lol
 - jotaromero09
+- knArango
