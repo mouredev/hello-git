@@ -4215,3 +4215,4 @@ Esto es una prueba en local
 - amiguito-lol
 - jotaromero09
 - knArango
+- Alexmorales-dev
