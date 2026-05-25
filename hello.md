@@ -4218,3 +4218,4 @@ Esto es una prueba en local
 - olopnez96
 - Alexmorales-dev
 - El-Cjas
+- luxuajs
