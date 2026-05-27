@@ -4211,3 +4211,13 @@ Esto es una prueba en local
 - JuanBMoscoso
 - Alejandroono
 - yyrkoon1982
+- limasdarius12-art
+- amiguito-lol
+- jotaromero09
+- knArango
+- olopnez96
+- Alexmorales-dev
+- El-Cjas
+- luxuajs
+- carrer2025ofi-eng
+- TheFactorist
