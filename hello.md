@@ -6,7 +6,6 @@ Esto es una prueba en local
 
 - mouredev
 - braismoure
-- alvar3zjos3
 - Abiezerk
 - davidgosp
 - agustinlopezdev
@@ -4228,3 +4227,4 @@ Esto es una prueba en local
 - JhonJClavijo
 - evosysthemia-web
 - Trialed
+- alvar3zjos3
