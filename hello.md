@@ -4228,3 +4228,12 @@ Esto es una prueba en local
 - JhonJClavijo
 - evosysthemia-web
 - Trialed
+- AndroFyre
+- alvar3zjos3
+- Morcillo44
+- ReiberSmith
+- luisOrtga
+- Ryzelot
+- El-Shaielo
+- elnachto
+- LandabeDev
