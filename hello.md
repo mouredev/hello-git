@@ -17,6 +17,7 @@ Esto es una prueba en local
 - soyaldobeltran
 - franpistelli
 - Hugovrc
+- lapzdev
 - ZielDev
 - cesarAndramart
 - vlc33
