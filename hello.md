@@ -4224,6 +4224,7 @@ Esto es una prueba en local
 - zetchs7
 - bloedige
 - Reevori
+- Algora20
 - JhonJClavijo
 - evosysthemia-web
 - Trialed
