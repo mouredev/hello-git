@@ -4224,6 +4224,7 @@ Esto es una prueba en local
 - zetchs7
 - bloedige
 - Reevori
+- Algora20
 - JhonJClavijo
 - evosysthemia-web
 - Trialed
@@ -4236,4 +4237,7 @@ Esto es una prueba en local
 - El-Shaielo
 - elnachto
 - LandabeDev
-- juminicode
+- arivam
+- Ignasosa-dev
+- Pjcabrera03
+- juminic-dot
