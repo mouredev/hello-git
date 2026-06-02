@@ -4240,3 +4240,4 @@ Esto es una prueba en local
 - arivam
 - Ignasosa-dev
 - Pjcabrera03
+- juminic-dot
