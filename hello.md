@@ -4235,6 +4235,7 @@ Esto es una prueba en local
 - luisOrtga
 - Ryzelot
 - El-Shaielo
+- JGDataBit
 - elnachto
 - LandabeDev
 - arivam
