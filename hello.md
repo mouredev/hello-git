@@ -4237,3 +4237,4 @@ Esto es una prueba en local
 - elnachto
 - LandabeDev
 - arivam
+- Ignasosa-dev
