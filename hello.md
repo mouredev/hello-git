@@ -4235,10 +4235,14 @@ Esto es una prueba en local
 - luisOrtga
 - Ryzelot
 - El-Shaielo
-- JGDataBit
 - elnachto
 - LandabeDev
 - arivam
 - Ignasosa-dev
 - Pjcabrera03
 - juminic-dot
+- algoritmoabstracto
+- PEscriFer
+- lapzdev
+- AbrahamMoka
+- JGDataBit
