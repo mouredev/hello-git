@@ -4246,4 +4246,10 @@ Esto es una prueba en local
 - lapzdev
 - AbrahamMoka
 - JGDataBit
+- jmacha-dot
+- aristizabal13
+- DylanPajares
+- MartinCCornejo
+- Reyes2001
+- Dokkalffur
 - Samuel-AI-Electronic-Engineer
