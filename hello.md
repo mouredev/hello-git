@@ -4252,4 +4252,6 @@ Esto es una prueba en local
 - MartinCCornejo
 - Reyes2001
 - Dokkalffur
-- charanco
+- wammtech
+- deivit0
+- charanco12
