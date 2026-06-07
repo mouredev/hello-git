@@ -4256,7 +4256,7 @@ Esto es una prueba en local
 - deivit0
 - charanco12
 - smancera-io
-- lapzdev
 - xxxfemisapexxx
 - GiovanniGGEZ
 - gitderekss
+- kingterror
