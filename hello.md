@@ -4255,4 +4255,8 @@ Esto es una prueba en local
 - wammtech
 - deivit0
 - charanco12
+- smancera-io
+- xxxfemisapexxx
+- GiovanniGGEZ
+- gitderekss
 - kingterror
