@@ -4261,4 +4261,5 @@ Esto es una prueba en local
 - gitderekss
 - kingterror
 - Amine-GoW
-- xdiamun683
+- fr0n1n
+- xcdiamun683
