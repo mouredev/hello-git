@@ -4265,4 +4265,8 @@ Esto es una prueba en local
 - xcdiamun683
 - DylanCardona
 - JavierRomLoz
-- pau_monterde
+- Rdior10
+- CarXavCP
+- nenukeato
+- NatSebas0
+- Pau-Monterde
