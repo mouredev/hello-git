@@ -4266,4 +4266,8 @@ Esto es una prueba en local
 - DylanCardona
 - JavierRomLoz
 - Rdior10
-- BorG
+- CarXavCP
+- nenukeato
+- NatSebas0
+- Pau-Monterde
+- Borjalcaide
