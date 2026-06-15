@@ -4264,4 +4264,8 @@ Esto es una prueba en local
 - fr0n1n
 - xcdiamun683
 - DylanCardona
-- Sebas
+- JavierRomLoz
+- Rdior10
+- CarXavCP
+- nenukeato
+- NatSebas0
