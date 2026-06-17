@@ -4275,3 +4275,5 @@ Esto es una prueba en local
 - palomanistal
 - klarjos
 - Angelo907
+- AlejoGuerraa
+- Juancoodev
