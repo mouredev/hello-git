@@ -4,8 +4,8 @@
 
 Esto es una prueba en local
 
-- mouredevddennnnnnnnnnnnnn
-- denisechavarria
+- mouredev
+- denichavarria30.debug
 - braismoure
 - Abiezerk
 - davidgosp
