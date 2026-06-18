@@ -4277,4 +4277,8 @@ Esto es una prueba en local
 - Angelo907
 - AlejoGuerraa
 - Juancoodev
-edisonGT07
+- YahirJavi
+- jpcofficial77
+- BRANDONYMO
+- ManuelAlvaradoL
+- EdisonGT07
