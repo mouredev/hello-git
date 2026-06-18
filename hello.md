@@ -4278,3 +4278,6 @@ Esto es una prueba en local
 - AlejoGuerraa
 - Juancoodev
 - YahirJavi
+- jpcofficial77
+- BRANDONYMO
+- ManuelAlvaradoL
