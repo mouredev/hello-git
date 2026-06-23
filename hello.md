@@ -4283,4 +4283,7 @@ Esto es una prueba en local
 - ManuelAlvaradoL
 - EdisonGT07
 - AndresCanulB
-- AnyeloDan 2026
+- tsuarezl
+- HarvDev09
+- pabloseltrl97-debug
+- Lion-Dan25
