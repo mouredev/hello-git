@@ -4283,3 +4283,4 @@ Esto es una prueba en local
 - ManuelAlvaradoL
 - EdisonGT07
 - AndresCanulB
+- tsuarezl
