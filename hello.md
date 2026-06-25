@@ -4287,4 +4287,6 @@ Esto es una prueba en local
 - HarvDev09
 - pabloseltrl97-debug
 - Lion-Dan25
-- mrchava
+- Moises5970
+- gvcdanielreyes-dev
+- mrchavaa
