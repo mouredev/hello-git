@@ -4288,3 +4288,4 @@ Esto es una prueba en local
 - pabloseltrl97-debug
 - Lion-Dan25
 - Moises5970
+- gvcdanielreyes-dev
