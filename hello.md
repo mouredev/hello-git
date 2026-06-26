@@ -4294,3 +4294,4 @@ Esto es una prueba en local
 - MichaelSrz10
 - MichaelGuerraMelendez
 - MayBere99
+- krisdaho
