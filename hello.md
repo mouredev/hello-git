@@ -5,6 +5,7 @@
 Esto es una prueba en local
 
 - mouredev
+- denichavarria30.debug
 - braismoure
 - Abiezerk
 - davidgosp
