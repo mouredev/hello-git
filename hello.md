@@ -4291,3 +4291,4 @@ Esto es una prueba en local
 - gvcdanielreyes-dev
 - mrchavaa
 - roycronos
+- MichaelSrz10
