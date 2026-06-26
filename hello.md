@@ -4292,4 +4292,6 @@ Esto es una prueba en local
 - mrchavaa
 - roycronos
 - MichaelSrz10
-- Krisdaho
+- MichaelGuerraMelendez
+- MayBere99
+- krisdaho
