@@ -4290,4 +4290,6 @@ Esto es una prueba en local
 - Moises5970
 - gvcdanielreyes-dev
 - mrchavaa
-- MichaelGuerraM
+- roycronos
+- MichaelSrz10
+- MichaelGuerraMelendez
