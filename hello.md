@@ -5,6 +5,7 @@
 Esto es una prueba en local
 
 - mouredev
+- adrianatrejo94
 - braismoure
 - Abiezerk
 - davidgosp
