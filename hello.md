@@ -4297,3 +4297,4 @@ Esto es una prueba en local
 - krisdaho
 - aalvarezi
 - Andres-JA
+- danicblanco
