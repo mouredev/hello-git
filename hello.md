@@ -4295,4 +4295,8 @@ Esto es una prueba en local
 - MichaelGuerraMelendez
 - MayBere99
 - krisdaho
+- aalvarezi
+- Andres-JA
+- danicblanco
+- MillanZ32
 - JeanPaulLopez
