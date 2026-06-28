@@ -4299,3 +4299,4 @@ Esto es una prueba en local
 - Andres-JA
 - danicblanco
 - MillanZ32
+- JeanPaulLopez
