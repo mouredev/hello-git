@@ -4301,3 +4301,4 @@ Esto es una prueba en local
 - MillanZ32
 - JeanPaulLopez
 - Yuuhy17
+- johnmc-95
