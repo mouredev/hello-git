@@ -4302,4 +4302,6 @@ Esto es una prueba en local
 - JeanPaulLopez
 - Yuuhy17
 - johnmc-95
-- Sandra_IV
+- rymi14
+- Gamerinp
+- Sandra-IV
