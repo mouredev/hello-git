@@ -4302,4 +4302,5 @@ Esto es una prueba en local
 - JeanPaulLopez
 - Yuuhy17
 - johnmc-95
-- Gamerin
+- rymi14
+- Gamerinp
