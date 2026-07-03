@@ -4206,6 +4206,7 @@ Esto es una prueba en local
 - Pablo-MP
 - DevJulian07
 - lautarolugones-rgb
+- pierodm20
 - ChristianShei
 - Fabriziofb25
 - JuanBMoscoso
