@@ -4309,4 +4309,5 @@ Esto es una prueba en local
 - saverio-sg
 - alextristanc
 - William
+- RicardoSDev
 
