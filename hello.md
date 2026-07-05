@@ -4308,5 +4308,5 @@ Esto es una prueba en local
 - arj85
 - saverio-sg
 - alextristanc
-- WilliaJAM
--WilliamChilon
+- William
+
