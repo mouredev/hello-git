@@ -4305,4 +4305,9 @@ Esto es una prueba en local
 - rymi14
 - Gamerinp
 - Sandra-IV
-- Julian_Rubiano
+- arj85
+- saverio-sg
+- alextristanc
+- WilliaJAM
+- RicardoSDev
+- jfrubian00
