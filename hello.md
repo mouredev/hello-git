@@ -4206,6 +4206,7 @@ Esto es una prueba en local
 - Pablo-MP
 - DevJulian07
 - lautarolugones-rgb
+- pierodm20
 - ChristianShei
 - Fabriziofb25
 - JuanBMoscoso
@@ -4310,4 +4311,5 @@ Esto es una prueba en local
 - alextristanc
 - William
 - RicardoSDev
-
+- jfrubian00
+- Wally22-ship-it
