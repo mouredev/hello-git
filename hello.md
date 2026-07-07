@@ -4315,3 +4315,4 @@ Esto es una prueba en local
 - Wally22-ship-it
 - 786n45zpzn-cpu
 - IsmelGabriel
+- jean-dev27
