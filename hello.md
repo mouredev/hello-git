@@ -4316,3 +4316,4 @@ Esto es una prueba en local
 - 786n45zpzn-cpu
 - IsmelGabriel
 - jean-dev27
+- Curup333
