@@ -4318,4 +4318,6 @@ Esto es una prueba en local
 - jean-dev27
 - Curup333
 - jvanhub
-- Emitola
+- PaolaRocha
+- SebastianHernandezGLZ
+- Zetogan
