@@ -4322,3 +4322,7 @@ Esto es una prueba en local
 - SebastianHernandezGLZ
 - Zetogan
 - Diegosantosgz
+- Luiguihonda12
+- RenzoAlessandro
+- sebascalo
+- pgalb
