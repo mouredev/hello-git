@@ -4321,4 +4321,9 @@ Esto es una prueba en local
 - PaolaRocha
 - SebastianHernandezGLZ
 - Zetogan
-- Krike0910
+- Diegosantosgz
+- Luiguihonda12
+- RenzoAlessandro
+- sebascalo
+- pgalb
+- feliarca99-sketch
