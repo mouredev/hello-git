@@ -4329,3 +4329,4 @@ Esto es una prueba en local
 - feliarca99-sketch
 - joelcmp
 - NitramGitHubXD
+- diegx03
