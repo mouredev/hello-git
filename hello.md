@@ -4328,5 +4328,6 @@ Esto es una prueba en local
 - pgalb
 - feliarca99-sketch
 - joelcmp
-- DenPlus007
 - NitramGitHubXD
+- duranpow
+- DenPlus007
