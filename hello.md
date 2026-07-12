@@ -4329,4 +4329,5 @@ Esto es una prueba en local
 - feliarca99-sketch
 - joelcmp
 - NitramGitHubXD
+- duranpow
 - diegx03
