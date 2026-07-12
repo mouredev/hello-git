@@ -4331,3 +4331,4 @@ Esto es una prueba en local
 - NitramGitHubXD
 - duranpow
 - DenPlus007
+- diegx03
