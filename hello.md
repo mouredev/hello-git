@@ -4330,4 +4330,5 @@ Esto es una prueba en local
 - joelcmp
 - NitramGitHubXD
 - duranpow
+- DenPlus007
 - diegx03
