@@ -4340,3 +4340,4 @@ Esto es una prueba en local
 - ErratiT
 - Ikn21
 - CristianFlorez9
+- Jaimegyanes
