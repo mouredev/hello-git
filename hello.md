@@ -4348,3 +4348,4 @@ Esto es una prueba en local
 - iviPitonsio
 - Jenkity122
 - LionnyRodriguez
+- jhonoreore
