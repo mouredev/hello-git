@@ -6,7 +6,6 @@ Esto es una prueba en local
 
 - mouredev
 - braismoure
-- LionnyRodriguez
 - Abiezerk
 - davidgosp
 - agustinlopezdev
@@ -4344,3 +4343,4 @@ Esto es una prueba en local
 - daniv
 - jaimegarciayanes-creator
 - NachoOFC
+- LionnyRodriguez
