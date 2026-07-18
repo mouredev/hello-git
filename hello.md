@@ -4343,4 +4343,8 @@ Esto es una prueba en local
 - daniv
 - jaimegarciayanes-creator
 - NachoOFC
+- VictorSerpaXP
+- nleonh21
+- iviPitonsio
+- Jenkity122
 - LionnyRodriguez
