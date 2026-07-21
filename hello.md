@@ -4356,3 +4356,4 @@ Esto es una prueba en local
 - javiescobar-dev
 - ChristianBrenesG
 - esthefanym05
+- Tanjiro101
