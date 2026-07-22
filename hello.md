@@ -4358,4 +4358,7 @@ Esto es una prueba en local
 - esthefanym05
 - Tanjiro101
 - MariaPaulinas
-- GabrielAlvarez1
+- hoaquin-cpu
+- SYSTEM-OTMX
+- LucioBrandoni
+- GaboAlvarez1
