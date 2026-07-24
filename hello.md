@@ -4363,4 +4363,6 @@ Esto es una prueba en local
 - LucioBrandoni
 - GaboAlvarez1
 - kraTosGott
-- Lautaro Chanampa el sanjua
+- Benja0501
+- david-101-py
+- lauchanampa
