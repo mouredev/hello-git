@@ -4366,4 +4366,9 @@ Esto es una prueba en local
 - Benja0501
 - david-101-py
 - lauchanampa
-- Thray
+- Canmor115
+- YeudielRojas
+- CiroR28
+- antiaprg
+- especheq
+- Maidana-Lautaro
