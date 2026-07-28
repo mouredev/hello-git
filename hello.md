@@ -4377,3 +4377,4 @@ Esto es una prueba en local
 - victor2691
 - arejmaci
 - jrgsanta
+- TesterJonas
