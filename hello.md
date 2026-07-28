@@ -460,7 +460,6 @@ Esto es una prueba en local
 - Manuhob
 - kevinsr09
 - GiovanniJacinto
-- IrvingGFZ
 - erigol
 - juanestrella2098
 - FdoReyes
@@ -4378,3 +4377,4 @@ Esto es una prueba en local
 - victor2691
 - arejmaci
 - TesterJonas
+- IrvingGFZ
