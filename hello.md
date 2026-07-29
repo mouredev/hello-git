@@ -4376,6 +4376,7 @@ Esto es una prueba en local
 - netaris
 - victor2691
 - arejmaci
+- jrgsanta
 - TesterJonas
 - guillegmez
 - IrvingGFZ
