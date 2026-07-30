@@ -4380,4 +4380,6 @@ Esto es una prueba en local
 - TesterJonas
 - guillegmez
 - IrvingGFZ
-- Giottos
+- miguelpacov29
+- zhbk12
+- Giottos11
