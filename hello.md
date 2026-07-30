@@ -4380,4 +4380,5 @@ Esto es una prueba en local
 - TesterJonas
 - guillegmez
 - IrvingGFZ
-- zandrovc
+- miguelpacov29
+- zhbk12
