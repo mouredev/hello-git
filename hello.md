@@ -4382,3 +4382,4 @@ Esto es una prueba en local
 - IrvingGFZ
 - miguelpacov29
 - zhbk12
+- Giottos11
