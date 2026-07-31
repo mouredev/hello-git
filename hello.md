@@ -4385,4 +4385,4 @@ Esto es una prueba en local
 - Giottos11
 - jmarquez200688
 - mmap-ui
-- holaalejandrofintech-byte
+- holaalejandrofintech-byteExcelaSmart
