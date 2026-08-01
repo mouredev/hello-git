@@ -4385,4 +4385,7 @@ Esto es una prueba en local
 - Giottos11
 - jmarquez200688
 - mmap-ui
-- holaalejandrofintech-byteExcelaSmart
+- holaalejandrofintech-byte
+- AlexK-AG
+- pedromr11
+- ExcelaSmart
