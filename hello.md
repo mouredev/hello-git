@@ -4396,4 +4396,6 @@ Esto es una prueba en local
 - lucassantisa
 - javichu80
 - miguel-dsm
-- migueljubes
+- Danielsao03
+- GeraLO1997
+- migueljubes-cpu
