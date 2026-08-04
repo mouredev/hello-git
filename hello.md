@@ -4400,3 +4400,4 @@ Esto es una prueba en local
 - Danielsao03
 - GeraLO1997
 - migueljubes-cpu
+- Thattus
