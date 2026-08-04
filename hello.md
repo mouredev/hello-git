@@ -4397,3 +4397,4 @@ Esto es una prueba en local
 - javichu80
 - miguel-dsm
 - Danielsao03
+- GeraLO1997
