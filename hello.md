@@ -4403,3 +4403,4 @@ Esto es una prueba en local
 - qgtere
 - Thattus
 - ThattusDev
+- OscarSalc
