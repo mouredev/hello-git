@@ -4400,6 +4400,7 @@ Esto es una prueba en local
 - Danielsao03
 - GeraLO1997
 - migueljubes-cpu
+- Juangit44
 - qgtere
 - Thattus
 - ThattusDev
