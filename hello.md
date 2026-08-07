@@ -4404,4 +4404,5 @@ Esto es una prueba en local
 - Thattus
 - ThattusDev
 - jhairsojo-bot
-- OscarSalc
+- VILLEK06
+- OscarSalasC
