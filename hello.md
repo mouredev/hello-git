@@ -4405,3 +4405,4 @@ Esto es una prueba en local
 - ThattusDev
 - jhairsojo-bot
 - VILLEK06
+- OscarSalasC
