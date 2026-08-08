@@ -4407,3 +4407,4 @@ Esto es una prueba en local
 - jhairsojo-bot
 - VILLEK06
 - OscarSalasC
+- Bryan-AF
