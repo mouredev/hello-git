@@ -4409,3 +4409,4 @@ Esto es una prueba en local
 - OscarSalasC
 - Bryan-AF
 - Jeancana
+- ErickMoreiraVinueza
