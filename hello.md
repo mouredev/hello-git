@@ -4410,3 +4410,4 @@ Esto es una prueba en local
 - Bryan-AF
 - Jeancana
 - ErickMoreiraVinueza
+- malogo5
