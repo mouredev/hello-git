@@ -4411,3 +4411,8 @@ Esto es una prueba en local
 - Bryan-AF
 - Jeancana
 - Jerdzo
+- ErickMoreiraVinueza
+- malogo5
+- pvizosop13
+- MateAristizabal
+- darlink-aguilar
