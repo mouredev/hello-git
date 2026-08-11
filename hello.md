@@ -4409,9 +4409,10 @@ Esto es una prueba en local
 - OscarSalasC
 - Bryan-AF
 - Jeancana
-- Jerdzo
 - ErickMoreiraVinueza
 - malogo5
 - pvizosop13
 - MateAristizabal
 - darlink-aguilar
+- ZnoxSmoke
+- Jerdzo
