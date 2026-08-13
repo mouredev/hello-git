@@ -4417,4 +4417,7 @@ Esto es una prueba en local
 - ZnoxSmoke
 - Jerdzo
 - SayyidSM
-- Edgvr
+- Klavierz
+- SamitoSky13
+- jorgebhremoto-hue
+- edgvrz
