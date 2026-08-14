@@ -4422,3 +4422,4 @@ Esto es una prueba en local
 - jorgebhremoto-hue
 - edgvrz
 - Sakase01
+- yerayy11
