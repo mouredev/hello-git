@@ -6,7 +6,6 @@ Esto es una prueba en local
 
 - mouredev
 - braismoure
-- Menuel-Mendoza
 - Abiezerk
 - davidgosp
 - agustinlopezdev
@@ -4430,3 +4429,4 @@ Esto es una prueba en local
 - JohnV-1
 - AlejoR147
 - danilo1400
+- Menuel-Mendoza
