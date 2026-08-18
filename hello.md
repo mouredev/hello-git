@@ -4429,3 +4429,4 @@ Esto es una prueba en local
 - JohnV-1
 - AlejoR147
 - danilo1400
+- Jeftbook(Juanchi), Agosto 2026
