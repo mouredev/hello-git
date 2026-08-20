@@ -4429,4 +4429,12 @@ Esto es una prueba en local
 - JohnV-1
 - AlejoR147
 - danilo1400
+- zirob
+- Sappy00
+- Jeftbook
+- Manuel-Mendoza
+- migue423
+- Sam-Cloud-89
+- JVAN242005
+- angellogc
 - paolacampos250620-cmd
