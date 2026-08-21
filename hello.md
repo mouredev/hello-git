@@ -4439,3 +4439,4 @@ Esto es una prueba en local
 - angellogc
 - jose231212
 - Alopdev
+- paolacampos250620-cmd
