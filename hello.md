@@ -23,6 +23,7 @@ Esto es una prueba en local
 - r35e7
 - borazuwarah
 - DAK0H
+- Franketo317
 - ciltocruz
 - twipoc
 - marianpg12
