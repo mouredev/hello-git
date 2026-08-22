@@ -4441,3 +4441,4 @@ Esto es una prueba en local
 - Alopdev
 - paolacampos250620-cmd
 - Chiquero
+- PelayoGF
