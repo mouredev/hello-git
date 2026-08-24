@@ -4446,4 +4446,5 @@ Esto es una prueba en local
 - xenlor
 - Saul-Alvarado
 - RojasPetit
-- Juan_Garcia
+- Migue-mr
+- JSebastian333
