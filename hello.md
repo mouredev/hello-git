@@ -4440,4 +4440,11 @@ Esto es una prueba en local
 - jose231212
 - Alopdev
 - paolacampos250620-cmd
-- inghernandezvelisl :D
+- Chiquero
+- PelayoGF
+- louseg01
+- xenlor
+- Saul-Alvarado
+- RojasPetit
+- Migue-mr
+- inghernandezvelisl-arch
