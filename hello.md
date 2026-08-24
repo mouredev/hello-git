@@ -4448,3 +4448,4 @@ Esto es una prueba en local
 - RojasPetit
 - Migue-mr
 - JSebastian333
+- johannjz
