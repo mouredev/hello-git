@@ -4452,3 +4452,4 @@ Esto es una prueba en local
 - johannjz
 - AntonioGagoFemxa
 - TheCubick
+- inghernandezvelisl-arch
