@@ -4456,4 +4456,10 @@ Esto es una prueba en local
 - Gaston1921
 - amossm-dev
 - ArantzaLB
+<<<<<<< HEAD
 - ResMor17
+=======
+- Resmor17
+- moreno-manuel
+- Ndetomas
+>>>>>>> moure/main
