@@ -4457,3 +4457,4 @@ Esto es una prueba en local
 - amossm-dev
 - ArantzaLB
 - ResMor17
+- ResMor17 (Repaso xD)
