@@ -4459,4 +4459,7 @@ Esto es una prueba en local
 - Resmor17
 - moreno-manuel
 - Ndetomas
-- Trwhite
+- aldors
+- Drayqt
+- albertocarrascocarrillo
+- Trwhite777
