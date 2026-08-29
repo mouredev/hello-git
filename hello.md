@@ -4457,4 +4457,9 @@ Esto es una prueba en local
 - amossm-dev
 - ArantzaLB
 - Resmor17
+- moreno-manuel
+- Ndetomas
+- aldors
+- Drayqt
+- albertocarrascocarrillo
 - JorgeQuintero00
