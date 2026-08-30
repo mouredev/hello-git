@@ -6,7 +6,6 @@ Esto es una prueba en local
 
 - mouredev
 - braismoure
-- Edisxz
 - Abiezerk
 - davidgosp
 - agustinlopezdev
@@ -4465,3 +4464,4 @@ Esto es una prueba en local
 - albertocarrascocarrillo
 - eaic767-hub
 - JorgeQuintero00
+- Edisxz
