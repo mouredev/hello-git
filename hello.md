@@ -4468,3 +4468,4 @@ Esto es una prueba en local
 - CriZDeVed
 - Matias2698
 - juliflorezm
+- rosanawm-bot
