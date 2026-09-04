@@ -4470,4 +4470,6 @@ Esto es una prueba en local
 - juliflorezm
 - rosanawm-bot
 - Ob3lixzDev
--jhairbarreto18ee-droid
+- slazo-ctrl
+- OmiMercedes
+- jhairbarreto18ee-droid
