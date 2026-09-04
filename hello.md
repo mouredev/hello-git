@@ -4468,4 +4468,7 @@ Esto es una prueba en local
 - CriZDeVed
 - Matias2698
 - juliflorezm
-- Omi Mercedes
+- rosanawm-bot
+- Ob3lixzDev
+- slazo-ctrl
+- OmiMercedes
