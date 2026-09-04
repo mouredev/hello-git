@@ -4470,3 +4470,4 @@ Esto es una prueba en local
 - juliflorezm
 - rosanawm-bot
 - Ob3lixzDev
+- slazo-ctrl
