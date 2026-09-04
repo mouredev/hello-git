@@ -4,7 +4,6 @@
 
 - mouredev
 - braismoure
-- jlondono97
 - Abiezerk
 - agustinlopezdev
 - geroschmidt
@@ -2039,3 +2038,4 @@
 - Estebannjsr
 - ferranbarbara
 - CevicheMixto23
+- jlondono97 
