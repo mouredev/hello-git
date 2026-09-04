@@ -4472,3 +4472,4 @@ Esto es una prueba en local
 - Ob3lixzDev
 - slazo-ctrl
 - OmiMercedes
+- jhairbarreto18ee-droid
