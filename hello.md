@@ -4473,4 +4473,5 @@ Esto es una prueba en local
 - slazo-ctrl
 - OmiMercedes
 - jhairbarreto18ee-droid
-- samipirela-creator
+- jlondono97
+- samipirela26-creator
