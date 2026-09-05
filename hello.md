@@ -4474,4 +4474,5 @@ Esto es una prueba en local
 - slazo-ctrl
 - OmiMercedes
 - jhairbarreto18ee-droid
-- Barbaradani
+- jlondono97
+- Barbydani
