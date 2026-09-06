@@ -4475,3 +4475,4 @@ Esto es una prueba en local
 - jhairbarreto18ee-droid
 - jlondono97
 - lfhernandez23
+- laffuedev
