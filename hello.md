@@ -15,7 +15,7 @@ Esto es una prueba en local
 - Alexis033
 - LilyMilano
 - soyaldobeltran
-- franpistel
+- franpistelli
 - Hugovrc
 - ZielDev
 - cesarAndramart
@@ -4474,5 +4474,5 @@ Esto es una prueba en local
 - OmiMercedes
 - jhairbarreto18ee-droid
 - jlondono97-
-- patricia
+- pmendietavalverde-ai
 
