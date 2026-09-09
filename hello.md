@@ -4484,3 +4484,4 @@ Esto es una prueba en local
 - CarlosAldana96
 - LuisLugo-Laboratory
 - matito22
+- jayra
