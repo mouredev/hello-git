@@ -4485,4 +4485,5 @@ Esto es una prueba en local
 - LuisLugo-Laboratory
 - matito22
 - jayra
+- juan-drg
 - pmendietavalverde-ai
