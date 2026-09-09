@@ -4482,4 +4482,7 @@ Esto es una prueba en local
 - GEZOKx
 - marcfd-bit
 - CarlosAldana96
-- drg-juan
+- LuisLugo-Laboratory
+- matito22
+- jayra
+- juan-drg
