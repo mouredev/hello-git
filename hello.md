@@ -4473,6 +4473,16 @@ Esto es una prueba en local
 - slazo-ctrl
 - OmiMercedes
 - jhairbarreto18ee-droid
-- jlondono97-
+- jlondono97
+- lfhernandez23
+- laffuedev
+- raulmolina-dev
+- jjimeno-tlf
+- samipirela26-creator
+- GEZOKx
+- marcfd-bit
+- CarlosAldana96
+- LuisLugo-Laboratory
+- matito22
+- jayra
 - pmendietavalverde-ai
-
