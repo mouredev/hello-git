@@ -4487,4 +4487,5 @@ Esto es una prueba en local
 - jayra
 - juan-drg
 - pmendietavalverde-ai
-- EAvalos.dev
+- alemax019
+- EAvalosdev
