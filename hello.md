@@ -4492,3 +4492,4 @@ Esto es una prueba en local
 - alexisRivaa
 - SergioAJL
 - Amir-Gramajo
+- luciolacorte
