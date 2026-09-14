@@ -4490,4 +4490,7 @@ Esto es una prueba en local
 - alemax019
 - EAvalosdev
 - alexisRivaa
-- 09cpsergio
+- SergioAJL
+- Amir-Gramajo
+- luciolacorte
+- 09cpsergio-lgtm
