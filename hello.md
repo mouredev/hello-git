@@ -4489,4 +4489,13 @@ Esto es una prueba en local
 - pmendietavalverde-ai
 - alemax019
 - EAvalosdev
+- alexisRivaa
+- SergioAJL
+- Amir-Gramajo
+- luciolacorte
+- 09cpsergio-lgtm
+- dianamgil
+- Ballester006
+- Erictiziano
+- rhugo748-dev
 - EnzoBV
