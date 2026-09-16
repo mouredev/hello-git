@@ -4497,3 +4497,4 @@ Esto es una prueba en local
 - dianamgil
 - Ballester006
 - Erictiziano
+- rhugo748-dev
