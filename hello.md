@@ -13,6 +13,7 @@ Esto es una prueba en local
 - javicb
 - erickvr2k
 - Alexis033
+- materiabits-dot
 - LilyMilano
 - soyaldobeltran
 - franpistelli
