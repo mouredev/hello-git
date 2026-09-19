@@ -4500,3 +4500,4 @@ Esto es una prueba en local
 - rhugo748-dev
 - juanesteban240605-creator
 - EnzoBV
+- FabricioPadilla
