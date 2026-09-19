@@ -4470,7 +4470,7 @@ Esto es una prueba en local
 - juliflorezm
 - rosanawm-bot
 - Ob3lixzDev
-- slazo-ctrl
+- slazo-ctrl        
 - OmiMercedes
 - jhairbarreto18ee-droid
 - jlondono97
@@ -4501,3 +4501,4 @@ Esto es una prueba en local
 - juanesteban240605-creator
 - EnzoBV
 - FabricioPadilla
+- diegotrocoli9
