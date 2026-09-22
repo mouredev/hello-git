@@ -4509,3 +4509,4 @@ Esto es una prueba en local
 - jzhingre
 - Confusio885
 - NoeKingsDev
+- juanuchimaq
