@@ -4511,3 +4511,4 @@ Esto es una prueba en local
 - NoeKingsDev
 - juanuchimaq
 - diegotrocoli9
+- javierjareor
