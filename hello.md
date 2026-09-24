@@ -4512,3 +4512,4 @@ Esto es una prueba en local
 - juanuchimaq
 - diegotrocoli9
 - javierjareor
+- tftero
