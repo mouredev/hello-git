@@ -4517,4 +4517,5 @@ Esto es una prueba en local
 - visualpc
 - mariadoloressss
 - FranAnguloDev
-- MarcosEscrivá
+- r-rojo-lopez
+- MarcosEscriva
