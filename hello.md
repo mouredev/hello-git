@@ -6,7 +6,6 @@ Esto es una prueba en local
 
 - mouredev
 - braismoure
-- JorgeRascon-sin
 - Abiezerk
 - davidgosp
 - agustinlopezdev
@@ -4517,5 +4516,6 @@ Esto es una prueba en local
 - OliverVillogas
 - visualpc
 - mariadoloressss
-- FranAnguloDev
+- FranAnguloDev  
 - r-rojo-lopez
+- JorgeRascon-sin
