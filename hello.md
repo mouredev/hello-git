@@ -4516,6 +4516,7 @@ Esto es una prueba en local
 - OliverVillogas
 - visualpc
 - mariadoloressss
-- FranAnguloDev  
+- FranAnguloDev
 - r-rojo-lopez
+- Serohe25
 - JorgeRascon-sin
