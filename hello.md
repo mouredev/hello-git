@@ -4524,4 +4524,6 @@ Esto es una prueba en local
 - MarcosEscrivaJimenez
 - JorgeRascon-sin
 - JoseDiazRguez
-- paula_zenit
+- adriguezv13-dev
+- Katia-mmo
+- PaulaMartinezCabanas
