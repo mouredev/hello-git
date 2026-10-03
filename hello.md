@@ -4527,4 +4527,6 @@ Esto es una prueba en local
 - adriguezv13-dev
 - Katia-mmo
 - PaulaMartinezCabanas
-- ManuelFlores
+- anhuza
+- Anderson18xd
+- ManuelFlores229
