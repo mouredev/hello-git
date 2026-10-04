@@ -8,7 +8,6 @@ Esto es una prueba en local
 - braismoure
 - Abiezerk
 - davidgosp
-- qheni28
 - agustinlopezdev
 - geroschmidt
 - javicb
@@ -4530,3 +4529,8 @@ Esto es una prueba en local
 - PaulaMartinezCabanas
 - anhuza
 - Anderson18xd
+- DASC098
+- dasherrandom
+- ManuelFlores229
+- XRuizhi
+- qheni28-hub
