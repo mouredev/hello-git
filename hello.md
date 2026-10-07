@@ -4539,3 +4539,4 @@ Esto es una prueba en local
 - polux2004
 - Miryam15
 - BorrasMiguel
+- juanpy94
