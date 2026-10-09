@@ -4544,4 +4544,7 @@ Esto es una prueba en local
 - yordgnu
 - DevPawn
 - mmarfer
-- Lissie
+- bluethunder003
+- PabPerezP
+- AlejandroLindo
+- Lissie-Castillo
