@@ -4547,4 +4547,7 @@ Esto es una prueba en local
 - bluethunder003
 - PabPerezP
 - AlejandroLindo
+- Carlox101
+- Lissie-Castillo
+- Gustavcodiki
 - Alfre-cmd
