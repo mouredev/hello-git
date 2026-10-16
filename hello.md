@@ -4559,3 +4559,4 @@ Esto es una prueba en local
 - Rolando-Mamani-Sarabia
 - CotPowers
 - sfchirila
+- diegosym
