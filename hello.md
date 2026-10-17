@@ -4557,4 +4557,10 @@ Esto es una prueba en local
 - juandavidalcaraz-bot
 - Jave32142
 - Rolando-Mamani-Sarabia
-- ErinMorales79GT
+- CotPowers
+- sfchirila
+- diegosym
+- victorgrivera000
+- IngMartin27
+- alexxgonzalezz
+- ErinMorales79
