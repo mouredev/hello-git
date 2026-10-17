@@ -4,8 +4,11 @@
 
 Esto es una prueba en local
 
+
 - mouredev
 - braismoure
+
+- Luis Sautto
 - Abiezerk
 - davidgosp
 - agustinlopezdev
