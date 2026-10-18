@@ -7,8 +7,6 @@ Esto es una prueba en local
 
 - mouredev
 - braismoure
-
-- Luis Sautto
 - Abiezerk
 - davidgosp
 - agustinlopezdev
@@ -4566,3 +4564,4 @@ Esto es una prueba en local
 - victorgrivera000
 - IngMartin27
 - alexxgonzalezz
+- Luis Sautto
