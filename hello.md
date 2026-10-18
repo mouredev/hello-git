@@ -4565,3 +4565,6 @@ Esto es una prueba en local
 - IngMartin27
 - alexxgonzalezz
 - Luis Sautto
+- Nelson-Torres-A
+- genishernandez
+- ErinMorales79
