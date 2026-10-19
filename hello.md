@@ -4566,5 +4566,6 @@ Esto es una prueba en local
 - Nelson-Torres-A
 - genishernandez
 - ErinMorales79
+- johantraconiz
+- fantsalweb
 - CamilaPedocchi
-
