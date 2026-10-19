@@ -4569,4 +4569,4 @@ Esto es una prueba en local
 - johantraconiz
 - fantsalweb
 - Dylan-Lucumi
-- Karol Lopez
+- karolnavarro1127
