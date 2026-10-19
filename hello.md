@@ -4566,4 +4566,6 @@ Esto es una prueba en local
 - Nelson-Torres-A
 - genishernandez
 - ErinMorales79
--Dylan-Lucumi
+- johantraconiz
+- fantsalweb
+- Dylan-Lucumi
