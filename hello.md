@@ -4572,3 +4572,4 @@ Esto es una prueba en local
 - karolnavarro1127
 - docamposB
 - CamilaPedocchi
+- oscareduardogironcorrales-lang
