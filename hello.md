@@ -4572,4 +4572,8 @@ Esto es una prueba en local
 - karolnavarro1127
 - docamposB
 - CamilaPedocchi
-- c4br3
+- oscareduardogironcorrales-lang
+- richrdos
+- cctron
+- Georggee
+- devcabre
