@@ -4573,3 +4573,4 @@ Esto es una prueba en local
 - docamposB
 - CamilaPedocchi
 - oscareduardogironcorrales-lang
+- richrdos
