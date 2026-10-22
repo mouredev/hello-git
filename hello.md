@@ -4576,4 +4576,7 @@ Esto es una prueba en local
 - richrdos
 - cctron
 - Georggee
-- Manuel_TP
+- JesusARayo
+- luiseduardo-etcc
+- devcabre
+- ManuelTP19
