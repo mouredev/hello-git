@@ -4581,3 +4581,4 @@ Esto es una prueba en local
 - devcabre
 - Paulx885
 - Chepe-sp
+- ManuelTP19
