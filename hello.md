@@ -4586,3 +4586,4 @@ Esto es una prueba en local
 - Gael-Autom
 - dlampatricio
 - Ant0niDev
+- DuarYee
