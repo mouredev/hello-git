@@ -4587,4 +4587,5 @@ Esto es una prueba en local
 - dlampatricio
 - Ant0niDev
 - DuarYee
-- camilojosecuadrado
+- camilojosecuadrad
+- AntonioPG
