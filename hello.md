@@ -4588,4 +4588,6 @@ Esto es una prueba en local
 - Ant0niDev
 - DuarYee
 - camilojosecuadrado
-- NesSa08
+- Junefes
+- antoniopaezgomez-prog
+- NEsSa-08
