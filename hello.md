@@ -4594,3 +4594,4 @@ Esto es una prueba en local
 - NEsSa-08
 - Santigp026
 - AleAbalos
+- Garchomp-03
