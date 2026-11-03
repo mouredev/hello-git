@@ -4597,4 +4597,5 @@ Esto es una prueba en local
 - Garchomp-03
 - nimzay1106
 - julimun-sys
-- LordMarlon1
+- Joeyy99
+- marlonfernandezpaz80-cpu
