@@ -4603,4 +4603,6 @@ Esto es una prueba en local
 - KC-programer
 - mrs666
 - RM-dev28
-- diegomv17
+- richy83
+- Joel-OM29
+- diegovm17
