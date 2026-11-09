@@ -4605,3 +4605,4 @@ Esto es una prueba en local
 - RM-dev28
 - richy83
 - Joel-OM29
+- diegovm17
