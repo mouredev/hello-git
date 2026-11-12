@@ -4608,4 +4608,7 @@ Esto es una prueba en local
 - diegovm17
 - JaviG6621
 - SERIVAN19
-- Knight12
+- alejandromartinez1150597
+- Robaflores
+- ironbonx
+- jair121996-lgtm
