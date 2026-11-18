@@ -4620,3 +4620,4 @@ Esto es una prueba en local
 - Elhdrond
 - eg3972840-debug
 - Christian2110
+- dplaza2
