@@ -4622,3 +4622,4 @@ Esto es una prueba en local
 - Christian2110
 - dplaza2
 - GadGarciaa
+- lucinalaurenspadovano
