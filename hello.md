@@ -4625,3 +4625,4 @@ Esto es una prueba en local
 - lucinalaurenspadovano
 - Leobalq-GH
 - jonatanalcazar-92
+- diegomcr16
