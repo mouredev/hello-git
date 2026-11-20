@@ -4621,4 +4621,7 @@ Esto es una prueba en local
 - eg3972840-debug
 - Christian2110
 - dplaza2
+- GadGarciaa
+- lucinalaurenspadovano
+- Leobalq-GH
 - diegomcr16
