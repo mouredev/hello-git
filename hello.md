@@ -4629,3 +4629,4 @@ Esto es una prueba en local
 - Kernel151
 - Fertnf
 - AaronGM8
+- daniel-paredes-tech
